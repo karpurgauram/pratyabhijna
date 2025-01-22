@@ -16,7 +16,7 @@
 
 | “अवरोह-क्रम” (avaroh-krama)        | “आरोह-क्रम” (āroh-krama)           |
 | ---------------------------------- | ---------------------------------- |
-| **\| ° śiva 》 ° śakti 》 ° aṇu \|** | **\| ° śiva 》 ° śakti 》 ° aṇu \|** |
+| **\| ° śiva 》 ° śakti 》 ° aṇu \|** | **\| ° aṇu 》 ° śakti 》 ° śiva \|** |
 
 **this divine interplay of descent** and ascent, as **my permanent gurudeva swāmi lakṣamaṇajū mahārāj** did expound, **is the līlā (drama)—the cosmic play of existence**. `it is meaningful only when the movements of descent and ascent are in harmonious balance`. **without the capacity for both, there is no true drama. thus, the recognized soul is distinguished by their mastery of both movements, descending and ascending at will, embodying the state of absolute freedom, which is the very essence of trikaśāsan.**
 
