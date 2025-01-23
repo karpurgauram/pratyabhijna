@@ -2,7 +2,7 @@
 {"title":"dictionary","publish":true,"path":"dictionary.md","permalink":"/dictionary/","PassFrontmatter":true}
 ---
 
-Dictionary
+<span class="center-text">`•~• dictionary •~•`</span>
 
 - first thing
 - second thing
