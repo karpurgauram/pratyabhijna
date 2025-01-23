@@ -3,6 +3,7 @@
 ---
 
 
+
 ## ]■[ "Pratyabhijna System." ]■[
 
 ⎯ The word **pratyabhijna** means “**to spontaneously once again recognize and realize your Self.**” Here you have only to realize, you do not have to practice. There are no upayas (means) in the Pratyabhijna system. You must simply recognize **who you are.** Wherever you are, whether you are at the level of Supreme Being, at the level of yoga, or at that level which is disgusting, you can recognize your own Nature then and there without moving anywhere or doing anything.
