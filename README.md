@@ -1,6 +1,6 @@
-Karpur Gauram Website
+# Karpurgauram Website
 
-Welcome to the official repository for www.karpurgauram.xyz, a spiritual and philosophical website dedicated to the profound teachings of Trika Śaivism, Vedānta, and related traditions. This repository contains the source code and assets for the website.
+Welcome to the official repository for www.karpurgauram.xyz, a spiritual and philosophical website dedicated to the profound teachings of Trika Śaivism and related traditions. This repository contains the source code and assets for the website.
 
 Features
 
@@ -89,4 +89,4 @@ For queries or feedback, please reach out at `karpurgauram@yahoo.com`
 
 ---
 
-Visit the live site: www.karpurgauram.xyz
+## Visit the live site: www.karpurgauram.xyz
