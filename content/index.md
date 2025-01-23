@@ -5,6 +5,7 @@
 
 
 
+
 <div class="center-header">
 <a href="."> <button class="btn-14" type="button" >[home]</button></a> <a href="/scriptures"><button class="btn-14" type="button"> [scriptures]</button></a> <a href="tags/articles"><button class="btn-14" type="button">[library]</button></a> <a href="/videos"><button class="btn-14" type="button"> [videos]</button></a> <a href="/glossary"><button class="btn-14" type="button">[glossary]</button></a> <a href="/dictionary"> <button class="btn-14" type="button">[dictionary]</button></a> <a href="/about us"><button class="btn-14" type="button"> [about us]</button></a>
 
@@ -60,7 +61,6 @@ let karpurgauram be thy guiding lantern; thy muse; & thy companion upon this sac
 
 <span class="center-text">`ॐ नमः चिद्वपुषे॥`</span>
 
- `latest articles`
- - [[Trika/trika is everythinng\|Trika/trika is everythinng]]
- - [[Trikashasan/trikashasana viewpoint/The Aparātāntrik Analysis Of Vedā-s\|The Aparātāntrik Analysis Of Vedā-s]]
- - [[Introduction/trikashasan/trikashasan introduction\|trikashasan introduction]]
+ `what's new`
+- [[videos\|videos]]
+- [[Trika/trika is everything\|trika is everything]]
