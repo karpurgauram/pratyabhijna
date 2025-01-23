@@ -1,18 +1,92 @@
-# Quartz v4
+Karpur Gauram Website
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Welcome to the official repository for www.karpurgauram.xyz, a spiritual and philosophical website dedicated to the profound teachings of Trika Śaivism, Vedānta, and related traditions. This repository contains the source code and assets for the website.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Features
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Informational Content: In-depth articles and resources on Trika Śaivism, Sanskrit scriptures, and spiritual practices.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Responsive Design: Optimized for seamless viewing on desktops, tablets, and mobile devices.
 
-## Sponsors
+Dynamic Navigation: User-friendly interface for easy exploration of topics.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Multimedia Integration: Includes images, videos, and interactive elements to enrich user experience.
+
+
+Technologies Used
+
+Frontend: HTML5, CSS3, JavaScript
+
+Backend: Node.js 
+
+Hosting: Deployed on quartz.
+
+
+Local Setup
+
+Follow these steps to run the project locally:
+
+1. Clone the repository:
+
+git clone
+
+
+2. Navigate to the project directory:
+
+cd karpurgauram.xyz
+
+
+3. Install dependencies:
+
+npm install
+
+
+4. Start the development server:
+
+npm start
+
+
+5. Open your browser and navigate to:
+
+http://localhost:3000
+
+
+
+Contributing
+
+We welcome contributions! If you'd like to improve the website or add new features:
+
+1. Fork the repository.
+
+
+2. Create a feature branch:
+
+git checkout -b feature/your-feature-name
+
+
+3. Commit your changes:
+
+git commit -m "Add your message here"
+
+
+4. Push to the branch:
+
+git push origin feature/your-feature-name
+
+
+5. Open a Pull Request.
+
+
+
+License
+
+This project is licensed under the MIT License.
+
+Contact
+
+For queries or feedback, please reach out at `karpurgauram@yahoo.com`
+
+
+---
+
+Visit the live site: www.karpurgauram.xyz
