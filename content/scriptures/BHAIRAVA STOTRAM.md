@@ -153,7 +153,8 @@ translation:— O compassionate Lord, moved by the radiance of Thy glory and for
 
 This Hymn of Praise, recounting the nine ever-fresh verses, is now brought to its end.
 
-**Translated by my guru Swāmiji.**
-**Edited by Nagkumar.**
-listen from swamiji on [youtube](https://youtu.be/fWto9etrwBU).
+**Translation by my guru Swāmiji; Edited by Nagkumar.**
+
+listen from Swāmiji on [youtube](https://youtu.be/fWto9etrwBU).
+
 listen and learn to sing from Smt. [Ashwini Bhide Deshpande](https://youtu.be/O947L44aUYE).
