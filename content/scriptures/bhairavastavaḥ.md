@@ -6,6 +6,7 @@
 
 — `MAHĀMAHEŚVARĀĊĀRYA ABHINAVAGUPTAḤ`
 
+</div>
 
 <span class="center-text">`व्याप्तचराचरभावविशेषं`</span>
 <span class="center-text">`चिन्मयमेकमनन्तमनादिम्।`</span>
