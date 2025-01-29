@@ -63,4 +63,4 @@ let karpurgauram be thy guiding lantern; thy muse; & thy companion upon this sac
 
  `what's new`
 - [[videos\|videos]]
-- [[Trika/trika is everything\|trika is everything]]
+- [[scriptures/bhairavastava|bhairavastavaḥ — `ABHINAVAGUPTAḤ`26:01:2025.]]
