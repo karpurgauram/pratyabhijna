@@ -15,3 +15,18 @@
 
 <span class="center-text">Hail unto Bhairava, He who is all-consciousness.</span>
 <span class="center-text">This is the stotra-cintāmani composed by Śrī Bhatta-Mārāyaṇa.</span>
+
+<span class="center-text">`सुगिरा चित्तहारिण्या`</span>
+<span class="center-text">`पश्यन्त्या दृश्यमानया ।`</span>
+<span class="center-text">`जयत्युञ्ज्ञासितानन्द`</span>
+<span class="center-text">`महिमा परमेश्वरः ॥१॥`</span>
+
+<span class="center-text">`sugirā cittahāriṇyā`</span>
+<span class="center-text">`paśyantyā dṛśyamānayā |`</span>
+<span class="center-text">`jayatyullāsitānanda-`</span>
+<span class="center-text">`mahimā parameśvaraḥ |1|`</span>
+
+<span class="center-text">This marks the initial obeisance to Lord Śiva. We bow before Lord Śiva and offer our salutations, proclaiming, "Victory to the Divine Guru, Victory to Śiva." When He [Lord Śiva] utters His sacred speech—His supreme, exquisite word (sugirā, meaning that most elevated and beautiful utterance)—it is citta hāriṇyā, capable of seizing your mind entirely, along with all its thoughts and perceptions. His single word captivates and dissolves your mind, stripping away every idea and concept. Through His compassionate gaze (paśyantyā), which beholds you with boundless grace, He initiates infinite waves of divine rapture within you (dṛśyamānayā). May that glorious Lord Śiva triumph! May He reign victorious—the One whose word silences the mind and its illusions, and whose merciful glance dispels all anxieties and sorrows.</span>
+
+<span class="center-text">**Reflections: **</span>
+<span class="center-text">The nature of the Supreme speech of Lord Śiva is that sound which is the very essence of consciousness. It is Spanda—the unspoken resonance, the silent vibration.</span>
