@@ -1,15 +1,7 @@
 ---
-title: bhairavastavaḥ
-date: 2025-01-25
-tags:
-  - bhairavastava
-  - abhinavagupta
-  - scriptures
-publish: true
-path: scriptures/bhairavastava.md
-permalink: scriptures/bhairavastava
-PassFrontmatter: true
+{"title":"bhairavastavaḥ","date":"2025-01-25","tags":["bhairavastava","abhinavagupta","scriptures"],"publish":true,"path":"scriptures/bhairavastavaḥ.md","permalink":"/scriptures/bhairavastava/","PassFrontmatter":true}
 ---
+
 **“A Lay of Laudation to Bhairavaḥ”**
 
 — `MAHĀMAHEŚVARĀĊĀRYA ABHINAVAGUPTAḤ`
