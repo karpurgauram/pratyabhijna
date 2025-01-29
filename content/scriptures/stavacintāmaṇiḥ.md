@@ -2,16 +2,16 @@
 {"title":"stavacintāmaṇiḥ","date":"2025-01-29","tags":["stavacintamani","bhattanarayana","scriptures"],"publish":true,"path":"scriptures/stavacintāmaṇiḥ.md","permalink":"/scriptures/stavacintamani/","PassFrontmatter":true}
 ---
 
-**“The Mystickal Pearl of One-pointedness”** <progress id="file" max="100" value="01">01%</progress>
+<span class="center-text">**“The Mystickal Pearl of One-pointedness”** <progress id="file" max="100" value="01">01%</progress></span>
 
-— `MAHĀMAHEŚVARĀĊĀRYA BHAṬṬA NĀRĀYAṆA
+<span class="center-text">— `MAHĀMAHEŚVARĀĊĀRYA BHAṬṬA NĀRĀYAṆA</span>
 
-`ॐ नमश्चिद्भैरवाय ।`
+<span class="center-text">`ॐ नमश्चिद्भैरवाय ।`</span>
 
-`॥ अथः श्रीभट्टमारायणविरचितः स्तवचिन्तामणिः ॥`
+<span class="center-text">`॥ अथः श्रीभट्टमारायणविरचितः स्तवचिन्तामणिः ॥`</span>
 
-`Oṃ namaścidbhairavāya |`
-`Atha śrībhaṭṭanārāyaṇaviracitaḥ stavacintāmaṇiḥ ||`
+<span class="center-text">`Oṃ namaścidbhairavāya |`</span>
+<span class="center-text">`Atha śrībhaṭṭanārāyaṇaviracitaḥ stavacintāmaṇiḥ ||`</span>
 
-Hail unto Bhairava, He who is all-consciousness.
-This is the stotra-cintāmani composed by Śrī Bhatta-Mārāyaṇa.
+<span class="center-text">Hail unto Bhairava, He who is all-consciousness.</span>
+<span class="center-text">This is the stotra-cintāmani composed by Śrī Bhatta-Mārāyaṇa.</span>
