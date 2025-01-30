@@ -2,9 +2,9 @@
 {"title":"stavacintāmaṇiḥ","date":"2025-01-29","tags":["stavacintamani","bhattanarayana","scriptures"],"publish":true,"path":"scriptures/stavacintāmaṇiḥ.md","permalink":"/scriptures/stavacintamani/","PassFrontmatter":true}
 ---
 
-<span class="center-text">**“The Mystickal Pearl of One-pointedness”** <progress id="file" max="100" value="01">01%</progress></span>
+**“The Mystickal Pearl of One-pointedness”** <progress id="file" max="100" value="01">01%</progress>
 
-<span class="center-text">— `MAHĀMAHEŚVARĀĊĀRYA BHAṬṬA NĀRĀYAṆA</span>
+<span class="center-text">— `MAHĀMAHEŚVARĀĊĀRYA BHAṬṬA NĀRĀYAṆA`</span>
 
 <span class="center-text">`ॐ नमश्चिद्भैरवाय ।`</span>
 
@@ -26,3 +26,19 @@
 
 <span class="center-text">**Reflections:**</span>
 <span class="center-text">The nature of the Supreme speech of Lord Śiva is that sound which is the very essence of consciousness. It is Spanda—the unspoken resonance, the silent vibration.</span>
+
+
+<span class="center-text">`यः स्फीतः श्रीदयाबोधपरमानन्दसंपदा ।`</span>
+<span class="center-text">`विद्याद्दश्याततमाहात्म्यः स जयल्यपराजितः ॥ २ ॥`</span>
+
+<span class="center-text">`yaḥ sphītaḥ śrīdayābodhaparamānandasaṁpadā |`</span>
+<span class="center-text">`vidyoddyotitamāhātmyaḥ 
+sa jayatyaparājitaḥ ||2||`</span>
+
+<span class="center-text">May that Lord Śiva always prevail, eternally triumphant—the One whose splendor is revealed through the magnificence of śrī-dayā-bodha-paramānandasaṁpadā. Śrī represents the abundance of pure awareness; dayā signifies compassion and benevolence. Through boundless grace, through the wealth of divine consciousness, through immense kindness, through bodha (universal wisdom), and through paramānanda (absolute bliss), He is exalted. May Lord Śiva, glorified by the radiance of universal awareness, by ever-present compassion, by supreme knowledge (bodha), and by the highest ecstasy (paramānanda), be victorious.
+
+Let Him be victorious—the One whose greatness is illuminated and empowered by vidyā, by śuddhavidyā, the most refined and sacred wisdom. May that infinite consciousness reign supreme in all directions, pervading everywhere.</span>
+
+<span class="center-text">**Reflections:**</span>
+
+<span class="center-text">These are two ślokas, simple prayers dedicated to Lord Śiva. Now, Bhaṭṭa Nārāyaṇa will commence these sacred hymns of devotion, and we shall go through them, one by one.</span>
