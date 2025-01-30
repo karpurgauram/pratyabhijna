@@ -40,5 +40,4 @@ sa jayatyaparājitaḥ ||2||`</span>
 Let Him be victorious—the One whose greatness is illuminated and empowered by vidyā, by śuddhavidyā, the most refined and sacred wisdom. May that infinite consciousness reign supreme in all directions, pervading everywhere.</span>
 
 <span class="center-text">**Reflections:**</span>
-
 <span class="center-text">These are two ślokas, simple prayers dedicated to Lord Śiva. Now, Bhaṭṭa Nārāyaṇa will commence these sacred hymns of devotion, and we shall go through them, one by one.</span>
