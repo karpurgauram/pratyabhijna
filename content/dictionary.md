@@ -4,6 +4,4 @@
 
 <span class="center-text">`•~• dictionary •~•`</span>
 
-- first thing
-- second thing
-- third thing
+cooking....................................
