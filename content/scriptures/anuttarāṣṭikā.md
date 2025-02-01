@@ -105,167 +105,167 @@
 <span class="center-text">`thou art the whole—untouched, unstained!`</span>
 
 
-आनन्दोऽत्र न वित्तमद्यमदवन्नैवाङ्गनासङ्गवत्
-दीपार्केन्दुकृतप्रभाप्रकरवन्नैव प्रकाशोदयः।
-हर्षः संभृतभेदमुक्तिसुखभूर्भारावतारोपमः
-सर्वाद्वैतपदस्य विस्मृतनिधेः प्राप्तिः प्रकाशोदयः॥४॥
+<span class="center-text">`आनन्दोऽत्र न वित्तमद्यमदवन्नैवाङ्गनासङ्गवत्`</span>
+<span class="center-text">`दीपार्केन्दुकृतप्रभाप्रकरवन्नैव प्रकाशोदयः।`</span>
+<span class="center-text">`हर्षः संभृतभेदमुक्तिसुखभूर्भारावतारोपमः`</span>
+<span class="center-text">`सर्वाद्वैतपदस्य विस्मृतनिधेः प्राप्तिः प्रकाशोदयः॥४॥`</span>
 
-ānando'tra na vittamadyamadavannaivāṅganāsaṅgavat
-dīpārkendukṛtaprabhāprakaravannaiva prakāśodayaḥ|
-harṣaḥ saṃbhṛtabhedamuktisukhabhūrbhārāvatāropamaḥ
-sarvādvaitapadasya vismṛtanidheḥ prāptiḥ prakāśodayaḥ|4|
+<span class="center-text">`ānando'tra na vittamadyamadavannaivāṅganāsaṅgavat`</span>
+<span class="center-text">`dīpārkendukṛtaprabhāprakaravannaiva prakāśodayaḥ|`</span>
+<span class="center-text">`harṣaḥ saṃbhṛtabhedamuktisukhabhūrbhārāvatāropamaḥ`</span>
+<span class="center-text">`sarvādvaitapadasya vismṛtanidheḥ prāptiḥ prakāśodayaḥ|4|`</span>
 
-no gold nor gem (vittam); may match its gleam;
-nor wine’s delight (madavam); a fleeting dream;
-bo love’s embrace (saṅgavat); though sweet and fair;
-may with this rapture (harṣaḥ) once compare;
-no lamp’s faint glow (dīpa) in dusky night;
-nor sun (arka) at noon in burning height;
-nor moon’s soft grace (indu) on silvered sea;
-may shine as bright as this ecstasy;
-for lo! this blissful weight (bhāra) descends;
-where all division (bedha mukti) ends;
-a tide divine (sukhabhūḥ); so vast, so deep;
-where soul in peace doth wake from sleep;
-like rivers bright (prakāśa udayaḥ) in boundless stream;
-where all is one (sarvādvaita); and none may dream;
-o seeker lost, why dost thou roam?
-this treasure thine—thy long-lost home (vismṛta).
-
-
-रागद्वेषसुखासुखोदयलयाहङ्कारदैन्यादयो
-ये भावाः प्रविभान्ति विश्ववपुषो भिन्नस्वभावा न ते।
-व्यक्तिं पश्यसि यस्य यस्य सहसा तत्तत्तदेकात्मता
-संविद्रूपमवेक्ष्य किं न रमसे तद्भावना निर्भरः॥५॥
-
-rāgadveṣasukhāsukhodayalayāhaṅkāradainyādayo
-ye bhāvāḥ pravibhānti viśvavapuṣo bhinnasvabhāvā na te|
-vyaktiṃ paśyasi yasya yasya sahasā tattattadekātmatā
-saṃvidrūpamavekṣya kiṃ na ramase tadbhāvanā nirbharaḥ|5|
-
-oh list, ye hearts both swift and slow;
-a truth beyond what mortals know;
-for love’s sweet pull (rāga); 
-and hate’s cold hand (dveṣā);
-seem set apart; yet both do stand;
-and joy’s bright face (sukha);
-and sorrow’s sigh (asukha);
-like dawn’s ascent (daya);
-and dusk’s deep lie (laya);
-proud boasts of self (ahaṁkāra); 
-low doubts of woe (dainya);
-all shine distinct; yet none do grow;
-for lo! this world; in seeming strife;
-holds naught but one, the pulse of life;
-and when a thing seems fixed and true;
-perceive (paśyasi) thyself within its hue;
-at once (sahasā); its form shall break;
-and thou as that; shalt then partake;
-why not rejoice? why dost thou roam?
-drink deep of this; thy fullness’ home!
+<span class="center-text">`no gold nor gem (vittam); may match its gleam;`</span>
+<span class="center-text">`nor wine’s delight (madavam); a fleeting dream;`</span>
+<span class="center-text">`no love’s embrace (saṅgavat); though sweet and fair;`</span>
+<span class="center-text">`may with this rapture (harṣaḥ) once compare;`</span>
+<span class="center-text">`no lamp’s faint glow (dīpa) in dusky night;`</span>
+<span class="center-text">`nor sun (arka) at noon in burning height;`</span>
+<span class="center-text">`nor moon’s soft grace (indu) on silvered sea;`</span>
+<span class="center-text">`may shine as bright as this ecstasy;`</span>
+<span class="center-text">`for lo! this blissful weight (bhāra) descends;`</span>
+<span class="center-text">`where all division (bedha mukti) ends;`</span>
+<span class="center-text">`a tide divine (sukhabhūḥ); so vast, so deep;`</span>
+<span class="center-text">`where soul in peace doth wake from sleep;`</span>
+<span class="center-text">`like rivers bright (prakāśa udayaḥ) in boundless stream;`</span>
+<span class="center-text">`where all is one (sarvādvaita); and none may dream;`</span>
+<span class="center-text">`oh seeker lost, why dost thou roam?`</span>
+<span class="center-text">`this treasure thine—thy long-lost home (vismṛta).`</span>
 
 
-पूर्वाभावभवक्रिया हि सहसा भावाः सदास्मिन् भवे
-मध्याकारविकारसङ्करवतां तेषां कुतः सत्यता।
-निःसत्ये चपले प्रपञ्चनिचये स्वप्नभ्रमे पेशले
-शङ्कातङ्ककलङ्कयुक्तिकलनातीतः प्रबुद्धो भव॥६॥
+<span class="center-text">`रागद्वेषसुखासुखोदयलयाहङ्कारदैन्यादयो`</span>
+<span class="center-text">`ये भावाः प्रविभान्ति विश्ववपुषो भिन्नस्वभावा न ते।`</span>
+<span class="center-text">`व्यक्तिं पश्यसि यस्य यस्य सहसा तत्तत्तदेकात्मता`</span>
+<span class="center-text">`संविद्रूपमवेक्ष्य किं न रमसे तद्भावना निर्भरः॥५॥`</span>
 
-pūrvābhāvabhavakriyā hi sahasā bhāvāḥ sadāsmin bhave
-madhyākāravikārasan‌karavatāṃ teṣāṃ kutaḥ satyatā|
-niḥsatye capale prapañcanicaye svapnabhrame peśale
-śaṅkātaṅkakalaṅkayuktikalanātītaḥ prabuddho bhava|6|
+<span class="center-text">`rāgadveṣasukhāsukhodayalayāhaṅkāradainyādayo`</span>
+<span class="center-text">`ye bhāvāḥ pravibhānti viśvavapuṣo bhinnasvabhāvā na te|`</span>
+<span class="center-text">`vyaktiṃ paśyasi yasya yasya sahasā tattattadekātmatā`</span>
+<span class="center-text">`saṃvidrūpamavekṣya kiṃ na ramase tadbhāvanā nirbharaḥ|5|`</span>
 
-oh heed, ye souls, both wise and free;
-a truth untold by land or sea;
-for all things vast (asminbhave) that seem to stay;
-do rise at once (sahasā); then fade away;
-no past remains (pūrvabhava) to cast its chain;
-no future calls with hope or pain;
-the present shines; alone, so bright;
-yet dreams do mask it from our sight;
-all works of men; all deeds they weave;
-are but a mist that doth deceive;
-like fleeting shapes in slumber deep;
-illusions false, as dreamers keep;
-rise high! awake! let doubts decay;
-no fraud nor stain thy soul betray;
-no shadow forged by fleeting mind;
-may chain the truth—so bright; so kind!
-
-
-भावानां न समुद्भवो ऽस्ति सहजस्त्वद्भाविता भान्त्यमी
-निःसत्या अपि सत्यतामनुभवभ्रान्त्या भजन्ति क्षणम्।
-त्वत्सङ्कल्पज एष विश्वमहिमा नास्त्यस्य जन्मान्यतः
-तस्मात्त्वं विभवेन भासि भुवनेष्वेकाप्यनेकात्मकः॥७॥
-
-bhāvānāṃ na samudbhavo 'sti sahajastvadbhāvitā bhāntyamī
-niḥsatyā api satyatāmanubhavabhrāntyā bhajanti kṣaṇam|
-tvatsaṅkalpaja eṣa viśvamahimā nāstyasya janmānyataḥ
-tasmāttvaṃ vibhavena bhāsi bhuvaneṣvekāpyanekātmakaḥ|7|
-
-oh list, ye wanderers; far and near;
-a secret high, lend thou thine ear;
-no lifeless thing its form may show;
-save when thine eye doth make it so;
-for what is seen; yet holds no breath;
-is but a shade; a fleeting death;
-and though it lacks true form or grace;
-thy mind doth cast it time and place;
-this mighty world; so vast, so bright;
-is born of thee; thy dream, thy light;
-no source it hath; nor womb to bear;
-but springs from thought and floats on air;
-oh wondrous soul! in thee doth shine;
-a thousand stars; a tale divine;
-though one thou art; yet many seem;
-a godly spark in boundless dream!
+<span class="center-text">`oh list, ye hearts both swift and slow;`</span>
+<span class="center-text">`a truth beyond what mortals know;`</span>
+<span class="center-text">`for love’s sweet pull (rāga);`</span>
+<span class="center-text">`and hate’s cold hand (dveṣā);`</span>
+<span class="center-text">`seem set apart; yet both do stand;`</span>
+<span class="center-text">`and joy’s bright face (sukha);`</span>
+<span class="center-text">`and sorrow’s sigh (asukha);`</span>
+<span class="center-text">`like dawn’s ascent (daya);`</span>
+<span class="center-text">`and dusk’s deep lie (laya);`</span>
+<span class="center-text">`proud boasts of self (ahaṁkāra);`</span>
+<span class="center-text">`low doubts of woe (dainya);`</span>
+<span class="center-text">`all shine distinct; yet none do grow;`</span>
+<span class="center-text">`for lo! this world; in seeming strife;`</span>
+<span class="center-text">`holds naught but one, the pulse of life;`</span>
+<span class="center-text">`and when a thing seems fixed and true;`</span>
+<span class="center-text">`perceive (paśyasi) thyself within its hue;`</span>
+<span class="center-text">`at once (sahasā); its form shall break;`</span>
+<span class="center-text">`and thou as that; shalt then partake;`</span>
+<span class="center-text">`why not rejoice? why dost thou roam?`</span>
+<span class="center-text">`drink deep of this; thy fullness’ home!`</span>
 
 
-यत्सत्यं यदसत्यमल्पबहुलं नित्यं न नित्यं च यत्
-यन्मायामलिनं यदात्मविमलं चिद्दर्पणे राजते।
-तत्सर्वं स्वविमर्शसंविदुदयाद्रूपप्रकाशात्मकं
-ज्ञात्वा स्वानुभवाधिरूढमहिमा विश्वेश्वरत्वं भज॥८॥
+<span class="center-text">`पूर्वाभावभवक्रिया हि सहसा भावाः सदास्मिन् भवे`</span>
+<span class="center-text">`मध्याकारविकारसङ्करवतां तेषां कुतः सत्यता।`</span>
+<span class="center-text">`निःसत्ये चपले प्रपञ्चनिचये स्वप्नभ्रमे पेशले`</span>
+<span class="center-text">`शङ्कातङ्ककलङ्कयुक्तिकलनातीतः प्रबुद्धो भव॥६॥`</span>
 
-yatsatyaṃ yadasatyamalpabahulaṃ nityaṃ na nityaṃ ca yat
-yanmāyāmalinaṃ yadātmavimalaṃ ciddarpaṇe rājate|
-tatsarvaṃ svavimarśasaṃvidudayādrūpaprakāśātmakaṃ
-jñātvā svānubhavādhirūḍhamahimā viśveśvaratvaṃ bhaja|8|
+<span class="center-text">`pūrvābhāvabhavakriyā hi sahasā bhāvāḥ sadāsmin bhave`</span>
+<span class="center-text">`madhyākāravikārasan‌karavatāṃ teṣāṃ kutaḥ satyatā|`</span>
+<span class="center-text">`niḥsatye capale prapañcanicaye svapnabhrame peśale`</span>
+<span class="center-text">`śaṅkātaṅkakalaṅkayuktikalanātītaḥ prabuddho bhava|6|`</span>
 
-o hark, ye seekers; bold and true;
-a mystery grand i tell to you;
-what false; what real; 
-what great; what small;
-are but veiled shades—one light in all;
-what lingers long; what fades so fast;
-what seems to stay; yet cannot last;
-what pure doth gleam; what false doth rise;
-are but reflections in thine eyes;
-this world so vast; both bright and deep;
-doth from thyself its semblance keep;
-a mirror clear; where forms do play;
-yet naught beyond thyself doth stay;
-oh grasp this truth; so high, so bright;
-thy soul alone is sovereign might!
-in thee the stars; the heavens gleam;
-a kingly throne within thy dream!
-
-
-॥इति श्रीमदाचार्याभिनवगुप्तपादविरचितानुत्तराष्टिका समाप्ता॥
-
-|iti śrīmadācāryābhinavaguptapādaviracitānuttarāṣṭikā samāptā|
-
-thus ends (iti) this song; so bright, so true;
-a jewel of wisdom; old yet new;
-these eight fair verses; pure and high;
-on the absolute; beyond the sky;
-by sacred hand; with vision deep;
-the venerable sage did keep;
-śrīmat ācārya abhinavagupta’s name (śrīmat-ācārya-abhinavagupta-pāda-viracitā);
-in glory wrapped; in deathless fame;
-with mystic art; his quill did weave;
-a truth no mind may yet conceive;
-now complete (samāptā); the work doth stand;
-a beacon bright in wisdom’s land!
+<span class="center-text">`oh heed, ye souls, both wise and free;`</span>
+<span class="center-text">`a truth untold by land or sea;`</span>
+<span class="center-text">`for all things vast (asminbhave) that seem to stay;`</span>
+<span class="center-text">`do rise at once (sahasā); then fade away;`</span>
+<span class="center-text">`no past remains (pūrvabhava) to cast its chain;`</span>
+<span class="center-text">`no future calls with hope or pain;`</span>
+<span class="center-text">`the present shines; alone, so bright;`</span>
+<span class="center-text">`yet dreams do mask it from our sight;`</span>
+<span class="center-text">`all works of men; all deeds they weave;`</span>
+<span class="center-text">`are but a mist that doth deceive;`</span>
+<span class="center-text">`like fleeting shapes in slumber deep;`</span>
+<span class="center-text">`illusions false, as dreamers keep;`</span>
+<span class="center-text">`rise high! awake! let doubts decay;`</span>
+<span class="center-text">`no fraud nor stain thy soul betray;`</span>
+<span class="center-text">`no shadow forged by fleeting mind;`</span>
+<span class="center-text">`may chain the truth—so bright; so kind!`</span>
 
 
-<span class="center-text">**Translated & Recrafted in Poetic Way in old-english by Nagkumar; Inspired from My Guru Īśvarasvarupa Swāmī Lakṣamaṇajū.**</span>
+<span class="center-text">`भावानां न समुद्भवो ऽस्ति सहजस्त्वद्भाविता भान्त्यमी`</span>
+<span class="center-text">`निःसत्या अपि सत्यतामनुभवभ्रान्त्या भजन्ति क्षणम्।`</span>
+<span class="center-text">`त्वत्सङ्कल्पज एष विश्वमहिमा नास्त्यस्य जन्मान्यतः`</span>
+<span class="center-text">`तस्मात्त्वं विभवेन भासि भुवनेष्वेकाप्यनेकात्मकः॥७॥`</span>
+
+<span class="center-text">`bhāvānāṃ na samudbhavo 'sti sahajastvadbhāvitā bhāntyamī`</span>
+<span class="center-text">`niḥsatyā api satyatāmanubhavabhrāntyā bhajanti kṣaṇam|`</span>
+<span class="center-text">`tvatsaṅkalpaja eṣa viśvamahimā nāstyasya janmānyataḥ`</span>
+<span class="center-text">`tasmāttvaṃ vibhavena bhāsi bhuvaneṣvekāpyanekātmakaḥ|7|`</span>
+
+<span class="center-text">`oh list, ye wanderers; far and near;`</span>
+<span class="center-text">`a secret high, lend thou thine ear;`</span>
+<span class="center-text">`no lifeless thing its form may show;`</span>
+<span class="center-text">`save when thine eye doth make it so;`</span>
+<span class="center-text">`for what is seen; yet holds no breath;`</span>
+<span class="center-text">`is but a shade; a fleeting death;`</span>
+<span class="center-text">`and though it lacks true form or grace;`</span>
+<span class="center-text">`thy mind doth cast it time and place;`</span>
+<span class="center-text">`this mighty world; so vast, so bright;`</span>
+<span class="center-text">`is born of thee; thy dream, thy light;`</span>
+<span class="center-text">`no source it hath; nor womb to bear;`</span>
+<span class="center-text">`but springs from thought and floats on air;`</span>
+<span class="center-text">`oh wondrous soul! in thee doth shine;`</span>
+<span class="center-text">`a thousand stars; a tale divine;`</span>
+<span class="center-text">`though one thou art; yet many seem;`</span>
+<span class="center-text">`a godly spark in boundless dream!`</span>
+
+
+<span class="center-text">`यत्सत्यं यदसत्यमल्पबहुलं नित्यं न नित्यं च यत्`</span>
+<span class="center-text">`यन्मायामलिनं यदात्मविमलं चिद्दर्पणे राजते।`</span>
+<span class="center-text">`तत्सर्वं स्वविमर्शसंविदुदयाद्रूपप्रकाशात्मकं`</span>
+<span class="center-text">`ज्ञात्वा स्वानुभवाधिरूढमहिमा विश्वेश्वरत्वं भज॥८॥`</span>
+
+<span class="center-text">`yatsatyaṃ yadasatyamalpabahulaṃ nityaṃ na nityaṃ ca yat`</span>
+<span class="center-text">`yanmāyāmalinaṃ yadātmavimalaṃ ciddarpaṇe rājate|`</span>
+<span class="center-text">`tatsarvaṃ svavimarśasaṃvidudayādrūpaprakāśātmakaṃ`</span>
+<span class="center-text">`jñātvā svānubhavādhirūḍhamahimā viśveśvaratvaṃ bhaja|8|`</span>
+
+<span class="center-text">`o hark, ye seekers; bold and true;`</span>
+<span class="center-text">`a mystery grand i tell to you;`</span>
+<span class="center-text">`what false; what real;`</span>
+<span class="center-text">`what great; what small;`</span>
+<span class="center-text">`are but veiled shades—one light in all;`</span>
+<span class="center-text">`what lingers long; what fades so fast;`</span>
+<span class="center-text">`what seems to stay; yet cannot last;`</span>
+<span class="center-text">`what pure doth gleam; what false doth rise;`</span>
+<span class="center-text">`are but reflections in thine eyes;`</span>
+<span class="center-text">`this world so vast; both bright and deep;`</span>
+<span class="center-text">`doth from thyself its semblance keep;`</span>
+<span class="center-text">`a mirror clear; where forms do play;`</span>
+<span class="center-text">`yet naught beyond thyself doth stay;`</span>
+<span class="center-text">`oh grasp this truth; so high, so bright;`</span>
+<span class="center-text">`thy soul alone is sovereign might!`</span>
+<span class="center-text">`in thee the stars; the heavens gleam;`</span>
+<span class="center-text">`a kingly throne within thy dream!`</span>
+
+
+<span class="center-text">`॥इति श्रीमदाचार्याभिनवगुप्तपादविरचितानुत्तराष्टिका समाप्ता॥`</span>
+
+<span class="center-text">`|iti śrīmadācāryābhinavaguptapādaviracitānuttarāṣṭikā samāptā|`</span>
+
+<span class="center-text">`thus ends (iti) this song; so bright, so true;`</span>
+<span class="center-text">`a jewel of wisdom; old yet new;`</span>
+<span class="center-text">`these eight fair verses; pure and high;`</span>
+<span class="center-text">`on the absolute; beyond the sky;`</span>
+<span class="center-text">`by sacred hand; with vision deep;`</span>
+<span class="center-text">`the venerable sage did keep;`</span>
+<span class="center-text">`śrīmat ācārya abhinavagupta’s name`</span> <span class="center-text">`(śrīmat-ācārya-abhinavagupta-pāda-viracitā);`</span>
+<span class="center-text">`in glory wrapped; in deathless fame;`</span>
+<span class="center-text">`with mystic art; his quill did weave;`</span>
+<span class="center-text">`a truth no mind may yet conceive;`</span>
+<span class="center-text">`now complete (samāptā); the work doth stand;`</span>
+<span class="center-text">`a beacon bright in wisdom’s land!`</span>
+
+
+<span class="center-text">**Translated & Recrafted in Poetic Way by Nagkumar; Inspired from My Guru Īśvarasvarupa Swāmī Lakṣamaṇajū.**</span>
