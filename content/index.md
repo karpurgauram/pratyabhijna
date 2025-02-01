@@ -62,5 +62,8 @@ let karpurgauram be thy guiding lantern; thy muse; & thy companion upon this sac
 <span class="center-text">`ॐ नमः चिद्वपुषे॥`</span>
 
  `what's new`
+- [[scriptures/anuttarashtika|anuttarāṣṭikā]]
+- [[scriptures/bhairavastava|bhairavastavaḥ]]
+- [[Trika/trika-is-everything|trika is everything]]
 - [[videos\|videos]]
-- [[scriptures/bhairavastava|bhairavastavaḥ — `ABHINAVAGUPTAḤ`26:01:2025.]]
+
