@@ -124,7 +124,7 @@
 <span class="center-text">`īśadalasthā bhairavamarcayate parimalairvicitrairyā|`</span>
 <span class="center-text">`praṇamāmi sarvadā tāṃ ghrāṇābhikhyāṃ mahālakṣmīm|13|`</span>
 
-<span class="center-text">I eternally bow before the resplendent Mahālakṣmī, the very essence of divine scent, who, abiding in the sacred northeastern petal of Īśa, offers her adoration to Bhairava through the manifold fragrances, each a celestial hymn of devotion and grace.</span>
+<span class="center-text">I offer my infinite obeisances to the luminous Mahālakṣmī, who is the very manifestation of divine fragrance. She resides in the sacred north-eastern petal of the Lord and offers worship to Bhairava through various divine fragrances, each a celestial hymn of devotion and grace.</span>
 
 
 <span class="center-text">`षड्दर्शनेषु पूज्यं षट्त्रिम्शत्तत्त्वसंवलितम्।`</span>
