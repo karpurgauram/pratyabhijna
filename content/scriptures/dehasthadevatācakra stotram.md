@@ -70,7 +70,7 @@
 <span class="center-text">`kurute bhairavapūjāmanaladalasthābhimānakusumairyā|`</span>
 <span class="center-text">`nityamahaṃkṛtirūpāṃ vande tāṃ śāmbhavīmambām|7|`</span>
 
-<span class="center-text">I ceaselessly extol Mother Śāmbhavī, the very essence of the false "I," who, in Her divine play, offers worship to Bhairava with the blossoms of pride, resting upon the radiant sparks of the true, resplendent "I."</span>
+<span class="center-text">I constantly offer my prayers to Mother Śāmbhavī, who is the very manifestation of the false 'I'. In her divine play, she worships Bhairava with the flowers of the ego, which adorn the divine flames of the true, luminous 'I'.</span>
 
 
 <span class="center-text">`विदधाति भैरवार्चां दक्षिणदलगा विकल्पकुसुमैर्या।`</span>
