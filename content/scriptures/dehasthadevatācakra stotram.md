@@ -9,8 +9,9 @@
 <span class="center-text">— `MAHĀMAHEŚVARĀĊĀRYA ABHINAVAGUPTAḤ`</span>
 
 </div>
+
 <span class="center-text">`असूरसूरवृन्दवन्दितमभिमतवरवितरणे निरतम्।`</span>
-<span class="center-text">`दर्शनशताग्र्यपूज्यं प्राणतनुं गणपतिं वन्दे ॥१॥`</span>
+<span class="center-text">`दर्शनशताग्र्यपूज्यं प्राणतनुं गणपतिं वन्दे॥१॥`</span>
 
 <span class="center-text">`asūrasūravṛndavanditamabhimatavaravitaraṇe niratam|`</span>
 <span class="center-text">`darśanaśatāgryapūjyaṃ prāṇatanuṃ gaṇapatiṃ vande|1|`</span>
@@ -148,6 +149,6 @@
 
 <span class="center-text">`|iti śrīdehasthadevatācakrastotraṃ śrīmadabhinavaguptapādaviracitam|`</span>
 
-<span class="center-text">This is the sacred 'Dehasthadevatācakrastotram'—the revered The Esoteric Worship of Wheel of the Inner Deities of the Senses Abiding within the Body—composed by the most venerable master, Abhinavagupta.</span>
+<span class="center-text">This is the sacred 'Dehasthadevatācakrastotram'—The Esoteric Worship of Wheel of the Inner Deities of the Senses Abiding within the Body—composed by the most venerable master, Abhinavagupta.</span>
 
 **Translated by Nagkumar; Inspired from My Guru Īśvarasvarupa Swāmī Lakṣamaṇajū.**
