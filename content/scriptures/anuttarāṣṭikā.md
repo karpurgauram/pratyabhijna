@@ -2,6 +2,7 @@
 {"title":"anuttarāṣṭikā","date":"2025-02-01","tags":["anuttarashtika","abhinavagupta","scriptures"],"publish":true,"path":"scriptures/anuttarāṣṭikā.md","permalink":"/scriptures/anuttarashtika/","PassFrontmatter":true}
 ---
 
+
 <span class="center-text">**“eight verses concerning the ultimacy”**</span>
 
 <span class="center-text">— `MAHĀMAHEŚVARĀĊĀRYA ABHINAVAGUPTAḤ`</span>
@@ -269,4 +270,4 @@
 <span class="center-text">a beacon bright in wisdom’s land!</span>
 
 
-<span class="center-text">**Translated & Recrafted in Poetic Way by Nagkumar; Inspired from My Guru Īśvarasvarupa Swāmī Lakṣamaṇajū.**</span>
+**Translated & Recrafted in Poetic Way by Nagkumar; Inspired from My Guru Īśvarasvarupa Swāmī Lakṣamaṇajū.**
