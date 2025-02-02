@@ -115,7 +115,7 @@
 <span class="center-text">`dhanapattikisalayanilayā yā nityaṃ vividhaṣaḍrasāhāraiḥ|`</span>
 <span class="center-text">`pūjayati bhairavaṃ tāṃ jihvābhikhyāṃ namāmi cāmuṇḍām|12|`</span>
 
-<span class="center-text">I revere the sublime Cāmuṇḍā, the very essence of the sacred tongue, who, ever absorbed in the worship of Bhairava, delights in the manifold flavors of the sixfold taste. Residing in the sprout of Kubera, the celestial Lord of Treasures, she enlivens the northern realm with her divine presence.</span>
+<span class="center-text">I worship the supreme Cāmuṇḍā, who is the very manifestation of the sacred tongue. She is always absorbed in the worship of Bhairava and enjoys the varied flavours of the six tastes. Situated in the bud of Kubera, the possessor of divine wealth, she animates the north direction with her divine presence.</span>
 
 
 <span class="center-text">`ईशदलस्था भैरवमर्चयते परिमलैर्विचित्रैर्या।`</span>
