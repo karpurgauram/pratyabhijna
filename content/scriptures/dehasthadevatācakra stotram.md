@@ -133,7 +133,7 @@
 <span class="center-text">`ṣaḍdarśaneṣu pūjyaṃ ṣaṭtrimśattattvasaṃvalitam|`</span>
 <span class="center-text">`ātmābhikhyaṃ satataṃ kṣetrapatiṃ siddhidaṃ vande|14|`</span>
 
-<span class="center-text">I ceaselessly venerate the glorious Kṣetrapati, the very embodiment of the Self, the supreme bestower of success. Encompassed by the thirty-six tattvas, he stands as the One to be worshiped through the six great philosophical systems, the radiant essence that illumines the path of ultimate realization.</span>
+<span class="center-text">I constantly worship the divine Kṣetrapati, who is the self-nature of the soul and the bestower of supreme perfection. Encircled by the thirty-six elements, He is worthy of worship through the six great visions, the same luminous elements that illuminate the path to supreme perfection.</span>
 
 
 <span class="center-text">`संस्फुरदनुभवसारं सर्वान्तः सततसन्निहितम्।`</span>
