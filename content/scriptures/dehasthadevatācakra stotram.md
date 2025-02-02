@@ -88,7 +88,7 @@
 <span class="center-text">`nairṛtadalagā bhairavamarcayeteśabdakusumairyā|`</span>
 <span class="center-text">`praṇamāmi śrutirūpāṃ nityaṃ tāṃ vaiṣṇavīṃ śaktim|9|`</span>
 
-<span class="center-text">I ceaselessly bow to the radiant Vaiṣṇavī, the divine Power embodying the essence of Hearing, who offers Her worship to Bhairava with the blossoms of sound, pervading the sacred petal of the south-western direction.</span>
+<span class="center-text">I offer my constant obeisances to that radiant Vaiṣṇavī, who is the very manifestation of the divine power of hearing. She occupies the sacred petal of the south-west direction and offers worship to Bhairava with flowers in the form of sound.</span>
 
 
 <span class="center-text">`पश्चिमदिग्दलसंस्था हृदयहरैः स्पर्शकुसुमैर्या।`</span>
