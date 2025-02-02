@@ -2,6 +2,7 @@
 {"title":"stavacintāmaṇiḥ","date":"2025-01-29","tags":["stavacintamani","bhattanarayana","scriptures"],"publish":true,"path":"scriptures/stavacintāmaṇiḥ.md","permalink":"/scriptures/stavacintamani/","PassFrontmatter":true}
 ---
 
+
 **“The Mystickal Pearl of One-pointedness”** <progress id="file" max="100" value="01">01%</progress>
 
 <span class="center-text">— `MAHĀMAHEŚVARĀĊĀRYA BHAṬṬA NĀRĀYAṆA`</span>

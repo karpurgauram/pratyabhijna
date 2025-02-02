@@ -1,0 +1,153 @@
+---
+{"title":"dehasthadevatācakra stotram","date":"2025-02-02","tags":["dehasthadevatācakrastotram","abhinavagupta","scriptures"],"publish":true,"path":"scriptures/dehasthadevatācakra stotram.md","permalink":"/scriptures/dehasthadevatācakrastotram/","PassFrontmatter":true}
+---
+
+
+<span class="center-text">**“The Hierophany of Transcendental Quintessence”**</span>
+<span class="center-text">*[a tāntrik invocation on the wheel of the intrinsic divinities]*</span>
+
+<span class="center-text">— `MAHĀMAHEŚVARĀĊĀRYA ABHINAVAGUPTAḤ`</span>
+
+</div>
+<span class="center-text">`असूरसूरवृन्दवन्दितमभिमतवरवितरणे निरतम्।`</span>
+<span class="center-text">`दर्शनशताग्र्यपूज्यं प्राणतनुं गणपतिं वन्दे ॥१॥`</span>
+
+<span class="center-text">`asūrasūravṛndavanditamabhimatavaravitaraṇe niratam|`</span>
+<span class="center-text">`darśanaśatāgryapūjyaṃ prāṇatanuṃ gaṇapatiṃ vande|1|`</span>
+
+<span class="center-text">I bow in reverence to Gaṇapati, the Lord of the Gaṇa-s, Who is the very embodiment of prāṇa, the sacred outbreath of the Supreme. He, Who bestows the highest and most exalted resolve, is venerated alike by the hosts of gods and demons. Among all darśana-s, He is the foremost, the one to be worshipped first, for He alone clears the path to divine realization.</span>
+
+
+<span class="center-text">`वरवीरयोगिनीगणसिद्धावलिपूजितांघ्रियुगलम्।`</span>
+<span class="center-text">`अपहृतविनयिजनार्तिं वटुकमपानाभिधं वन्दे॥२॥`</span>
+
+<span class="center-text">`varavīrayoginīgaṇasiddhāvalipūjitāṃghriyugalam|`</span>
+<span class="center-text">`apahṛtavinayijanārtiṃ vaṭukamapānābhidhaṃ vande|2|`</span>
+
+<span class="center-text">I bow to the glorious Vaṭuka, the very essence of inhalation itself, whose divine feet are venerated by the noble lineage of exalted vīra-s and perfected siddha-s, ever attended by the radiant yoginī-s. He, the benevolent One, dispels the suffering of His devoted seekers, carrying away their afflictions with boundless grace.</span>
+
+
+<span class="center-text">`आत्मीयविषयभोगैरिन्द्रियदेव्यः सदा हृदम्भोजे।`</span>
+<span class="center-text">`अभिपूजयन्ति यं तं चिन्मयमानन्दभैरवं वन्दे॥३॥`</span>
+
+<span class="center-text">`ātmīyaviṣayabhogairindriyadevyaḥ sadā hṛdambhoje|`</span>
+<span class="center-text">`abhipūjayanti yaṃ taṃ cinmayamānandabhairavaṃ vande|3|`</span>
+
+<span class="center-text">I extol the glorious Ānandabhairava, the very embodiment of Supreme Consciousness, ever abiding in the resplendent Lotus of the Heart. He, whom the divine Goddesses of the senses revere, offering their worship through the sacred delight of sensory experience.</span>
+
+
+<span class="center-text">`यद्धीबलेन विश्वं भक्तानां शिवपथं भाति।`</span>
+<span class="center-text">`तमहमवधानरूपं सद्गुरुममलं सदा वन्दे॥४॥`</span>
+
+<span class="center-text">`yaddhībalena viśvaṃ bhaktānāṃ śivapathaṃ bhāti|`</span>
+<span class="center-text">`tamahamavadhānarūpaṃ sadgurumamalaṃ sadā vande|4|`</span>
+
+<span class="center-text">I eternally venerate the immaculate Sadguru, whose very essence is the luminous Awareness of the Self. By His grace, the world itself is revealed as the sacred Pathway to Śiva for the devoted ones, through the sovereign Power of Wisdom.</span>
+
+
+<span class="center-text">`उदयावभासचर्वणलीलं विश्वस्य या करोत्यनिशम्।`</span>
+<span class="center-text">`आनन्दभैरवीं तां विमर्शरूपां अहं वन्दे॥५॥`</span>
+
+<span class="center-text">`udayāvabhāsacarvaṇalīlaṃ viśvasya yā karotyaniśam|`</span>
+<span class="center-text">`ānandabhairavīṃ tāṃ vimarśarūpāṃ ahaṃ vande|5|`</span>
+
+<span class="center-text">I extol Ānandabhairavī, the very essence of Supreme Awareness, who, in Her unceasing divine play, unfolds the cosmic drama of arising, shining forth, and dissolving—bringing into being, sustaining, and withdrawing the entire universe within Herself.</span>
+
+
+<span class="center-text">`अर्चयति भैरवं या निश्चयकुसुमैः सुरेशपत्रस्था।`</span>
+<span class="center-text">`प्रणमामि बुद्धिरूपां ब्रह्माणीं तामहं सततम्॥६॥`</span>
+
+<span class="center-text">`arcayati bhairavaṃ yā niścayakusumaiḥ sureśapatrasthā|`</span>
+<span class="center-text">`praṇamāmi buddhirūpāṃ brahmāṇīṃ tāmahaṃ satatam|6|`</span>
+
+<span class="center-text">I eternally bow to the glorious Brahmāṇī, the very essence of divine Intellect, who offers Her worship to Bhairava with the fragrant blossoms of unwavering certainty, resting upon the sacred Lotus Leaf of the Lord of gods.</span>
+
+
+<span class="center-text">`कुरुते भैरवपूजामनलदलस्थाभिमानकुसुमैर्या।`</span>
+<span class="center-text">`नित्यमहंकृतिरूपां वन्दे तां शाम्भवीमम्बाम्॥७॥`</span>
+
+<span class="center-text">`kurute bhairavapūjāmanaladalasthābhimānakusumairyā|`</span>
+<span class="center-text">`nityamahaṃkṛtirūpāṃ vande tāṃ śāmbhavīmambām|7|`</span>
+
+<span class="center-text">I ceaselessly extol Mother Śāmbhavī, the very essence of the false "I," who, in Her divine play, offers worship to Bhairava with the blossoms of pride, resting upon the radiant sparks of the true, resplendent "I."</span>
+
+
+<span class="center-text">`विदधाति भैरवार्चां दक्षिणदलगा विकल्पकुसुमैर्या।`</span>
+<span class="center-text">`नित्यं मनः स्वरूपां कौमारीं तामहं वन्दे॥८॥`</span>
+
+<span class="center-text">`vidadhāti bhairavārcāṃ dakṣiṇadalagā vikalpakusumairyā|`</span>
+<span class="center-text">`nityaṃ manaḥ svarūpāṃ kaumārīṃ tāmahaṃ vande|8|`</span>
+
+<span class="center-text">I eternally bow to the divine Kaumārī, the very essence of Mind, who bestows the sacred worship of Bhairava through the blossoms of thought, pervading the southern petal of the mystic Lotus of Consciousness.</span>
+
+
+<span class="center-text">`नैरृतदलगा भैरवमर्चयेतेशब्दकुसुमैर्या।`</span>
+<span class="center-text">`प्रणमामि श्रुतिरूपां नित्यं तां वैष्णवीं शक्तिम्॥९॥`</span>
+
+<span class="center-text">`nairṛtadalagā bhairavamarcayeteśabdakusumairyā|`</span>
+<span class="center-text">`praṇamāmi śrutirūpāṃ nityaṃ tāṃ vaiṣṇavīṃ śaktim|9|`</span>
+
+<span class="center-text">I ceaselessly bow to the radiant Vaiṣṇavī, the divine Power embodying the essence of Hearing, who offers Her worship to Bhairava with the blossoms of sound, pervading the sacred petal of the south-western direction.</span>
+
+
+<span class="center-text">`पश्चिमदिग्दलसंस्था हृदयहरैः स्पर्शकुसुमैर्या।`</span>
+तोषयति भैर्वं तां त्वग्रूपधरां नमामि वाराहीम्॥१०॥`</span>
+
+<span class="center-text">`paścimadigdalasaṃsthā hṛdayaharaiḥ sparśakusumairyā|`</span>
+<span class="center-text">`toṣayati bhairvaṃ tāṃ tvagrūpadharāṃ namāmi vārāhīm|10|`</span>
+
+<span class="center-text">I offer my obeisance to the glorious Vārāhī, the embodiment of the tattva of touch, who, seated upon the sacred western petal, delights the fierce Bhairava with the fragrant blossoms of sensation—an offering that stirs the very core of the heart with its intoxicating essence.</span>
+
+
+<span class="center-text">`वरतररूपविशेषैर्मारुतदिग्दलनिषण्णदेहा या।`</span>
+<span class="center-text">`पूजयति भैरवं तामिन्द्राणीं दृक्तनुं वन्दे॥११॥`</span>
+
+<span class="center-text">`varatararūpaviśeṣairmārutadigdalaniṣaṇṇadehā yā|`</span>
+<span class="center-text">`pūjayati bhairavaṃ tāmindrāṇīṃ dṛktanuṃ vande|11|`</span>
+
+<span class="center-text">I sing the glory of the radiant Indrāṇī, the very essence of divine sight, who, seated upon the sacred northwest petal—her realm pervaded by the force of the Māruts—worships Bhairava through the splendor of countless supreme forms, each a revelation of his boundless magnificence.</span>
+
+
+<span class="center-text">`धनपत्तिकिसलयनिलया या नित्यं विविधषड्रसाहारैः।`</span>
+<span class="center-text">`पूजयति भैरवं तां जिह्वाभिख्यां नमामि चामुण्डाम्॥१२॥`</span>
+
+<span class="center-text">`dhanapattikisalayanilayā yā nityaṃ vividhaṣaḍrasāhāraiḥ|`</span>
+<span class="center-text">`pūjayati bhairavaṃ tāṃ jihvābhikhyāṃ namāmi cāmuṇḍām|12|`</span>
+
+<span class="center-text">I revere the sublime Cāmuṇḍā, the very essence of the sacred tongue, who, ever absorbed in the worship of Bhairava, delights in the manifold flavors of the sixfold taste. Residing in the sprout of Kubera, the celestial Lord of Treasures, she enlivens the northern realm with her divine presence.</span>
+
+
+<span class="center-text">`ईशदलस्था भैरवमर्चयते परिमलैर्विचित्रैर्या।`</span>
+<span class="center-text">`प्रणमामि सर्वदा तां घ्राणाभिख्यां महालक्ष्मीम्॥१३॥`</span>
+
+<span class="center-text">`īśadalasthā bhairavamarcayate parimalairvicitrairyā|`</span>
+<span class="center-text">`praṇamāmi sarvadā tāṃ ghrāṇābhikhyāṃ mahālakṣmīm|13|`</span>
+
+<span class="center-text">I eternally bow before the resplendent Mahālakṣmī, the very essence of divine scent, who, abiding in the sacred northeastern petal of Īśa, offers her adoration to Bhairava through the manifold fragrances, each a celestial hymn of devotion and grace.</span>
+
+
+<span class="center-text">`षड्दर्शनेषु पूज्यं षट्त्रिम्शत्तत्त्वसंवलितम्।`</span>
+<span class="center-text">`आत्माभिख्यं सततं क्षेत्रपतिं सिद्धिदं वन्दे॥१४॥`</span>
+
+<span class="center-text">`ṣaḍdarśaneṣu pūjyaṃ ṣaṭtrimśattattvasaṃvalitam|`</span>
+<span class="center-text">`ātmābhikhyaṃ satataṃ kṣetrapatiṃ siddhidaṃ vande|14|`</span>
+
+<span class="center-text">I ceaselessly venerate the glorious Kṣetrapati, the very embodiment of the Self, the supreme bestower of success. Encompassed by the thirty-six tattvas, he stands as the One to be worshiped through the six great philosophical systems, the radiant essence that illumines the path of ultimate realization.</span>
+
+
+<span class="center-text">`संस्फुरदनुभवसारं सर्वान्तः सततसन्निहितम्।`</span>
+<span class="center-text">`नौमि सदोदितमित्थं निजदेहगदेवताचक्रम्॥१५॥`</span>
+
+<span class="center-text">`saṃsphuradanubhavasāraṃ sarvāntaḥ satatasannihitam|`</span>
+<span class="center-text">`naumi sadoditamitthaṃ nijadehagadevatācakram|15|`</span>
+
+<span class="center-text">Thus do I extol the ever-vibrant, ever-ascending, ever-present Wheel of the Deities—the supreme, transcendental reality that stands beyond all endings. Innately pervading the body as the essence of perception itself, it shines as the very core of divine awareness, the unfailing source of all manifestation.</span>
+
+
+<span class="center-text">`॥इति श्रीदेहस्थदेवताचक्रस्तोत्रं श्रीमदभिनवगुप्तपादविरचितम्॥`</span>
+
+<span class="center-text">`|iti śrīdehasthadevatācakrastotraṃ śrīmadabhinavaguptapādaviracitam|`</span>
+
+<span class="center-text">This is the sacred 'Dehasthadevatācakrastotram'—the revered The Esoteric Worship of Wheel of the Inner Deities of the Senses Abiding within the Body—composed by the most venerable master, Abhinavagupta.</span>
+
+**Translated by Nagkumar; Inspired from My Guru Īśvarasvarupa Swāmī Lakṣamaṇajū.**

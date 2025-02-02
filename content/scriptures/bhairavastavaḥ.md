@@ -2,6 +2,7 @@
 {"title":"bhairavastavaḥ","date":"2025-01-25","tags":["bhairavastava","abhinavagupta","scriptures"],"publish":true,"path":"scriptures/bhairavastavaḥ.md","permalink":"/scriptures/bhairavastava/","PassFrontmatter":true}
 ---
 
+
 <span class="center-text">**“A Lay of Laudation to Bhairavaḥ”**</span>
 
 <span class="center-text">— `MAHĀMAHEŚVARĀĊĀRYA ABHINAVAGUPTAḤ`</span>
@@ -163,6 +164,5 @@
 <span class="center-text">This Hymn of Praise, recounting the nine ever-fresh verses, is now brought to its end.</span>
 
 <span class="center-text">**Translated by Nagkumar; Inspired from My Guru Īśvarasvarupa Swāmī Lakṣamaṇajū.**</span>
-**listen from swamiji on** [youtube](https://youtu.be/fWto9etrwBU).
 
-*listen and learn to sing from* Smt. [Ashwini Bhide Deshpande](https://youtu.be/O947L44aUYE).
+**listen from swamiji on** [youtube](https://youtu.be/fWto9etrwBU). *listen and learn to sing from* Smt. [Ashwini Bhide Deshpande](https://youtu.be/O947L44aUYE).
