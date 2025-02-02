@@ -43,7 +43,7 @@
 <span class="center-text">`yaddhībalena viśvaṃ bhaktānāṃ śivapathaṃ bhāti|`</span>
 <span class="center-text">`tamahamavadhānarūpaṃ sadgurumamalaṃ sadā vande|4|`</span>
 
-<span class="center-text">I eternally venerate the immaculate Sadguru, whose very essence is the luminous Awareness of the Self. By His grace, the world itself is revealed as the sacred Pathway to Śiva for the devoted ones, through the sovereign Power of Wisdom.</span>
+<span class="center-text">I offer my infinite respect to the pure Sadguru, whose very nature is the luminous consciousness of the soul itself. By His grace, this entire universe appears to the devotees as a sacred path to reach Śiva, who is illuminated by the supreme power of knowledge.</span>
 
 
 <span class="center-text">`उदयावभासचर्वणलीलं विश्वस्य या करोत्यनिशम्।`</span>
