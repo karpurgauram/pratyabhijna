@@ -92,7 +92,7 @@
 
 
 <span class="center-text">`पश्चिमदिग्दलसंस्था हृदयहरैः स्पर्शकुसुमैर्या।`</span>
-तोषयति भैर्वं तां त्वग्रूपधरां नमामि वाराहीम्॥१०॥`</span>
+<span class="center-text">`तोषयति भैर्वं तां त्वग्रूपधरां नमामि वाराहीम्॥१०॥`</span>
 
 <span class="center-text">`paścimadigdalasaṃsthā hṛdayaharaiḥ sparśakusumairyā|`</span>
 <span class="center-text">`toṣayati bhairvaṃ tāṃ tvagrūpadharāṃ namāmi vārāhīm|10|`</span>
