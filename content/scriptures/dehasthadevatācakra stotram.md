@@ -52,7 +52,7 @@
 <span class="center-text">`udayāvabhāsacarvaṇalīlaṃ viśvasya yā karotyaniśam|`</span>
 <span class="center-text">`ānandabhairavīṃ tāṃ vimarśarūpāṃ ahaṃ vande|5|`</span>
 
-<span class="center-text">I extol Ānandabhairavī, the very essence of Supreme Awareness, who, in Her unceasing divine play, unfolds the cosmic drama of arising, shining forth, and dissolving—bringing into being, sustaining, and withdrawing the entire universe within Herself.</span>
+<span class="center-text">I praise Ānandabhairavī, who is the very manifestation of supreme consciousness. In her unceasing divine play she unfolds the epic of creation's arising, illumination and dissolution—creating, sustaining and ultimately absorbing the entire universe within herself.</span>
 
 
 <span class="center-text">`अर्चयति भैरवं या निश्चयकुसुमैः सुरेशपत्रस्था।`</span>
