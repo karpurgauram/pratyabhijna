@@ -61,7 +61,7 @@
 <span class="center-text">`arcayati bhairavaṃ yā niścayakusumaiḥ sureśapatrasthā|`</span>
 <span class="center-text">`praṇamāmi buddhirūpāṃ brahmāṇīṃ tāmahaṃ satatam|6|`</span>
 
-<span class="center-text">I eternally bow to the glorious Brahmāṇī, the very essence of divine Intellect, who offers Her worship to Bhairava with the fragrant blossoms of unwavering certainty, resting upon the sacred Lotus Leaf of the Lord of gods.</span>
+<span class="center-text">I offer my infinite obeisances unto the divine Brahmāṇī, who is herself the essence of divine wisdom. Seated on the sacred lotus leaf of the Lord of gods, she offers worship to Bhairava with fragrant flowers of unwavering determination.</span>
 
 
 <span class="center-text">`कुरुते भैरवपूजामनलदलस्थाभिमानकुसुमैर्या।`</span>
