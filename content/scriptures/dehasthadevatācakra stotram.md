@@ -149,6 +149,6 @@
 
 <span class="center-text">`|iti śrīdehasthadevatācakrastotraṃ śrīmadabhinavaguptapādaviracitam|`</span>
 
-<span class="center-text">This is the sacred 'Dehasthadevatācakrastotram'—The Esoteric Worship of Wheel of the Inner Deities of the Senses Abiding within the Body—composed by the most venerable master, Abhinavagupta.</span>
+<span class="center-text">This is the sacred Dehasthadevatācakrastotram—the revered stotra on the chakra located in the body of the sense deities—composed by the most revered Master Abhinavagupta.</span>
 
 **Translated by Nagkumar; Inspired from My Guru Īśvarasvarupa Swāmī Lakṣamaṇajū.**
