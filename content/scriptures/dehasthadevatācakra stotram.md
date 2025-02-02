@@ -79,7 +79,7 @@
 <span class="center-text">`vidadhāti bhairavārcāṃ dakṣiṇadalagā vikalpakusumairyā|`</span>
 <span class="center-text">`nityaṃ manaḥ svarūpāṃ kaumārīṃ tāmahaṃ vande|8|`</span>
 
-<span class="center-text">I eternally bow to the divine Kaumārī, the very essence of Mind, who bestows the sacred worship of Bhairava through the blossoms of thought, pervading the southern petal of the mystic Lotus of Consciousness.</span>
+<span class="center-text">I offer my infinite obeisances unto the Divine Kaumārī, who is herself the form of Mind. Pervading the southern side of the mysterious lotus of Consciousness, she offers sacred worship to Bhairava through the flowers of thought.</span>
 
 
 <span class="center-text">`नैरृतदलगा भैरवमर्चयेतेशब्दकुसुमैर्या।`</span>
