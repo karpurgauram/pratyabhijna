@@ -142,7 +142,7 @@
 <span class="center-text">`saṃsphuradanubhavasāraṃ sarvāntaḥ satatasannihitam|`</span>
 <span class="center-text">`naumi sadoditamitthaṃ nijadehagadevatācakram|15|`</span>
 
-<span class="center-text">Thus do I extol the ever-vibrant, ever-ascending, ever-present Wheel of the Deities—the supreme, transcendental reality that stands beyond all endings. Innately pervading the body as the essence of perception itself, it shines as the very core of divine awareness, the unfailing source of all manifestation.</span>
+<span class="center-text">Thus I praise the wheel of those ever-pulsating, ever-ascending, ever-existing deities—the ultimate and transcendent Reality, which exists beyond all finite limits. Naturally pervading the body, it is the very essence of experience itself, shining forth as the root of divine consciousness and the infallible source of the manifestation of the entire creation.</span>
 
 
 <span class="center-text">`॥इति श्रीदेहस्थदेवताचक्रस्तोत्रं श्रीमदभिनवगुप्तपादविरचितम्॥`</span>
