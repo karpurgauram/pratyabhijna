@@ -34,7 +34,7 @@
 <span class="center-text">`ātmīyaviṣayabhogairindriyadevyaḥ sadā hṛdambhoje|`</span>
 <span class="center-text">`abhipūjayanti yaṃ taṃ cinmayamānandabhairavaṃ vande|3|`</span>
 
-<span class="center-text">I extol the glorious Ānandabhairava, the very embodiment of Supreme Consciousness, ever abiding in the resplendent Lotus of the Heart. He, whom the divine Goddesses of the senses revere, offering their worship through the sacred delight of sensory experience.</span>
+<span class="center-text">I praise the divine Ānandabhairava, who is the very manifestation of the Supreme Consciousness and who always shines in the heart lotus. He whom the divine goddesses of the senses worship and offer their devotion to through pure sensory bliss.</span>
 
 
 <span class="center-text">`यद्धीबलेन विश्वं भक्तानां शिवपथं भाति।`</span>
