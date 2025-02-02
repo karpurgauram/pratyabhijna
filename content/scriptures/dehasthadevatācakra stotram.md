@@ -16,7 +16,7 @@
 <span class="center-text">`asūrasūravṛndavanditamabhimatavaravitaraṇe niratam|`</span>
 <span class="center-text">`darśanaśatāgryapūjyaṃ prāṇatanuṃ gaṇapatiṃ vande|1|`</span>
 
-<span class="center-text">I bow in reverence to Gaṇapati, the Lord of the Gaṇa-s, Who is the very embodiment of prāṇa, the sacred outbreath of the Supreme. He, Who bestows the highest and most exalted resolve, is venerated alike by the hosts of gods and demons. Among all darśana-s, He is the foremost, the one to be worshipped first, for He alone clears the path to divine realization.</span>
+<span class="center-text">I offer my respectful obeisances unto Gaṇapati, the Lord of the Gaṇas, who is the very manifestation of the sacred breath of Praṇa, the Supreme Being. He, who gives the highest and the greatest resolution, is equally revered by the gods and the demons. He is the chief of all philosophies, the first to be revered, for he alone paves the way to divine realization.</span>
 
 
 <span class="center-text">`वरवीरयोगिनीगणसिद्धावलिपूजितांघ्रियुगलम्।`</span>
@@ -25,7 +25,7 @@
 <span class="center-text">`varavīrayoginīgaṇasiddhāvalipūjitāṃghriyugalam|`</span>
 <span class="center-text">`apahṛtavinayijanārtiṃ vaṭukamapānābhidhaṃ vande|2|`</span>
 
-<span class="center-text">I bow to the glorious Vaṭuka, the very essence of inhalation itself, whose divine feet are venerated by the noble lineage of exalted vīra-s and perfected siddha-s, ever attended by the radiant yoginī-s. He, the benevolent One, dispels the suffering of His devoted seekers, carrying away their afflictions with boundless grace.</span>
+<span class="center-text">I bow before the divine Vaṭuka, who is the very essence of the breath, whose holy feet are venerated by a sacred lineage of great heroes and accomplished siddha-s, and who is always served by illustrious yoginī-s. The compassionate Lord removes the sufferings of His devotees and takes away all their sorrows by His infinite grace.</span>
 
 
 <span class="center-text">`आत्मीयविषयभोगैरिन्द्रियदेव्यः सदा हृदम्भोजे।`</span>
