@@ -106,7 +106,7 @@
 <span class="center-text">`varatararūpaviśeṣairmārutadigdalaniṣaṇṇadehā yā|`</span>
 <span class="center-text">`pūjayati bhairavaṃ tāmindrāṇīṃ dṛktanuṃ vande|11|`</span>
 
-<span class="center-text">I sing the glory of the radiant Indrāṇī, the very essence of divine sight, who, seated upon the sacred northwest petal—her realm pervaded by the force of the Māruts—worships Bhairava through the splendor of countless supreme forms, each a revelation of his boundless magnificence.</span>
+<span class="center-text">I sing the glories of the illustrious Indrāṇī, who is the very manifestation of divine vision. Seated on the sacred north-western petal—where the power of the Maruts abides—She worships Bhairava with the brilliance of innumerable supreme forms, each a divine manifestation of His infinite glory.</span>
 
 
 <span class="center-text">`धनपत्तिकिसलयनिलया या नित्यं विविधषड्रसाहारैः।`</span>
