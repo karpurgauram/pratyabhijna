@@ -97,7 +97,7 @@
 <span class="center-text">`paścimadigdalasaṃsthā hṛdayaharaiḥ sparśakusumairyā|`</span>
 <span class="center-text">`toṣayati bhairvaṃ tāṃ tvagrūpadharāṃ namāmi vārāhīm|10|`</span>
 
-<span class="center-text">I offer my obeisance to the glorious Vārāhī, the embodiment of the tattva of touch, who, seated upon the sacred western petal, delights the fierce Bhairava with the fragrant blossoms of sensation—an offering that stirs the very core of the heart with its intoxicating essence.</span>
+<span class="center-text">I bow to the divine Vārāhī, who is the embodiment of the element of touch. Seated on the sacred western petal, she pleases the fierce Bhairava with an offering of fragrant flowers in the form of touch—an offering that stirs the innermost being of the heart with its enchanting essence.</span>
 
 
 <span class="center-text">`वरतररूपविशेषैर्मारुतदिग्दलनिषण्णदेहा या।`</span>
