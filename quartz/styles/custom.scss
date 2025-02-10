@@ -5,6 +5,7 @@ body {
   background: url(images/hrim.png) no-repeat fixed;
   background-size: cover;
   background-position-y: center;
+  background-color: var(--light);
 }
 
 @media (max-width: 392px) {
@@ -19,8 +20,6 @@ body {
     }
 
 }
-
-
 
 .mantra_div {
     border: 1px solid rgba(0, 0, 0, 0.1);
