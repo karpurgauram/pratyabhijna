@@ -29,12 +29,12 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
+    Component.Darkmode(),
     Component.MobileOnly(Component.Spacer()),
     Component.MobileOnly(ExtraComponent.OverlayExplorer(
       {filterFn: (node) => (node.name !== "tags" && node.name !== "License")},
     )),
     Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
