@@ -7,11 +7,20 @@ body {
   background-position-y: center;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 392px) {
+   .page-title {
+      font-size: 1.35rem;
+    }
+}
+
+@media (max-width: 700px) {
     body {
         background-size: contain; /* or 100% 100% */
     }
+
 }
+
+
 
 .mantra_div {
     border: 1px solid rgba(0, 0, 0, 0.1);
