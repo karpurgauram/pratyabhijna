@@ -1,6 +1,11 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+html {
+  background-color: var(--light);
+}
+
+
 body {
   background: url(images/hrim.png) no-repeat fixed;
   background-size: cover;
@@ -121,4 +126,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.darkmode {
+    display: none;
 }

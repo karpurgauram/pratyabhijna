@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    //Component.Darkmode(),
+    Component.Darkmode(),
     Component.MobileOnly(Component.Spacer()),
     Component.MobileOnly(ExtraComponent.OverlayExplorer(
       {filterFn: (node) => (node.name !== "tags" && node.name !== "License")},
@@ -54,7 +54,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
-    //Component.Darkmode(),
+    Component.Darkmode(),
     Component.MobileOnly(Component.Spacer()),
     Component.MobileOnly(ExtraComponent.OverlayExplorer(
       {filterFn: (node) => (node.name !== "tags" && node.name !== "License")},
