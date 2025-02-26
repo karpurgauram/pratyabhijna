@@ -1,16 +1,29 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+html {
+  background-color: var(--light);
+}
+
+
 body {
   background: url(images/hrim.png) no-repeat fixed;
   background-size: cover;
   background-position-y: center;
+  background-color: var(--light);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 392px) {
+   .page-title {
+      font-size: 1.30rem;
+    }
+}
+
+@media (max-width: 700px) {
     body {
         background-size: contain; /* or 100% 100% */
     }
+
 }
 
 .mantra_div {
@@ -35,7 +48,7 @@ body {
 .btn-14 {
     color: var(--dark);
     background: var(--buttonlight);
-    z-index: 1;
+    z-index: 0;
     border: none;
     padding: 0.4em;
     position: relative;
@@ -46,7 +59,7 @@ body {
 
 .btn-14:before,.btn-14:after {
     content: "";
-    z-index: -1;
+    z-index: 0;
     border: 2px solid;
     width: 37%;
     height: 94%;
@@ -113,4 +126,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.darkmode {
+    display: none;
 }
