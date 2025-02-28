@@ -10,3 +10,4 @@
 <span class="center-text">#ŚS — `śiva sutrā-s`</span>
 <span class="center-text">#AG — `mahāmaheśvarāćārya abhinavaguptaḥ`</span>
 <span class="center-text">#SAṂVIT — `universal consciousness`</span>
+
