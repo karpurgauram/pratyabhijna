@@ -8,3 +8,6 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+.vscode/
+.env
+
