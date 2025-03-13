@@ -19,27 +19,11 @@
 <span class="center-text">`tatkiṃ nāma suniścitaṃ vada paraṃ satyaṃ ca tacchrūyatāṃ`</span>
 <span class="center-text">`na tyāgī na parigrahī bhaja sukhaṃ sarvaṃ yathāvasthitaḥ|1|`</span>
 
-<span class="center-text">oh hearken well, ye souls that yearn;</span>
-<span class="center-text">to know where highest truths do burn;</span>
-<span class="center-text">in anuttara's foremost grace, so full, so bright;</span>
-<span class="center-text">no toil remains, no shade of night;</span>
-<span class="center-text">no path to walk (saṁkrāma) is set before;</span>
-<span class="center-text">no need to seek; nor wander more;</span>
-<span class="center-text">no musing deep (bhāvanā) in heart confined;</span>
-<span class="center-text">no crafted speech (yukti) of learned mind;</span>
-<span class="center-text">no call to quest (kathā); no tongue to tell;</span>
-<span class="center-text">no mystic trance (dhyāna) where sages dwell;</span>
-<span class="center-text">no steadfast gaze (dhāraṇa); no breath's control;</span>
-<span class="center-text">no murmured words (japa) the lips extol;</span>
-<span class="center-text">no strife nor strain (abhyāsa) the soul doth wear;</span>
-<span class="center-text">no burdened step; no weight to bear;</span>
-<span class="center-text">what then, ye ask, is wisdom’s peak?</span>
-<span class="center-text">what truth, divine, dost thou now seek?</span>
-<span class="center-text">list well! nāht reject nor hold too tight;</span>
-<span class="center-text">but bask in joy, embrace the light;</span>
-<span class="center-text">in all things sweet (sukhaṁ sarvaṁ);</span>
-<span class="center-text">let soul remain; unmoved;</span>
-<span class="center-text">untouched; yet free from chain.</span>
+This is the doctrine of Abhinavagupta, in which he gives insights about the unanswerable level which he calls “anupāya” or “no means”. There is no advancement, no one-pointedness, no interpretation, no logical thought or cognition, no secret discussion or teachings, there is no contemplation. But there is no attentiveness, and there is no difficulty in the practice of humming or repetition.
+
+So, tell what that phenomenal or superior truth is, which has been adroitly firm about by all these means? Or listen carefully from me:—
+
+You (perceiver) do not abandon or discard anything, nor do you embrace or accept anything. You experience everything with joy as you are by nature, for this is your original nature—and it is not accessible by the above means.
 
 
 <span class="center-text">`संसारो ऽस्ति न तत्त्वतस्तनुभृतां बन्धस्य वार्तैव का`</span>
@@ -52,26 +36,7 @@
 <span class="center-text">`mithyāmohakṛdeṣarajjubhujagaśchāyāpiśācabhramo`</span>
 <span class="center-text">`mā kiñcittyaja mā gṛhāṇa vihara svastho yathāvasthitaḥ|2|`</span>
 
-<span class="center-text">oh list, ye souls, both meek and wise;</span>
-<span class="center-text">to truth that breaks all dark disguise;</span>
-<span class="center-text">no birth, no death (saṁsāra) dost remain;</span>
-<span class="center-text">but fleeting dreams of joy and pain;</span>
-<span class="center-text">what chains thee fast? what binds thee tight;</span>
-<span class="center-text">no bonds e’er were in freedom’s light;</span>
-<span class="center-text">to strive for grace;to seek release;</span>
-<span class="center-text">is but to chase the wind’s decease;</span>
-<span class="center-text">like wraith of night; a shade doth dance;</span>
-<span class="center-text">yet holds no power; no true expanse;</span>
-<span class="center-text">a specter false (piścāca); dark and grim;</span>
-<span class="center-text">but naught save air—mere phantom dim;</span>
-<span class="center-text">a twisted cord by night’s faint gleam;</span>
-<span class="center-text">seems coiled as snake (bhujaga) unseen;</span>
-<span class="center-text">yet truth’s bright torch doth cast away;</span>
-<span class="center-text">the lying shapes of mortal clay;</span>
-<span class="center-text">oh doubt no more; nor grasp, nor spurn;</span>
-<span class="center-text">for naught is lost; and naught to earn;</span>
-<span class="center-text">abide in self, untouched, so free;</span>
-<span class="center-text">as boundless sky; as endless sea!</span>
+In certainty, the universe does not exist, then, in reality what is the crisis of the bondage of beings bearing bodies? The one who has attained salvation, bondage has never existed, because for him (who knows that) the attempt to attain liberation is vain arising from the limited perception. It is just like thinking of a moving rope as a snake or thinking of a shadow as a ghost. Do not give up anything and do not accept anything. Just remain in yourself as you are and remain in blissfulness while enjoying yourself.
 
 
 <span class="center-text">`पूजापूजकपूज्यभेदसरणिः केयं कथानुत्तरे`</span>
@@ -84,26 +49,7 @@
 <span class="center-text">`māyeyaṃ na cidadvayātparatayā bhinnāpyaho vartate`</span>
 <span class="center-text">`sarvaṃ svānubhavasvabhāvavimalaṃ cintāṃ vṛthā mā kṛthāḥ|3|`</span>
 
-<span class="center-text">oh hear ye now, both bold and meek;</span>
-<span class="center-text">a truth beyond what tongues may speak;</span>
-<span class="center-text">in oneness vast, where none divide;</span>
-<span class="center-text">what path remains, what steps abide?</span>
-<span class="center-text">what word of praise; what rite be done;</span>
-<span class="center-text">when all is thee; the only one?</span>
-<span class="center-text">no worshipper (pūjaka); nor sacred throne;</span>
-<span class="center-text">nor worship’s act (pūja) to be shown;</span>
-<span class="center-text">no god adorned (pūjya) in form so bright;</span>
-<span class="center-text">when all is lost in boundless light;</span>
-<span class="center-text">to whom, by what, may passage be;</span>
-<span class="center-text">when naught doth bar the endless sea?</span>
-<span class="center-text">no gate to pass (praveśa); no door to find;</span>
-<span class="center-text">no chains remain to loose or bind;</span>
-<span class="center-text">yet lo! though forms do seem apart;</span>
-<span class="center-text">this but one light; one breath; one heart;</span>
-<span class="center-text">a wonder rare; a vision deep;</span>
-<span class="center-text">where all is one in waking sleep!</span>
-<span class="center-text">why fret, why fear, why toil in vain?</span>
-<span class="center-text">thou art the whole—untouched, unstained!</span>
+In this unanswerable supreme state—in the ultimate (anuttare)—what is the significance of this kathā or speech in which the difference between 'worship', 'worshipper' and 'worshipped' is discussed? —In other words, it is useless to talk about these three. This progress for whom and by whom must have been accomplished? or, what is the 'process of integrating oneself' (or means of entry)? Although also this perceived to be differentiated, but in the ultimate truth this differentiatedness is not separated from the brutal non-duality of consciousness.
 
 
 <span class="center-text">`आनन्दोऽत्र न वित्तमद्यमदवन्नैवाङ्गनासङ्गवत्`</span>
@@ -116,22 +62,7 @@
 <span class="center-text">`harṣaḥ saṃbhṛtabhedamuktisukhabhūrbhārāvatāropamaḥ`</span>
 <span class="center-text">`sarvādvaitapadasya vismṛtanidheḥ prāptiḥ prakāśodayaḥ|4|`</span>
 
-<span class="center-text">no gold nor gem (vittam); may match its gleam;</span>
-<span class="center-text">nor wine’s delight (madavam); a fleeting dream;</span>
-<span class="center-text">no love’s embrace (saṅgavat); though sweet and fair;</span>
-<span class="center-text">may with this rapture (harṣaḥ) once compare;</span>
-<span class="center-text">no lamp’s faint glow (dīpa) in dusky night;</span>
-<span class="center-text">nor sun (arka) at noon in burning height;</span>
-<span class="center-text">nor moon’s soft grace (indu) on silvered sea;</span>
-<span class="center-text">may shine as bright as this ecstasy;</span>
-<span class="center-text">for lo! this blissful weight (bhāra) descends;</span>
-<span class="center-text">where all division (bedha mukti) ends;</span>
-<span class="center-text">a tide divine (sukhabhūḥ); so vast, so deep;</span>
-<span class="center-text">where soul in peace doth wake from sleep;</span>
-<span class="center-text">like rivers bright (prakāśa udayaḥ) in boundless stream;</span>
-<span class="center-text">where all is one (sarvādvaita); and none may dream;</span>
-<span class="center-text">oh seeker lost, why dost thou roam?</span>
-<span class="center-text">this treasure thine—thy long-lost home (vismṛta).</span>
+The bliss of this state cannot be compared to the intoxication of wealth or wine, nor to the company of a beloved woman. And this radiant flow of light is not like the group of rays of a lamp, sun or moon. This immense joy of the Self is only equal to the weight of that blissful state which descends when one is liberated from all differentiated perceptions. The motion of this supreme consciousness is the state of universal oneness, which is not anything but your own glory which you have momentarily forgotten.
 
 
 <span class="center-text">`रागद्वेषसुखासुखोदयलयाहङ्कारदैन्यादयो`</span>
@@ -144,26 +75,7 @@
 <span class="center-text">`vyaktiṃ paśyasi yasya yasya sahasā tattattadekātmatā`</span>
 <span class="center-text">`saṃvidrūpamavekṣya kiṃ na ramase tadbhāvanā nirbharaḥ|5|`</span>
 
-<span class="center-text">oh list, ye hearts both swift and slow;</span>
-<span class="center-text">a truth beyond what mortals know;</span>
-<span class="center-text">for love’s sweet pull (rāga);</span>
-<span class="center-text">and hate’s cold hand (dveṣā);</span>
-<span class="center-text">seem set apart; yet both do stand;</span>
-<span class="center-text">and joy’s bright face (sukha);</span>
-<span class="center-text">and sorrow’s sigh (asukha);</span>
-<span class="center-text">like dawn’s ascent (daya);</span>
-<span class="center-text">and dusk’s deep lie (laya);</span>
-<span class="center-text">proud boasts of self (ahaṁkāra);</span>
-<span class="center-text">low doubts of woe (dainya);</span>
-<span class="center-text">all shine distinct; yet none do grow;</span>
-<span class="center-text">for lo! this world; in seeming strife;</span>
-<span class="center-text">holds naught but one, the pulse of life;</span>
-<span class="center-text">and when a thing seems fixed and true;</span>
-<span class="center-text">perceive (paśyasi) thyself within its hue;</span>
-<span class="center-text">at once (sahasā); its form shall break;</span>
-<span class="center-text">and thou as that; shalt then partake;</span>
-<span class="center-text">why not rejoice? why dost thou roam?</span>
-<span class="center-text">drink deep of this; thy fullness’ home!</span>
+Persuasion and disinclination, joy and sorrow, insurrection and fixture, self-possession and discouragement — all these states of which this universe is composed appear to be differentiated from one another, but in reality they are undifferentiated. Whenever you recognize the tendency of an object, at that very moment—spontaneously you should recognize the essence of your own self-reflective awareness or consciousness as undifferentiated with it. Then why not triumph in the ecstatic recognization of that fullness!
 
 
 <span class="center-text">`पूर्वाभावभवक्रिया हि सहसा भावाः सदास्मिन् भवे`</span>
@@ -176,22 +88,7 @@
 <span class="center-text">`niḥsatye capale prapañcanicaye svapnabhrame peśale`</span>
 <span class="center-text">`śaṅkātaṅkakalaṅkayuktikalanātītaḥ prabuddho bhava|6|`</span>
 
-<span class="center-text">oh heed, ye souls, both wise and free;</span>
-<span class="center-text">a truth untold by land or sea;</span>
-<span class="center-text">for all things vast (asminbhave) that seem to stay;</span>
-<span class="center-text">do rise at once (sahasā); then fade away;</span>
-<span class="center-text">no past remains (pūrvabhava) to cast its chain;</span>
-<span class="center-text">no future calls with hope or pain;</span>
-<span class="center-text">the present shines; alone, so bright;</span>
-<span class="center-text">yet dreams do mask it from our sight;</span>
-<span class="center-text">all works of men; all deeds they weave;</span>
-<span class="center-text">are but a mist that doth deceive;</span>
-<span class="center-text">like fleeting shapes in slumber deep;</span>
-<span class="center-text">illusions false, as dreamers keep;</span>
-<span class="center-text">rise high! awake! let doubts decay;</span>
-<span class="center-text">no fraud nor stain thy soul betray;</span>
-<span class="center-text">no shadow forged by fleeting mind;</span>
-<span class="center-text">may chain the truth—so bright; so kind!</span>
+Everything in this world always appear in the present moment, that is to say, the action of universality has neither any prior existence nor any future existence. The various kinds of actions are only confusion of duality, based on the illegitimate pervasion of an intermediate state, which is separation, momentary and delusional trick of the light—just as the mass of phenomena seen in a dream is only fantasy. Rise above the blemishes, which have been unjustly wrought up by the blemishes of doubts, and so become awake!
 
 
 <span class="center-text">`भावानां न समुद्भवो ऽस्ति सहजस्त्वद्भाविता भान्त्यमी`</span>
@@ -204,22 +101,7 @@
 <span class="center-text">`tvatsaṅkalpaja eṣa viśvamahimā nāstyasya janmānyataḥ`</span>
 <span class="center-text">`tasmāttvaṃ vibhavena bhāsi bhuvaneṣvekāpyanekātmakaḥ|7|`</span>
 
-<span class="center-text">oh list, ye wanderers; far and near;</span>
-<span class="center-text">a secret high, lend thou thine ear;</span>
-<span class="center-text">no lifeless thing its form may show;</span>
-<span class="center-text">save when thine eye doth make it so;</span>
-<span class="center-text">for what is seen; yet holds no breath;</span>
-<span class="center-text">is but a shade; a fleeting death;</span>
-<span class="center-text">and though it lacks true form or grace;</span>
-<span class="center-text">thy mind doth cast it time and place;</span>
-<span class="center-text">this mighty world; so vast, so bright;</span>
-<span class="center-text">is born of thee; thy dream, thy light;</span>
-<span class="center-text">no source it hath; nor womb to bear;</span>
-<span class="center-text">but springs from thought and floats on air;</span>
-<span class="center-text">oh wondrous soul! in thee doth shine;</span>
-<span class="center-text">a thousand stars; a tale divine;</span>
-<span class="center-text">though one thou art; yet many seem;</span>
-<span class="center-text">a godly spark in boundless dream!</span>
+There is no objective flow to material things, for they appear only when you perceive them. Though they are devoid of reality, they appear real at that one moment because of your delusional perception. Thus, the glory of this universe arises only from your imagination—it does not originate from any other source. Therefore, You are the Light in all these worlds (wakefulness, dreaming states), and though You are One, You appear in many forms by Your own glory!
 
 
 <span class="center-text">`यत्सत्यं यदसत्यमल्पबहुलं नित्यं न नित्यं च यत्`</span>
@@ -232,42 +114,16 @@
 <span class="center-text">`tatsarvaṃ svavimarśasaṃvidudayādrūpaprakāśātmakaṃ`</span>
 <span class="center-text">`jñātvā svānubhavādhirūḍhamahimā viśveśvaratvaṃ bhaja|8|`</span>
 
-<span class="center-text">o hark, ye seekers; bold and true;</span>
-<span class="center-text">a mystery grand i tell to you;</span>
-<span class="center-text">what false; what real;</span>
-<span class="center-text">what great; what small;</span>
-<span class="center-text">are but veiled shades—one light in all;</span>
-<span class="center-text">what lingers long; what fades so fast;</span>
-<span class="center-text">what seems to stay; yet cannot last;</span>
-<span class="center-text">what pure doth gleam; what false doth rise;</span>
-<span class="center-text">are but reflections in thine eyes;</span>
-<span class="center-text">this world so vast; both bright and deep;</span>
-<span class="center-text">doth from thyself its semblance keep;</span>
-<span class="center-text">a mirror clear; where forms do play;</span>
-<span class="center-text">yet naught beyond thyself doth stay;</span>
-<span class="center-text">oh grasp this truth; so high, so bright;</span>
-<span class="center-text">thy soul alone is sovereign might!</span>
-<span class="center-text">in thee the stars; the heavens gleam;</span>
-<span class="center-text">a kingly throne within thy dream!</span>
+Anything real or unreal, small or vast, eternal or momentary—that which is covered by the perception of discrimination and that which is pure in its own nature—in reality, this entire universe arises from your own undifferentiated consciousness, which is unified by your own essence and attains divinity in the self-reflective awareness of the mirror of consciousness.
+
+Recognizing this greatness of the universe and understanding the importance of the prestige of your own experience, enjoy the universal opulence!
 
 
 <span class="center-text">`॥इति श्रीमदाचार्याभिनवगुप्तपादविरचितानुत्तराष्टिका समाप्ता॥`</span>
 
 <span class="center-text">`|iti śrīmadācāryābhinavaguptapādaviracitānuttarāṣṭikā samāptā|`</span>
 
-<span class="center-text">thus ends (iti) this song; so bright, so true;</span>
-<span class="center-text">a jewel of wisdom; old yet new;</span>
-<span class="center-text">these eight fair verses; pure and high;</span>
-<span class="center-text">on the absolute; beyond the sky;</span>
-<span class="center-text">by sacred hand; with vision deep;</span>
-<span class="center-text">the venerable sage did keep;</span>
-<span class="center-text">śrīmat ācārya abhinavagupta’s name</span> 
-<span class="center-text">(śrīmat-ācārya-abhinavagupta-pāda-viracitā);</span>
-<span class="center-text">in glory wrapped; in deathless fame;</span>
-<span class="center-text">with mystic art; his quill did weave;</span>
-<span class="center-text">a truth no mind may yet conceive;</span>
-<span class="center-text">now complete (samāptā); the work doth stand;</span>
-<span class="center-text">a beacon bright in wisdom’s land!</span>
+This ‘Anuttarāṣṭikā’ or ‘Eight verses concerning the Ultimacy’, written by the most Venerable Mahāmaheśvarācārya Abhinavaguptaḥ, is complete.
 
 
-**Translated & Recrafted in Poetic Way by Nagkumar; Inspired from My Guru Īśvarasvarupa Swāmī Lakṣamaṇajū.**
+**Translated by Nagkumar; Inspired from My Guru Īśvarasvarupa Swāmī Lakṣamaṇajū.**
