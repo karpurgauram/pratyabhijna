@@ -11,9 +11,13 @@
 Last Sunday [[Practices/purity of mind\|I told you that one's mind]] must have become perfectly clean. That is possible by conquering the pose (`āsanajaya`). In that connection I explained the śloka:— 
 
 *मध्यमं प्राणमाश्रित्य प्राणापानपथान्तरम् ।* 
+
 *आलम्ब्य ज्ञानशक्तिं च तत्स्थं चैवासनं लभेत् ॥* 
+
 **—Netra Tantra VI.1ff.** 
+
 *Meaning:*
+
 `Resting in the middle path at the junction–point of the inhaling and exhaling breaths with full awareness, constitutes the seat āsana—of the yogi.`
 
 That means `prāṇāpānapathāṅtaraṁ madhyamaṁ prāṇamāśritya; kathaṁ` how? `ālaṁḅya jñānaśaktiṁ ca`—**when one is perfectly aware**. I**n the middle of the exhaling and inhaling breaths you have to experience the central breath**. It is the uniformity in the breath when it stops in a very natural way—`kuṁbhaka`. This is experienced at the **junction** of the two breaths. At that point one has to remain aware of the superconscious Self. That is termed the **real pose** or **āsana**. Āsana does not really mean here the different physical postures such as bhadrāsana, svastikāsana etc. etc. 
