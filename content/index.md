@@ -64,7 +64,7 @@ let karpurgauram be thy guiding lantern; thy muse; & thy companion upon this sac
 <span class="center-text">`ॐ नमः चिद्वपुषे॥`</span>
 
  `what's new`
-- [[[practices/the-conquest-of-asana\|the conquest of asana]]
+- [[practices/the-conquest-of-asana\|the conquest of asana]]
 - [[scriptures/dehasthadevatācakrastotram\|dehasthadevatācakrastotram]]
 - [[scriptures/anuttarashtika\|anuttarāṣṭikā]]
 - [[scriptures/bhairavastava\|bhairavastavaḥ]]
