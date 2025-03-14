@@ -2,7 +2,7 @@
 {"title":"the conquest of asana","date":"2025-03-14","tags":["discipline","practices","mind","purity","awareness","asana","journey_of_pranayma","articles"],"permalink":"/practices/the-conquest-of-asana/","path":"Practices/the conquest of asana.md","publish":true,"PassFrontmatter":true,"created":"2025-03-14T16:57:21.983+05:30","updated":"2025-03-14T17:15:48.408+05:30"}
 ---
 
-**—Prāṇāyāma—**
+**—Āsana—**
 
 `—Swami Lakshamanjoo—`
 `∫Sunday, May 11, 1980∫`
