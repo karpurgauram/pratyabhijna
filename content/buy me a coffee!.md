@@ -3,6 +3,7 @@
 **if our transmissions—be they encrypted in philosophy, or pure bhairava energy—have sparked something in your soul’s algorithm, consider powering the server.**
 
 <span class="center-text">☕ `sudo support – coffee=true`</span>
+
 <span class="center-text">**UPI:** `karpurgauram@kotak` or `nagkumar@pingpay`</span>
 
 every contribution keeps the script running, the dharma deploying, and the transmission unbroken.
