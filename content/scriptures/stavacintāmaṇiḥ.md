@@ -23,10 +23,10 @@
 <span class="center-text">`sugirā cittahāriṇyā paśyantyā dṛśyamānayā |`</span>
 <span class="center-text">`jayatyullāsitānanda mahimā parameśvaraḥ |1|`</span>
 
-<span class="center-text">This marks the initial obeisance to Lord Śiva. We bow before Lord Śiva and offer our salutations, proclaiming, "Victory to the Divine Guru, Victory to Śiva." When He [Lord Śiva] utters His sacred speech—His supreme, exquisite word (sugirā, meaning that most elevated and beautiful utterance)—it is citta hāriṇyā, capable of seizing your mind entirely, along with all its thoughts and perceptions. His single word captivates and dissolves your mind, stripping away every idea and concept. Through His compassionate gaze (paśyantyā), which beholds you with boundless grace, He initiates infinite waves of divine rapture within you (dṛśyamānayā). May that glorious Lord Śiva triumph! May He reign victorious—the One whose word silences the mind and its illusions, and whose merciful glance dispels all anxieties and sorrows.</span>
+This is the initial salutation to Lord Śiva. We bow down before the feet of Lord Śiva and offer our respects, declaring, “Victory to the Divine Guru, Victory to Śiva.” When Lord Śiva utters His holy voice—that supreme, matchless and divine utterance (that is, that highest and most beautiful utterance)—He completely subjugates your mind, with all its thoughts and conceptions. His single word attracts your mind and dissolves it, erasing every thought and imagination. His compassionate glance, which is filled with infinite grace, sends within you infinite waves of divine bliss. May the glorious Lord Śiva always triumph! May He always triumph—He, whose word silences the mind and its delusions, and whose glance of grace dispels all worries and sorrows.
 
 <span class="center-text">**Reflections:**</span>
-<span class="center-text">The nature of the Supreme speech of Lord Śiva is that sound which is the very essence of consciousness. It is Spanda—the unspoken resonance, the silent vibration.</span>
+The form of Lord Śiva's supreme voice is the sound that is the essence of consciousness itself. It is the pulse - the unspoken resonance, Parāvāk—the silent motionless-vibration.
 
 
 <span class="center-text">`यः स्फीतः श्रीदयाबोधपरमानन्दसंपदा ।`</span>
@@ -36,9 +36,11 @@
 <span class="center-text">`vidyoddyotitamāhātmyaḥ 
 sa jayatyaparājitaḥ ||2||`</span>
 
-<span class="center-text">May that Lord Śiva always prevail, eternally triumphant—the One whose splendor is revealed through the magnificence of śrī-dayā-bodha-paramānandasaṁpadā. Śrī represents the abundance of pure awareness; dayā signifies compassion and benevolence. Through boundless grace, through the wealth of divine consciousness, through immense kindness, through bodha (universal wisdom), and through paramānanda (absolute bliss), He is exalted. May Lord Śiva, glorified by the radiance of universal awareness, by ever-present compassion, by supreme knowledge (bodha), and by the highest ecstasy (paramānanda), be victorious.
+May Lord Śiva be eternally victorious, eternally triumphant—He whose glory is manifested through the divine splendor of śrī-dayā-bodha-paramānandasaṁpadā. Śri is the infinite richness of pure consciousness; Dayā is the epitome of compassion and benevolence. He is supremely glorious through infinite grace, the immense wealth of divine consciousness, infinite grace, bodha (all-pervading knowledge), and paramānanda (ultimate bliss).
 
-Let Him be victorious—the One whose greatness is illuminated and empowered by vidyā, by śuddhavidyā, the most refined and sacred wisdom. May that infinite consciousness reign supreme in all directions, pervading everywhere.</span>
+May Lord Śiva, who is radiant with the radiance of omnipresent consciousness, eternal compassion, supreme knowledge (Bodha), and supreme bliss, be eternally victorious.
+
+May He be eternally victorious—He whose greatness is illuminated and empowered by the light of Vidyā and Śuddha Vidyā (the purest and most subtle knowledge). May that infinite consciousness pervade all directions, circulate everywhere, and rule over the entire universe.
 
 <span class="center-text">**Reflections:**</span>
-<span class="center-text">These are two ślokas, simple prayers dedicated to Lord Śiva. Now, Bhaṭṭa Nārāyaṇa will commence these sacred hymns of devotion, and we shall go through them, one by one.</span>
+These are two verses, simple prayers dedicated to Lord Śiva. Now Bhaṭṭa Nārāyaṇa will begin these sacred devotional hymns, and we will go through them one by one.
