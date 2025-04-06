@@ -44,3 +44,46 @@ May He be eternally victorious—He whose greatness is illuminated and empowered
 
 <span class="center-text">**Reflections:**</span>
 These are two verses, simple prayers dedicated to Lord Śiva. Now Bhaṭṭa Nārāyaṇa will begin these sacred devotional hymns, and we will go through them one by one.
+
+<span class="center-text">`प्रसरद्विन्दुनादाय`</span>
+<span class="center-text">`शुद्धामृतमयात्मने ।`</span>
+<span class="center-text">`नमोऽनन्तप्रकाशाय`</span>
+<span class="center-text">`शंकरक्षीरसिन्धवे ॥३॥`</span>
+
+<span class="center-text">`prasaradbindunādāya`</span>
+<span class="center-text">`śuddhāmṛtamayātmane |`</span>
+<span class="center-text">`namo’nantaprakāśāya`</span>
+<span class="center-text">`śaṅkarakṣīrasindhave|3|`</span>
+
+
+I bow to Śaṅkara who is like an ocean of milk, an infinite ocean of pure sweet milk. I bow to Śaṅkara who is like an infinite ocean of milk, and it is expanding [prasarat] bindu nādāya, where the divine two-fold or divine dual flow of bindu and nādā takes place.
+
+These are two positions of Parābhairava which Bindu meaning Prakāśa and nādā is Vimarśa. Bindu is basically “I-consciousness”; nādā is to feel and observe “I-consciousness.” All Consciousness is bindu; and the feeling “I am consciousness, I am universal consciousness,” that is nādā.
+
+For example, the light [prakāśa] of the sun, the [prakāśa] of the moon, the [prakāśa] of fire—these are all bindu, but they do not have nādā. These lights do not have the understanding of their existence, they don't know they exists. The sun has light, but the sun does not know that “I am light.” It is only a star, it does not have the awareness that “I am full of this light.”
+
+When this awareness arises, when the understanding develops that “I am this light, or I am filled with this prakāśa,” then it is called nādā. Both Bindu and Nādā are found in the universal consciousness. The other lights have only Bindu, not Nādā. Nādā is understanding and perception.
+
+The fire burns, but it does not know that "I am burning." Similarly, the light of the moon, the light of the sun—they are unknown by their nature. But the universal consciousness has both Bindu and Nādā.
+
+Similarly, prakāśa and vimarśa are called Bindu and Nādā in the Śāmbhava state. In Śāktopāya, Jñāna and Krīyā [knowledge and action] are considered Bindu and Nādā. In Ānavopāya, the inhalation and exhalation of breath are Bindu and Nādā.
+
+Inhalation and exhalation are Bindu and Nādā from the perception of Ānavopāya, knowledge and action according to Śāktopāya, and prakāśa and vimarśa in the perception of Śāmbhavopāya.
+
+"Prasarat Bindu Nādāya," that is, I bow to Lord Śiva, who is full of Bindu and Nādā. Within him the flows of prakāśa and vimarśa always exist—in the śāmbhava state, in the śākta state, and in the ānava state, the incoming breath and out-going breath.
+
+In the ānava state—inhalation and exhalation.
+
+In the śāktopāya—action and knowledge.
+
+In the śāmbhavopāya—prakāśa and vimarśa.
+
+"Śuddhāmṛtamayātmane," and this is the fullness of pure nectar. The purest nectar is found only in the universal consciousness. Other nectar is found in the demigods, making them immortal, but only for a certain time.
+
+"Kṣīṇe puṇye martya lokaṁ viśanti,"—when the virtue is depleted, they again come to the mortal world. The effect of that nectar eventually ceases.
+
+But the nectar that is found in the universal consciousness, found in Lord Śiva, is the real and eternal nectar. It is never destroyed, never ends. It remains forever. This is the meaning of "Śuddhāmṛtamayātmane."
+
+And "namo ananta prakāśāya," He is the light of all lights. He is the light of all darknesses (light of all darknesses of ignorance). All light and darkness, both have manifested from Him.
+
+"Śaṅkarakṣīra-sindhave," I bow to that Śaṅkara who is like an infinite ocean of sweet milk.
