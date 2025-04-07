@@ -34,7 +34,7 @@ The form of Lord Śiva's supreme voice is the sound that is the essence of consc
 
 <span class="center-text">`yaḥ sphītaḥ śrīdayābodhaparamānandasaṁpadā |`</span>
 <span class="center-text">`vidyoddyotitamāhātmyaḥ 
-sa jayatyaparājitaḥ ||2||`</span>
+sa jayatyaparājitaḥ |2|`</span>
 
 May Lord Śiva be eternally victorious, eternally triumphant—He whose glory is manifested through the divine splendor of śrī-dayā-bodha-paramānandasaṁpadā. Śri is the infinite richness of pure consciousness; Dayā is the epitome of compassion and benevolence. He is supremely glorious through infinite grace, the immense wealth of divine consciousness, infinite grace, bodha (all-pervading knowledge), and paramānanda (ultimate bliss).
 
@@ -53,7 +53,7 @@ These are two verses, simple prayers dedicated to Lord Śiva. Now Bhaṭṭa Nā
 <span class="center-text">`prasaradbindunādāya`</span>
 <span class="center-text">`śuddhāmṛtamayātmane |`</span>
 <span class="center-text">`namo’nantaprakāśāya`</span>
-<span class="center-text">`śaṅkarakṣīrasindhave|3|`</span>
+<span class="center-text">`śaṅkarakṣīrasindhave |3|`</span>
 
 
 I bow to Śaṅkara who is like an ocean of milk, an infinite ocean of pure sweet milk. I bow to Śaṅkara who is like an infinite ocean of milk, and it is expanding [prasarat] bindu nādāya, where the divine two-fold or divine dual flow of bindu and nādā takes place.
@@ -87,3 +87,22 @@ But the nectar that is found in the universal consciousness, found in Lord Śiva
 And "namo ananta prakāśāya," He is the light of all lights. He is the light of all darknesses (light of all darknesses of ignorance). All light and darkness, both have manifested from Him.
 
 "Śaṅkarakṣīra-sindhave," I bow to that Śaṅkara who is like an infinite ocean of sweet milk.
+
+<span class="center-text">द्विष्मस्त्वां त्वां स्तुमस्तुभ्यं</span>
+<span class="center-text">मन्त्रयामोऽम्बिकापते ॥</span>
+<span class="center-text">अतिवाल्लभ्यतः साधु</span>
+<span class="center-text">विश्वङ्गो धृतवानसि ॥४॥</span>
+
+<span class="center-text">dviṣmastvāṁ tvāṁ</span>
+<span class="center-text">stumastubhyaṁ</span>
+<span class="center-text">mantrayāmo’mbikāpate |</span>
+<span class="center-text">ativāllabhyataḥ sādhu</span>
+<span class="center-text">viśvaṅno dhṛtavānasi |4|</span>
+
+Oh Lord of My Sweet Mother Aṁbikā, Oh husband of my universal mother (the universal mother is Pārvati), Oh Lord of the Mother, O Lord Śiva, I love You so much. Ativāllabhyataḥ — I love You very much, I have great attachment to You. And because of this great attachment, sometimes I even hate You!
+
+Though I hate You sometimes, you should not care about that. I will sometimes praise You (stumas-tubhyaṁ). I will praise You only because of my love to You, because of great love. I love You very much, so I also hate You. I love You very much, so I also praise You.
+
+Mantrayāma, I chant Your mantra, because I love You. Ativāllabhyataḥ, because I have nobody else. I have no one else to support or to lean on — only You. So whom should I hate? I will hate You! Because viśvaṅno dhṛtavānasi, I see you everywhere, in every form, in every thing.
+
+I see you everywhere, so I love you so much — I will hate you, praise you, hit you, kick you, embrace you — I will do everything, do everything to you.
