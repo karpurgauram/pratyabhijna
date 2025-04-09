@@ -1,0 +1,94 @@
+---
+{"title":"an introduction to trikaśāsan [tāntrik philosophy]","date":"2025-01-08","tags":["introduction","trikashasan","articles","lineage","pratyabhijna","kula","krama","spanda","history","origin","kashmirshaivism"],"publish":true,"path":"introduction/trikashasan/trikashasan introduction.md","permalink":"/Introduction/trikashasan/trikashasan introduction/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.592+05:30","updated":"2025-04-09T15:18:48.658+05:30"}
+---
+
+
+Lo, the river of Bhāratiya lore and sacred praxis hath flowed through the ages in two mighty streams: the Vedik and the Āgamaic. If the wellspring of the Vedik current be the hallowed exhalation of Vāmadeva, that venerable countenance of Lord Swachchandanātha Bhairava, then verily, the root of the Āgamaic or Tāntrik torrent springeth forth from the august utterances of the fivefold mouths of that same ineffable Lord, Swachchandanātha Bhairava.
+
+This Bhairavāgamadhārā, the celestial river of the Bhairavāgamic wisdom, is eternal and unyielding, flowing beyond the bounds of mortal comprehension. It abideth in a state of divine indifference, untainted by the fetters of worldly dualities. Free it is, as the wind that doth wander o’er the plains, and secret as the whisper of the night’s own shadow. Its waters are pure and unsullied, moving ever in accordance with the spontaneous and boundless grace of Lord Swachchandanātha Bhairava.
+
+Thus, from the mouths of the Eternal Lord, whose fivefold utterances resonate with the mysteries of creation, preservation, dissolution, concealment, and grace, doth this sacred stream emerge. It is a current unseen by profane eyes, yet ever-present to the devout and those who walk the path of wisdom. And by this divine flow, unbroken and uncorrupted through the ages, are the veils of ignorance rent asunder, revealing the hidden truths of existence to those whose hearts are kindled by devotion.
+
+Forsooth, the Vedik stream, born of a single breath, singeth the hymns of cosmic order and the laws of righteousness, whilst the Āgamaic stream, a cascade of manifold voices, speaketh of the hidden ways, the secret paths, and the mysteries concealed in the shadowed sanctuaries of the soul. Together, these two streams nourish the vast expanse of Bhāratiya knowledge, each complementing the other as the sun doth complement the moon.
+
+Yet know this: the Āgamaic flow, steeped in secrecy and guarded by the wisdom of the ages, may only be accessed through the grace of Swachchandanātha Bhairava. It is He who, in His infinite compassion, granteth the seeker entrance into this realm of sacred knowledge, wherein the soul is transformed, and the divine is made manifest.
+
+Such is the eternal and ineffable stream of Bhāratiya knowledge, flowing forth from the wellspring of the Divine, ever-guided by the hand of the Supreme Lord, Swachchandanātha Bhairava.
+
+![maxresdefault.jpg](../../metadata/images/maxresdefault.jpg)
+
+And, from the sacred wellspring of the Āgamic current, there arose two noble streams of wisdom: the Rudragāma, which standeth as a synthesis of duality and nonduality, and the Shivagāma, rooted more firmly in dualistic understanding. In the fulness of time, the adherents of these venerable traditions, and likewise the followers of the Vedik stream and its kindred paths, didst mingle and interact one with the other. Through such exchanges, the doctrines, customs, and practices of each did become, in some measure, intertwined, creating thereby a moral tradition both mixed and multifaceted.
+
+Thus, the blending of these rivers of thought and devotion did bear forth fruits of great consequence. The Rudrasūkta of the Vedic canon, the Śvetāśvatara Upanishad, and the Paśupata tradition were as tributaries joined to this mighty confluence. Likewise, the Brahma and Tripura Tāpinī Upanishads, the Tripurā literature, and the Katharudra stream did bear testimony to this interweaving. Verily, even in the realm of Bhāvanā and Tāntrik worship, the utterance of Vedic mantras and their sacred employment found a hallowed place. Such mingling of traditions, though born of diversity, became as a bridge between the realms of Vedic and Āgamic thought, enriching both.
+
+Yet let it not be forgotten that the Tāntrik lore, though it doth borrow and lend, remaineth steadfastly distinct in its essence. Its tenets, its principles, and its sacred rites stand apart, forming a body of wisdom both unique and perfect in its own right. Unlike the Vedic path, which doth often speak in the language of universal law and sacrificial order, the Tāntrik path doth turn its gaze inward, delving into the hidden mysteries of the self, the cosmos, and the divine union that lieth beyond the veil of duality.
+
+The gift of the Tāntrik stream, therefore, is one of revelation and transformation—a wisdom that doth teach the seeker to transcend the boundaries of the mundane and to commune with the ineffable. For though it doth acknowledge and, at times, employ the tools of the Vedic tradition, its heart beateth to a rhythm wholly its own. Its doctrines, born of the speech of Lord Swachchandanātha Bhairava, are as a treasure hidden in plain sight, veiled yet radiant, distinct yet universal, perfect in their sublime mystery.
+
+Thus, while the mingling of these streams hath yielded a fertile ground of shared practice and belief, the Tāntrik tradition doth yet retain its sacred autonomy, standing as a pillar of spiritual profundity amidst the flowing rivers of Bhāratiya wisdom.
+
+![Shiva-Offering-from-Crown-to-Shakti-900.jpg](../../metadata/images/Shiva-Offering-from-Crown-to-Shakti-900.jpg)
+
+All philosophies, whether manifold or singular in their essence, do acknowledge the Supreme Being as the primordial root of the universe, albeit in forms that may differ in name and understanding. Yet, in truth, the foundation of all such doctrines and creeds doth rest upon the eternal pillars of Trikahṛdaya and Trikaśāsana. These twin bastions stand as the cornerstone of wisdom, proclaiming the undivided and transcendent nature of the Supreme.
+
+In this lofty vision, the Supreme Being is beheld as indivisible and whole, beyond all division and duality. In the profoundest depths of its Absolute state, wherein the Supreme abideth in its most pristine essence, it is said that even the notion of Ćidānanda—the blissful consciousness—is impossible to conceive. For this state is none other than the Niranśa Anūttara Parā—the unfragmented and supreme transcendence. It is a realm where only Sanmātra, the pure being, doth prevail, undisturbed by any stirrings of differentiation or form.
+
+Yet, from this infinite stillness and perfect oneness, there doth spring forth an aspect of the Supreme—a subtle movement, as if the first ripple upon the eternal sea of being. This emergence is the self-luminous essence known as Ćit or Ćiti in the sacred tongue of the Trika. It is a radiance that doth reveal itself, not as an other, but as the very nature of the Supreme, shining forth in the glory of self-awareness. This Ćidbhāva, this state of luminous consciousness, is the first light of the outward orientation of the Supreme, the initial gesture by which the ineffable doth incline towards manifestation.
+
+In the venerable language of the Bhairavāgamas, this self-revealing light is called Anūttara, the unsurpassed and unparalleled. It is the primal effulgence, the highest revelation, that standeth as the bridge between the unmanifest and the manifest, the inward stillness and the outward expansion. Within this radiant mystery, the Supreme is both revealed and concealed, its essence both transcendent and immanent.
+
+Thus, the Trika wisdom declareth that the Supreme Being, though ineffable and beyond the grasp of mind or speech, doth yet reveal itself through the eternal dance of Ćiti. And in this revelation is contained the seed of all philosophies and religions, for all streams of thought do trace their origins to this luminous wellspring, where the Supreme doth shine in its own glory as the Anūttara, the unmatched essence of all that is.
+
+![SSU-pic.png](../../metadata/images/SSU-pic.png)
+
+The sacred letter “अ” (a) of the Sanskrit tongue, of the revered Mātṛkā Ćakra as expounded in the Śiva Sūtra, standeth as a symbol of the exalted Anūttara state. This ineffable letter, the primal sound, doth embody the Supreme Being in its highest and most transcendent form. From this eternal and undivided essence, the divine consciousness doth perpetually arise, an unceasing emanation from the boundless depths of the Absolute.
+
+Even as the mind is drawn outward by the trembling of bliss, so too doth it quiver in harmonious resonance. This vibration, born of the Supreme's infinite joy, causeth the mind to become externalized, and in this movement doth lie the unfolding of its mystery. By this sacred trembling, on one hand, the mind clings to the essence of bliss, as though embracing the divine nectar that doth flow from the heart of the Absolute. Yet, on the other hand, this same vibration bringeth forth a second mind, a reflection born of its own effulgence.
+
+This second mind, like a mirror unto the first, perceiveth itself in its reflection, as though gazing upon its own form within the sacred depths of its origin. Herein lies the subtle interplay of recognition, for this second mind beholdeth its own essence and knoweth itself to be one with that primal consciousness from which it sprang. This recognition, this inward delight of perceiving its own being as a reflection of the Supreme, is what is named bliss.
+
+Thus, the act of self-awareness, born of the vibration of bliss, is both the source and the culmination of divine joy. It is the eternal dance of the mind within itself, wherein the Supreme doth reveal its nature as both the knower and the known, the seer and the seen. In this sacred interplay, the vibration of consciousness unveileth the truth of existence, that all is but the play of the Absolute, delighting in its own infinite glory.
+
+So it is that the simple yet profound letter “अ” doth encapsulate this cosmic truth. It is the primal sound, the unstruck note that echoeth through the corridors of eternity, symbolizing the eternal emergence of consciousness from the Supreme. In this, the mystery of existence is made known, and the bliss of self-recognition is revealed as the very essence of all that is.
+
+![cropped-homa2.jpg](../../metadata/images/cropped-homa2.jpg)
+
+In the realm of worldly conduct, the nature of this divine interplay may be likened unto the reflection of a mirror, wherein the image seen is both alike and yet apart from its source. Yet, this mirrored reflection, though bearing semblance, is but partially indistinguishable from Śiva, the Supreme. Such an understanding leadeth to the revelation that the unbroken, undivided essence of being is none other than the form of the mind itself. This form, eternal and pristine, abideth as independent, free from all that is other, untouched by duality or opposition. It is Satyaṃ Śivaṃ Sundaraṃ, the essence of truth, auspiciousness, and beauty, a triune proclamation of the Supreme’s immutable nature.
+
+The mind, in this context, is the vessel of pure expression, embodying the essence of Śiva in its purity and the taste of bliss in its experiential delight. According to the venerable rule of the Trinity, Paraṃ Śiva, the Supreme Consciousness, and Paraṃ Śakti, the Supreme Power, are utterly indistinguishable, a truth as self-evident as the inseparability of fire from its burning power. Both are of the same Ćidrupa, the form of consciousness, and are woven together as one, as if two strands of the same eternal thread.
+
+This state of union, where the Supreme Śiva and His Śakti are as one, is known as Yāmala, the state of ultimate equality and inclusion. In this exalted realm, all distinctions, even those of gender, do dissolve into the boundless oneness of the Absolute. It is a realm of perfect indifference, where duality holds no sway. Yet, to the Aṇu, the finite individual, bound by the fetters of perception and limitation, this state appeareth as a realm of difference. The discriminating mind, ensnared by its own sense of separation, perceiveth distinction even where none doth truly exist.
+
+From the vantage of worldly understanding, the Supreme, known as Parābhairava, is ever revealed in a fivefold nature, reflecting the fivefold aspects of creation, preservation, dissolution, concealment, and grace. Yet this fivefold expression, though manifest to the eyes of the limited, is but a veiling of the undivided essence of the Supreme.
+
+Thus, the interplay between Śiva and Śakti, the union of fire and its burning power, and the reflection of mind within itself, are but varied expressions of the same eternal truth: that all things emanate from, and return to, the boundless oneness of the Absolute. In this truth, the seeker may come to behold the state of Satyaṃ Śivaṃ Sundaraṃ as the foundation of all existence, and the dance of Yāmala as the eternal embrace of the Supreme.
+
+![abhinava-header-900.jpg](../../metadata/images/abhinava-header-900.jpg)
+
+**“TRIKAŚĀSAN” ALSO KNOWN AS “TRIKĀĆĀRA”:** 
+
+TRIKAŚĀSANA, that which is also hight TRIKĀĆĀRA, standeth as the pinnacle of all sacred paths and disciplines, the crowning summit unto which all other modes of conduct do ascend. Forsooth, the venerable traditions of Vedāćāra, Vaiśnavaćāra, Śaivāćāra, Dakṣīnāćāra, Vāmāćāra, Siddhāntāćāra, and Kaulāćāra are each but steps upon the great ladder that riseth toward this supreme way of life and realization.
+
+In Vedāćāra, the seeker treadeth the path of the ancient hymns and sacrificial rites, wherein the cosmic order and the harmony of the universe are revealed. Vaiśnavaćāra guideth the devotee through the currents of surrender and devotion to the Preserver, wherein love and faith become the vehicle of transcendence. Śaivāćāra, the way of Śiva, unfoldeth the mysteries of the great dissolver, wherein the seeker learneth the wisdom of detachment and the cycles of creation and dissolution.
+
+Dakṣīnāćāra and Vāmāćāra are the twin paths of balance, wherein the seeker doth navigate the polarities of restraint and liberation, purity and power, the right-hand path and the left-hand embrace. In Siddhāntāćāra, the seeker discovereth the framework of ultimate truths, the doctrines that point toward liberation, while Kaulāćāra revealeth the esoteric ways of unity, wherein the sacred and the profane are transcended in the realization of the One.
+
+Yet know this: all these paths, though noble and true, are but tributaries to the great river of TRIKĀĆĀRA, wherein all streams converge. For in this exalted state, the seeker doth ascend beyond the limitations of any single discipline, embracing the triadic wisdom of Śiva, Śakti, and Anu. Herein is the seeker elevated to the supreme realization of unity amidst diversity, of the unbroken whole that encompasseth all dualities and oppositions.
+
+Thus, TRIKĀĆĀRA standeth not as a path among paths, but as the consummation of all paths, the summit wherein the seeker doth transcend the distinctions of doctrine and conduct, and attaineth unto the boundless expanse of the Supreme. It is the essence of all, the pathless path, where the triadic dance of creation, preservation, dissolution, concealment, and grace is revealed in its fullest splendor.
+
+![Tantraloka_1.jpg](../../metadata/images/Tantraloka_1.jpg)
+
+The doctrine of TRIKAŚĀSAN SVĀTAṆTRYAVĀDA, the exalted philosophy of the supreme freedom of consciousness, is twofold in its nature: first, the philosophical foundation; and second, the aspect of Sādhanā, or spiritual practice. These two facets, like the twin wings of a great bird, uphold the sublime edifice of Trika wisdom, enabling the seeker to soar into the boundless expanse of divine realization.
+
+On the philosophical side, the great Trikahṛdaya–Siddha Gurus, those illumined masters who have realized the heart of Trika, have expounded the profound truths of Pratyabhijñā (self-recognition) and Spanda (the vibratory principle). Among these illustrious sages are Lord Śrī Mahāmaheśwara Somānanda, the venerable composer of Śivadṛṣṭi; Lord Śrī Mahāmaheśwara Bhaṭṭakallatji, the proclaimer of the Spandakārīkā; Lord Śrī Mahāmaheśwara Vāsuguptaji, the divine receiver of the Śiva Sūtras; Lord Śrī Mahāmaheśwara Utpaldevaji, the sage of Īśvarapratyabhijñā; and the peerless Lord Śrī Mahāmaheśwara Abhinavaguptaji, who crowned this lineage with the masterpiece Tantrāloka and illuminated its mysteries. These towering works articulate the supreme principles of Pratyabhijñā and the sacred order of vibration, unveiling the eternal truths of the Trika tradition.
+
+In the realm of Sādhanā, the practical mysteries of this divine path are expounded in the sacred texts of the Bhairavāgamas, such as Tantrāloka, Śriparātriṃśikā, and the revered Śri Svachchanda Tantra, revealed through the boundless grace of Gurudeva Bhagavān Śrī Mahāmaheśwara Abhinavaguptaḥ. Herein, the seeker is guided into the heart of spiritual experience, wherein the philosophical truths are not merely understood but lived and realized.
+
+On the philosophical side, the principles established by these great sages, fortified by logical argument and direct insight, have attained universal acceptance and remain unaltered to this day. Such truths, rooted in the eternal essence of Śiva, are impervious to the vicissitudes of time, standing unrefined and unmodified across the ages.
+
+Yet, in the realm of spiritual cultivation, many forms and methods have arisen since ancient times. The masters of Trika, moved by the diverse needs and capacities of their disciples, devised varied paths of Sādhanā, each tailored to lead the aspirant toward the realization of the divine truths expounded in the philosophical tradition. These sacred paths, known as Āćāras, became vehicles for the direct transmission of wisdom, each carrying the essence of Trika teachings while adapting to the individual seeker’s journey. Among these, TRIKĀĆĀRA stands as one of the principal practices, embodying the unbroken essence of the Śaiva Trikaśāsana tradition of Kashmir.
+
+This great tradition, encompassing the luminous teachings of Abheda–Trikāćāra—the path of non-difference—unites all aspects of the Trika system, from the transcendental truths of Pratyabhijñā to the vibratory mysteries of Spanda. In this sacred unity, the seeker is guided from intellectual understanding to spiritual realization, attaining the supreme freedom of the Absolute, wherein all distinctions dissolve, and the eternal oneness of Śiva is revealed.
+
+—  `Ｎａｇｋｕｍａｒ です.`
