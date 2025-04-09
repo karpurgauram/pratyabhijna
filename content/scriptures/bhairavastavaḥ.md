@@ -1,6 +1,7 @@
 ---
-{"title":"bhairavastavaḥ","date":"2025-01-25","tags":["bhairavastava","abhinavagupta","scriptures"],"publish":true,"path":"scriptures/bhairavastavaḥ.md","permalink":"/scriptures/bhairavastava/","PassFrontmatter":true}
+{"title":"bhairavastavaḥ","date":"2025-01-25","tags":["bhairavastava","abhinavagupta","scriptures"],"publish":true,"path":"scriptures/bhairavastavaḥ.md","permalink":"/scriptures/bhairavastava/","PassFrontmatter":true,"created":"2025-04-09T13:53:47.066+05:30","updated":"2025-04-09T01:22:08.000+05:30"}
 ---
+
 
 
 <span class="center-text">**“A Lay of Laudation to Bhairavaḥ”**</span>
