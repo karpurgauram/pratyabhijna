@@ -33,7 +33,7 @@ body {
     box-shadow: .1rem .1rem .5rem rgba(0, 0, 0, 0.2);
     background: rgb(255, 255, 255);
     margin-bottom: 1rem;
-    background: linear-gradient(-7deg, rgba(255, 255, 255, 1) 0%, rgba(239, 239, 240, 1) 35%, rgba(208, 242, 249, 1) 100%);
+    background: linear-gradient(-7deg,#5b2041 0%,#e1e1e1 35%,#2c8da2 100%)
 }
 
 .mantra_devnagri {
@@ -130,4 +130,29 @@ body {
 
 .darkmode {
     display: none;
+}
+
+.svg-icons {
+  display: flex;
+  justify-content: center; /* Center icons horizontally */
+  align-items: flex-start; /* Align items to the top to keep text below */
+}
+
+.svg-icons a {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center icon and text within each link */
+  text-decoration: none; /* Remove underline from links */
+  color: inherit; /* Inherit text color from parent */
+  margin: 0 15px; /* Add some horizontal spacing between icons */
+}
+
+.svg-icons svg {
+  width: 50px; /* Adjust icon size as needed */
+  height: 50px; /* Adjust icon size as needed */
+  margin-bottom: 5px; /* Space between icon and text */
+}
+
+.svg-icons a span {
+  font-size: 14px; /* Adjust text size as needed */
 }

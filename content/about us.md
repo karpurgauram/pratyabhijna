@@ -1,6 +1,13 @@
 ---
-{"title":"info","publish":true,"path":"about us.md","permalink":"/about-us/","PassFrontmatter":true,"date":"2024-09-20"}
+title: info 
+date: 2024-09-20
+tags:
+  - aboutus
+  - aboutme
+  - info
 ---
+
+### Who are we?
 
 *hail, noble seeker, and welcome to the sacred domain of karpurgauram! we, a group of humble fellowship of devotees & volunteers, have embarked upon a most reverent quest—to unveil and immortalize the celestial wisdom of trikaśāsan—kashmir shaivism through the marvels of the digital age.*
 
@@ -18,4 +25,7 @@
 
 *by the grace of the eternal dharma, thou art invited to extend thy thoughts unto him, should thou yearn to unravel the veiled mysteries of existence or to drink deeply of the spiritual nectar that bindeth all things.*
 
-<span class="center-text">— **[editor](https://t.me/karpurgauram) & [webdev](https://neovoid.is-cool.dev/).**</span>
+### Founder and Developer
+<div class="center-header">
+<a href="https://telegram.me/karpurgauram"> <button class="btn-14" type="button" >[Nagkumar]</button></a> <a href="https://neovoid.is-cool.dev"><button class="btn-14" type="button"> [Neovoid]</button></a> 
+</div>
