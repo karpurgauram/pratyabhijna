@@ -1,7 +1,6 @@
 ---
-{"title":"anuttarāṣṭikā","date":"2025-02-01","tags":["anuttarashtika","abhinavagupta","scriptures"],"publish":true,"path":"scriptures/anuttarāṣṭikā.md","permalink":"/scriptures/anuttarashtika/","PassFrontmatter":true,"created":"2025-04-09T13:53:47.065+05:30","updated":"2025-04-09T01:22:08.000+05:30"}
+{"title":"anuttarāṣṭikā","date":"2025-02-01","tags":["anuttarashtika","abhinavagupta","scriptures"],"publish":true,"path":"scriptures/anuttarāṣṭikā.md","permalink":"/scriptures/anuttarashtika/","PassFrontmatter":true}
 ---
-
 
 
 <span class="center-text">**“eight verses concerning the ultimacy”**</span>

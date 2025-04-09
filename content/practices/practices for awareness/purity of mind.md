@@ -1,14 +1,12 @@
 ---
-{"title":"purity of mind","date":"2024-09-28","tags":["discipline","practices","mind","purity","awareness","yama","niyama","asana","shuddhachitt","sadhana","articles"],"publish":true,"path":"practices/practices for awareness/purity of mind.md","permalink":"/practices/purity-of-mind-and-internal-posture/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.597+05:30","updated":"2025-04-09T15:13:32.317+05:30"}
+{"title":"purity of mind","date":"2024-09-28","tags":["discipline","practices","mind","purity","awareness","yama","niyama","asana","shuddhachitt","sadhana","articles"],"publish":true,"path":"Practices/purity of mind.md","permalink":"/practices/purity-of-mind-and-internal-posture/","PassFrontmatter":true}
 ---
-
 
 
 
 —**Śuddhacitt & Āsana**—
 
 `—Swami Lakshamanjoo—`
-
 `∫Sunday, May 4, 1980∫`
 
 ![2fb71d_180340176c42494e9cf1fd746f4dc71e~mv2.jpg](../metadata/images/2fb71d_180340176c42494e9cf1fd746f4dc71e~mv2.jpg)

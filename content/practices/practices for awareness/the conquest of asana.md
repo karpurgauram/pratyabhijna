@@ -1,16 +1,31 @@
 ---
-{"title":"the conquest of asana","date":"2025-03-14","tags":["discipline","practices","mind","purity","awareness","asana","articles","sadhana","pranayama"],"permalink":"/practices/the-conquest-of-asana/","path":"practices/practices for awareness/the conquest of asana.md","publish":true,"PassFrontmatter":true,"created":"2025-04-09T13:53:45.598+05:30","updated":"2025-04-09T15:15:27.862+05:30"}
+title: the conquest of asana
+date: 2025-03-14
+tags:
+  - discipline
+  - practices
+  - mind
+  - purity
+  - awareness
+  - asana
+  - articles
+  - sadhana
+  - pranayama
+permalink: /practices/the-conquest-of-asana/
+path: Practices/the conquest of asana.md
+publish: true
+PassFrontmatter: true
+created: 2025-03-14T16:57:21.983+05:30
+updated: 2025-03-14T17:15:48.408+05:30
 ---
-
 
 **—Āsana—**
 
 `—Swami Lakshamanjoo—`
-
 `∫Sunday, May 11, 1980∫`
 
 
-Last Sunday [[practices/purity of mind\|I told you that one's mind]] must have become perfectly clean. That is possible by conquering the pose (`āsanajaya`). In that connection I explained the śloka:— 
+Last Sunday [[Practices/purity of mind\|I told you that one's mind]] must have become perfectly clean. That is possible by conquering the pose (`āsanajaya`). In that connection I explained the śloka:— 
 
 *मध्यमं प्राणमाश्रित्य प्राणापानपथान्तरम् ।* 
 

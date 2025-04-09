@@ -1,7 +1,6 @@
 ---
-{"title":"stavacintāmaṇiḥ","date":"2025-01-29","tags":["stavacintamani","bhattanarayana","scriptures"],"publish":true,"path":"scriptures/stavacintāmaṇiḥ.md","permalink":"/scriptures/stavacintamani/","PassFrontmatter":true,"created":"2025-04-09T13:53:47.069+05:30","updated":"2025-04-09T01:22:08.000+05:30"}
+{"title":"stavacintāmaṇiḥ","date":"2025-01-29","tags":["stavacintamani","bhattanarayana","scriptures"],"publish":true,"path":"scriptures/stavacintāmaṇiḥ.md","permalink":"/scriptures/stavacintamani/","PassFrontmatter":true}
 ---
-
 
 
 **“The Mystickal Pearl of One-pointedness”** <progress id="file" max="100" value="03">03%</progress>

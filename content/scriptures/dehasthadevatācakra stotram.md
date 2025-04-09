@@ -1,7 +1,6 @@
 ---
-{"title":"dehasthadevatācakra stotram","date":"2025-02-02","tags":["dehasthadevatācakrastotram","abhinavagupta","scriptures"],"publish":true,"path":"scriptures/dehasthadevatācakra stotram.md","permalink":"/scriptures/dehasthadevatācakrastotram/","PassFrontmatter":true,"created":"2025-04-09T13:53:47.067+05:30","updated":"2025-04-09T01:22:08.000+05:30"}
+{"title":"dehasthadevatācakra stotram","date":"2025-02-02","tags":["dehasthadevatācakrastotram","abhinavagupta","scriptures"],"publish":true,"path":"scriptures/dehasthadevatācakra stotram.md","permalink":"/scriptures/dehasthadevatācakrastotram/","PassFrontmatter":true}
 ---
-
 
 
 <span class="center-text">**“The Hierophany of Transcendental Quintessence”**</span>

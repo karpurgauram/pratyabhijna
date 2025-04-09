@@ -1,7 +1,6 @@
 ---
-{"title":"Ｎａｇｋｕｍａｒ です","date":"2024-09-13","publish":true,"path":"index.md","permalink":"/index/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.680+05:30","updated":"2025-04-09T14:56:28.294+05:30"}
+{"title":"Ｎａｇｋｕｍａｒ です","date":"2024-09-13","publish":true,"path":"index.md","permalink":"/index/","PassFrontmatter":true,"created":"2025-03-14T16:42:29.481+05:30","updated":"2025-03-14T17:22:03.601+05:30"}
 ---
-
 
 
 
@@ -65,7 +64,6 @@ let karpurgauram be thy guiding lantern; thy muse; & thy companion upon this sac
 <span class="center-text">`ॐ नमः चिद्वपुषे॥`</span>
 
  `what's new`
- - [[sacred poetry/origin-of-nagkumar\|sacred poetry]]
 - [[practices/the-conquest-of-asana\|the conquest of asana]]
 - [[scriptures/dehasthadevatācakrastotram\|dehasthadevatācakrastotram]]
 - [[scriptures/anuttarashtika\|anuttarāṣṭikā]]

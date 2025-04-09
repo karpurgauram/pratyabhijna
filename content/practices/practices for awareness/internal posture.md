@@ -1,7 +1,6 @@
 ---
-{"title":"internal posture","date":"2024-10-14","tags":["discipline","practices","mind","purity","awareness","yama","niyama","asana","shuddhachitt","sadhana","articles"],"publish":true,"path":"practices/practices for awareness/internal posture.md","permalink":"/practices/internal-posture/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.596+05:30","updated":"2025-04-09T15:12:08.118+05:30"}
+{"title":"internal posture","date":"2024-10-14","tags":["discipline","practices","mind","purity","awareness","yama","niyama","asana","shuddhachitt","sadhana","articles"],"publish":true,"path":"Practices/internal posture.md","permalink":"/practices/internal-posture/","PassFrontmatter":true}
 ---
-
 
 Now I shall speak to you about the conquest of Internal Posture.
 

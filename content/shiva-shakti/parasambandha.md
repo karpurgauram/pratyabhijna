@@ -1,7 +1,6 @@
 ---
-{"title":"△▽⛥ PARASAṀBHAṄDHA ⛥▽△","date":"2025-01-24","tags":["agama","parasambandha","guru","shishya","master","disciple","shiva","shakti","origin","articles"],"publish":true,"path":"shiva-shakti/parasambandha.md","permalink":"/Shiva-Shakti/parasambandha/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.604+05:30","updated":"2025-04-09T01:22:08.000+05:30"}
+{"title":"△▽⛥ PARASAṀBHAṄDHA ⛥▽△","date":"2025-01-24","tags":["agama","parasambandha","guru","shishya","master","disciple","shiva","shakti","origin","articles"],"publish":true,"path":"Shiva-Shakti/parasambandha.md","permalink":"/Shiva-Shakti/parasambandha/","PassFrontmatter":true}
 ---
-
 
 According to the esoteric traditions of Kashmir, Tantra is held to be eternal, a truth without beginning and without end. Even as the sacred Vedās, revered through the Tāntrik Ṣruti Tradition, are esteemed to have been known and practiced in this mortal realm since time beyond reckoning, so too hath the sacred path of Tantra been followed by the unbroken lineage of Tāntrik Gurus. Yea, in truth, the Ṣruti Tradition itself was in its origin none other than the Tāntrik method, which was later embraced and woven into the streams of the Vedik way.
 

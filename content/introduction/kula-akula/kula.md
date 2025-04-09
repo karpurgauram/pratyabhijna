@@ -1,7 +1,6 @@
 ---
-{"title":"kula","date":"2024-09-26","tags":["kula","introduction","articles"],"publish":true,"path":"introduction/kula-akula/kula.md","permalink":"/introduction/kula-akula/kula/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.588+05:30","updated":"2025-04-09T15:18:12.940+05:30"}
+{"title":"kula","date":"2024-09-26","tags":["kula","introduction","articles"],"publish":true,"path":"Introduction/kula-akula/kula.md","permalink":"/introduction/kula-akula/kula/","PassFrontmatter":true}
 ---
-
 
 
 

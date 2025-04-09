@@ -1,8 +1,20 @@
 ---
-{"title":"ajapa gayatri pranayama","date":"04/09/2025","tags":["discipline","practices","awareness","sadhana","pranayama","ajapa_gayatri","articles"],"publish":true,"path":"practices/pranayama/ajapa gayatri pranayama.md","permalink":"/practices/ajapa-gayatri-pranayama/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.600+05:30","updated":"2025-04-09T15:11:50.949+05:30"}
+title: ajapa gayatri pranayama
+date: 04/09/2025
+tags:
+  - discipline
+  - practices
+  - awareness
+  - sadhana
+  - pranayama
+  - ajapa_gayatri
+  - articles
+publish: true
+path: /practices/ajapa-gayatri-pranayama.md
+permalink: /practices/ajapa-gayatri-pranayama
+PassFrontmatter: true
 ---
-
-Here comes the prāṇāyāma exercise or control of breath. Like [[practices/practices for awareness/the conquest of asana\|āsana]], prāṇāyāma is internal and very subtle. It is not mere inhaling and exhaling like a bellow. 
+Here comes the prāṇāyāma exercise or control of breath. Like [[Practices/practices for awareness/the conquest of asana.md|āsana]], prāṇāyāma is internal and very subtle. It is not mere inhaling and exhaling like a bellow. 
 
 `प्राणादिस्थूलभावं तु त्यक्त्वा सूक्ष्मपथान्तरम्। 
 

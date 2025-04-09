@@ -1,14 +1,12 @@
 ---
-{"title":"external discipline","date":"2024-09-25","tags":["#discipline","#practices","#awareness","#sadhana","#yama","#niyama","#articles"],"publish":true,"path":"practices/practices for awareness/external discipline.md","permalink":"/practices/external-discipline/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.595+05:30","updated":"2025-04-09T15:15:06.021+05:30"}
+{"title":"external discipline","date":"2024-09-25","tags":["#discipline","#practices","#awareness","#sadhana","#yama","#niyama","#articles"],"publish":true,"path":"Practices/external discipline.md","permalink":"/practices/external-discipline/","PassFrontmatter":true}
 ---
-
 
 
 
 —**Yama Niyama**—
 `
 —Swami Lakshamanjoo—`
-
 `∫Sunday, April 27, 1980∫`
 
 Every human being must strive for self-realization. When the individual self has right knowledge of the universal Self and recognizes its Divinity without the least apprehension, it is known as Union or Yoga. Patanjali has explained eight limbs of Yoga in his Yoga-Sutras. However The Kashmir Śaiva philosophy also recognizes the Yoga-Sutras and we have our own independent system for limbs of Yoga, where it is stressed that the first two parts, i.e. Yamas and Niyamas must have already been practised. In Kashmir Śaivism the eight limbs of Yoga begin from Asanas—the right posture. By practising the first two one prepares oneself for the spiritual path. This is the development of etiquette. This is the external behavior. Unless one develops the external behavior how can one delve deeper into subtleties!

@@ -1,7 +1,6 @@
 ---
-{"title":"pratyabhijna","date":"2024-09-26","tags":["pratyabhijna","introduction","articles"],"publish":true,"path":"introduction/pratyabhijna/pratyabhijñā.md","permalink":"/introduction/pratyabhijna/pratyabhijna/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.589+05:30","updated":"2025-04-09T15:18:24.126+05:30"}
+{"title":"pratyabhijna","date":"2024-09-26","tags":["pratyabhijna","introduction","articles"],"publish":true,"path":"Introduction/pratyabhijna/pratyabhijñā.md","permalink":"/introduction/pratyabhijna/pratyabhijna/","PassFrontmatter":true}
 ---
-
 
 
 
