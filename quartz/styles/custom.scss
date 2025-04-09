@@ -132,13 +132,13 @@ body {
     display: none;
 }
 
-.svg-icons {
+.social-icons {
   display: flex;
   justify-content: center; /* Center icons horizontally */
   align-items: flex-start; /* Align items to the top to keep text below */
 }
 
-.svg-icons a {
+.social-icons a {
   display: flex;
   flex-direction: column;
   align-items: center; /* Center icon and text within each link */
@@ -147,12 +147,12 @@ body {
   margin: 0 15px; /* Add some horizontal spacing between icons */
 }
 
-.svg-icons svg {
+.social-icons svg {
   width: 50px; /* Adjust icon size as needed */
   height: 50px; /* Adjust icon size as needed */
   margin-bottom: 5px; /* Space between icon and text */
 }
 
-.svg-icons a span {
+.social-icons a span {
   font-size: 14px; /* Adjust text size as needed */
 }
