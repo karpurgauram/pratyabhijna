@@ -3,7 +3,7 @@
 ---
 
 
-**“The Mystickal Pearl of One-pointedness”** <progress id="file" max="100" value="01">01%</progress>
+**“The Mystickal Pearl of One-pointedness”** <progress id="file" max="100" value="03">03%</progress>
 
 <span class="center-text">— `MAHĀMAHEŚVARĀĊĀRYA BHAṬṬA NĀRĀYAṆA`</span>
 
