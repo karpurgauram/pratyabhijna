@@ -1,7 +1,6 @@
 ---
-{"title":"birth of the tantras in trika","date":"2024-09-25","tags":["history","origin","lineage","tantra","kashmirshaivism","introduction","trika","articles"],"publish":true,"path":"origin/birth of the tantras in trika.md","permalink":"/origin/birth-of-the-tantras-in-trika/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.594+05:30","updated":"2025-04-09T15:16:19.044+05:30"}
+{"title":"birth of the tantras in trika","date":"2024-09-25","tags":["history","origin","lineage","tantra","kashmirshaivism","introduction","trika","articles"],"publish":true,"path":"Origin/birth of the tantras in trika.md","permalink":"/origin/birth-of-the-tantras-in-trika/","PassFrontmatter":true}
 ---
-
 
 
 

@@ -1,7 +1,6 @@
 ---
-{"title":"krama","date":"2024-09-26","tags":["#krama","#introduction","#articles"],"publish":true,"path":"introduction/krama/krama.md","permalink":"/introduction/krama/krama/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.587+05:30","updated":"2025-04-09T15:18:00.217+05:30"}
+{"title":"krama","date":"2024-09-26","tags":["#krama","#introduction","#articles"],"publish":true,"path":"Introduction/krama/krama.md","permalink":"/introduction/krama/krama/","PassFrontmatter":true}
 ---
-
 
 
 

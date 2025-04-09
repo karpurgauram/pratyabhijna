@@ -1,7 +1,6 @@
 ---
-{"title":"an introduction to trikaśāsan [tāntrik philosophy]","date":"2025-01-08","tags":["introduction","trikashasan","articles","lineage","pratyabhijna","kula","krama","spanda","history","origin","kashmirshaivism"],"publish":true,"path":"introduction/trikashasan/trikashasan introduction.md","permalink":"/Introduction/trikashasan/trikashasan introduction/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.592+05:30","updated":"2025-04-09T15:18:48.658+05:30"}
+{"title":"an introduction to trikaśāsan [tāntrik philosophy]","date":"2025-01-08","tags":["introduction","trikashasan","articles","lineage","pratyabhijna","kula","krama","spanda","history","origin","kashmirshaivism"],"publish":true,"path":"Introduction/trikashasan/trikashasan introduction.md","permalink":"/Introduction/trikashasan/trikashasan introduction/","PassFrontmatter":true}
 ---
-
 
 Lo, the river of Bhāratiya lore and sacred praxis hath flowed through the ages in two mighty streams: the Vedik and the Āgamaic. If the wellspring of the Vedik current be the hallowed exhalation of Vāmadeva, that venerable countenance of Lord Swachchandanātha Bhairava, then verily, the root of the Āgamaic or Tāntrik torrent springeth forth from the august utterances of the fivefold mouths of that same ineffable Lord, Swachchandanātha Bhairava.
 

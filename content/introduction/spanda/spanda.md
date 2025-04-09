@@ -1,7 +1,6 @@
 ---
-{"title":"spanda","date":"2024-09-26","tags":["spanda","introduction","articles"],"publish":true,"path":"introduction/spanda/spanda.md","permalink":"/introduction/spanda/spanda/","PassFrontmatter":true,"created":"2025-04-09T13:53:45.591+05:30","updated":"2025-04-09T15:18:36.068+05:30"}
+{"title":"spanda","date":"2024-09-26","tags":["spanda","introduction","articles"],"publish":true,"path":"Introduction/spanda/spanda.md","permalink":"/introduction/spanda/spanda/","PassFrontmatter":true}
 ---
-
 
 
 
