@@ -14,9 +14,9 @@ path: /practices/ajapa-gayatri-pranayama.md
 permalink: /practices/ajapa-gayatri-pranayama
 PassFrontmatter: true
 ---
-Here comes the prāṇāyāma exercise or control of breath. Like [[Practices/practices for awareness/the conquest of asana.md|āsana]], prāṇāyāma is internal and very subtle. It is not mere inhaling and exhaling like a bellow. 
+Here comes the prāṇāyāma exercise or control of breath. Like [[practices/practices for awareness/the conquest of asana.md|āsana]], prāṇāyāma is internal and very subtle. It is not mere inhaling and exhaling like a bellow. 
 
-`प्राणादिस्थूलभावं तु त्यक्त्वा सूक्ष्मपथान्तरम्। 
+`प्राणादिस्थूलभावं तु त्यक्त्वा सूक्ष्मपथान्तरम्।`
 
 `सूक्ष्मातीतं तु परमं स्पन्दन लभते यतः`
 
@@ -32,13 +32,13 @@ Our great masters have explained the mode of regulated movement of vital airs (p
 
 The first is **Ajapā Gāyatrī—Prāṇāyāma**. In this there should be no sound at all. Even the person near you should not feel the movement of your in-coming or out-going breath. The sound of the movement of breath in you should not be audible to him. The breath should become so fine that you should not yourself be able to know about its movement. Such a person has only awareness of Supreme Consciousness. His movement of breath is so fine, so slow and so soundless that he himself knows not about it. It is in this context that Paramānanda has said: 
 
-`अस्त अस्ते स्वस्त पंचालसय 
+`अस्त अस्ते स्वस्त पंचालसय`
 
-सोऽहं भैरव बालसंय 
+`सोऽहं भैरव बालसंय` 
 
-टख युथ न लगि अथ लालसय 
+`टख युथ न लगि अथ लालसय` 
 
-मन थ्यर कर पूजुन प्रभु।` 
+`मन थ्यर कर पूजुन प्रभु।` 
 
 *— From Amarnāth Līlā of Jñāna Prakāśa by Paramānanda.* 
 
