@@ -1,5 +1,5 @@
 ---
-title: socials
+title: DIGITAL GARDEN
 date: 2025-04-09
 tags:
   - socials
@@ -8,7 +8,7 @@ tags:
   - contact
 ---
 
-## Our Socials
+## EXPLORE OUR DIGITAL LINKSVERSE
 
 <div class="center-header social-icons">
 <a href="https://telegram.me/easterntantriks" target="_blank" rel="noopener noreferrer me" title="Telegram">
