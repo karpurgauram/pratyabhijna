@@ -20,7 +20,7 @@ Then you will feel no necessity of practising the conquest of mind according to 
 <span class="center-text">`यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।`</span>
 <span class="center-text">`ततस्ततो नियम्यैतदात्मन्येव शमं नयेत् ॥`</span>
 
-**— Gītā VI.26**
+<span class="center-text">**— Gītā VI.26**</span>
 
 Meaning:
 
@@ -33,7 +33,7 @@ There is no need of following this practice. By conquering the posture the mind 
 <span class="center-text">`रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः ।`</span>
 <span class="center-text">`मनः संयम्य मच्चित्तो युक्त आसीत मत्परः ॥`</span>
 
-**—Gītā VI.13-14.** 
+<span class="center-text">**—Gītā VI.13-14.**</span>
 
 Meaning:
 
