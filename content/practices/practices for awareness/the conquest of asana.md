@@ -28,9 +28,9 @@ updated: 2025-03-14T17:15:48.408+05:30
 
 Last note [[practices/purity of mind\|I told you that one's mind]] must have become perfectly clean. That is possible by conquering the pose (`āsanajaya`). In that connection I explained the śloka:— 
 
-<span class="center-text">मध्यमं प्राणमाश्रित्य प्राणापानपथान्तरम् ।</span>
+<span class="center-text">`मध्यमं प्राणमाश्रित्य प्राणापानपथान्तरम् ।`</span>
 
-<span class="center-text">आलम्ब्य ज्ञानशक्तिं च तत्स्थं चैवासनं लभेत् ॥</span>
+<span class="center-text">`आलम्ब्य ज्ञानशक्तिं च तत्स्थं चैवासनं लभेत् ॥`</span>
 
 <span class="center-text">**—Netra Tantra VI.1ff.**</span>
 
