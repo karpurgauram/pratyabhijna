@@ -6,9 +6,6 @@ tags:
   - aboutme
   - info
 ---
-
-### Who are we?
-
 *hail, noble seeker, and welcome to the sacred domain of karpurgauram! we, a group of humble fellowship of devotees & volunteers, have embarked upon a most reverent quest—to unveil and immortalize the celestial wisdom of trikaśāsan—kashmir shaivism through the marvels of the digital age.*
 
 *under the ever-illuminating guidance of our eternal, permanent and revered last real direct lineage trika guru, swāmī lakṣamanjū mahārāja, we do labor with heart and soul to weave together the threads of ancient lore and modern ingenuity. our endeavor is not one of mere preservation, but of reawakening—the sacred texts, philosophies, and esoteric truths shall find new voice and visage, that they may touch the hearts of both the learned and the layman in equal measure.*
@@ -25,7 +22,6 @@ tags:
 
 *by the grace of the eternal dharma, thou art invited to extend thy thoughts unto him, should thou yearn to unravel the veiled mysteries of existence or to drink deeply of the spiritual nectar that bindeth all things.*
 
-### Founder and Developer
 <div class="center-header">
-<a href="https://telegram.me/karpurgauram"> <button class="btn-14" type="button" >[Nagkumar]</button></a> <a href="https://neovoid.is-cool.dev"><button class="btn-14" type="button"> [Neovoid]</button></a> 
+<a href="https://telegram.me/karpurgauram"> <button class="btn-14" type="button" > OWNER — [Ｎａｇｋｕｍａｒ です]</button></a> & <a href="https://neovoid.is-cool.dev"><button class="btn-14" type="button">DEV — [Neovoid]</button></a> 
 </div>
