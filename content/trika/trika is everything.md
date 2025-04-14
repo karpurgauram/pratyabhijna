@@ -4,13 +4,10 @@
 
 **the sacred and ancient lore of trika**, often termed as the “**threefold science**,” standeth as a cornerstone of the exalted tradition of [[Introduction/kashmir shaivism/schools of kashmir shaivism\|schools of kashmir shaivism]]. within its hallowed precepts, one doth encounter a consummate revelation of divine truth, encompassing all existence in its triadic embrace. as recounted by **the venerable gurudeva swāmi lakṣamaṇajū mahārāj**, `trika, in its essence, is everything & pervadeth all`. its name, **trika**, `signifieth the triadic nature of reality, wherein the unity of existence is understood as the interplay of threefold nature manifest in the universal order`.
 
-![tantra.jpg](content/images/tantra.jpg)
-
 ==☆ the threefold nature of reality==
 
 **trika unveileth the sacred pattern of triplicity in creation. it speaketh of the triad of vedyā (the knowable), vedan (knowledge), and vedak (the knower); of the states of wakefulness (jāgrat), dreaming (svapna), & deep sleep (suṣupti); & of creation, preservation, and destruction. even within the mystical gāyatri mantra, the triad of bhur, bhuvaḥ, and svaha doth reflect this sacred science. to present these manifold aspects as a singular, cohesive wisdom is the ultimate essential nature of trika śāstra, the scripture of the threefold path.**
 
-![SquareQuick_2025117221127364.jpg](content/images/SquareQuick_2025117221127364.jpg)
 
 **in this divine doctrine, the supreme śiva is the origin and culmination of all.** **trika describeth the process of manifestation through** “`अवरोह-क्रम`” (`avaroh-krama`) **| ° śiva 》 ° śakti 》 ° aṇu** (*descent*) **|** and **liberation through** “`आरोह-क्रम`” (`āroh-krama`) **| ° aṇu 》 ° śakti 》 ° śiva** (*ascent*) **|**. **when śiva descendeth, he entereth the worldly state, assuming the form of aṇu** (*the individual self*) through **the medium of śakti.** **in this state, he experienceth the discomfort of limitation.** y**et, by his own grace, he ascendeth once more to his supreme essence, returning to the boundless freedom of śiva.**
 
