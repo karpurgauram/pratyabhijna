@@ -35,9 +35,9 @@ Therefore, it is necessary that one must first execute one's efforts towards the
 
 Otherwise, the one upon whom the Master becomes angry is left out:—
 
-<span class="center-text">गुरुर्हि कुपितो यस्य स तिरोहित उच्यते।</span>
+<span class="center-text">`गुरुर्हि कुपितो यस्य स तिरोहित उच्यते।`</span>
 
-<span class="center-text">—Tantraloka 23.63.</span>
+<span class="center-text">**—Tantraloka 23.63.**</span>
 
 `The favour of doing good is denied to him.`
 
