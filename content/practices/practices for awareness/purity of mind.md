@@ -1,5 +1,5 @@
 ---
-{"title":"purity of mind","date":"2024-09-28","tags":["discipline","practices","mind","purity","awareness","yama","niyama","asana","shuddhachitt","sadhana","articles"],"publish":true,"path":"Practices/purity of mind.md","permalink":"/practices/purity-of-mind-and-internal-posture/","PassFrontmatter":true}
+{"title":"purity of mind","date":"2024-09-28","tags":["discipline","practices","mind","purity","awareness","yama","niyama","asana","shuddhachitt","sadhana","articles"],"publish":true,"path":"practices/purity of mind.md","permalink":"/practices/purity-of-mind-and-internal-posture/","PassFrontmatter":true}
 ---
 
 
@@ -7,9 +7,9 @@
 —**Śuddhacitt & Āsana**—
 
 `—Swami Lakshamanjoo—`
+
 `∫Sunday, May 4, 1980∫`
 
-![2fb71d_180340176c42494e9cf1fd746f4dc71e~mv2.jpg](../metadata/images/2fb71d_180340176c42494e9cf1fd746f4dc71e~mv2.jpg)
 
 **Purity of mind is the first requisite for spiritual practice.** If the mind is free from attachment and detachment, love and hatred, praise and blame, it can remain stable; and then it is termed a clean mind. You must be able to cultivate equality in spirit. Then only will spiritual practice become successful. Otherwise all goes vain and nothing is achieved. The first and foremost condition for spiritual practice is the adoption of a steady posture. 
 
@@ -17,8 +17,8 @@ Whichever recognized pose you adopt for yourself or is advised by your master, y
 
 Then you will feel no necessity of practising the conquest of mind according to this sloka of the Bhagavad Gitā:— 
 
-==यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।== 
-==ततस्ततो नियम्यैतदात्मन्येव शमं नयेत् ॥== 
+<span class="center-text">`यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।`</span>
+<span class="center-text">`ततस्ततो नियम्यैतदात्मन्येव शमं नयेत् ॥`</span>
 
 **— Gītā VI.26**
 
@@ -28,10 +28,10 @@ Meaning:
 
 There is no need of following this practice. By conquering the posture the mind automatically becomes stable. This is stated in the Gitā:—
 
-==समं कायशिरोग्रीवं धारयन्नचलं स्थिरः ।== 
-==सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ॥== 
-==प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः ।== 
-==मनः संयम्य मच्चित्तो युक्त आसीत मत्परः ॥==
+<span class="center-text">`समं कायशिरोग्रीवं धारयन्नचलं स्थिरः ।`</span>
+<span class="center-text">`सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ॥`</span>
+<span class="center-text">`रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः ।`</span>
+<span class="center-text">`मनः संयम्य मच्चित्तो युक्त आसीत मत्परः ॥`</span>
 
 **—Gītā VI.13-14.** 
 
