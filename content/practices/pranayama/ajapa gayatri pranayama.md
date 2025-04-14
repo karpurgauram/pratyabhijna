@@ -1,20 +1,8 @@
 ---
-title: ajapa gayatri pranayama
-date: 04/09/2025
-tags:
-  - discipline
-  - practices
-  - awareness
-  - sadhana
-  - pranayama
-  - ajapa_gayatri
-  - articles
-publish: true
-path: /practices/ajapa-gayatri-pranayama.md
-permalink: /practices/ajapa-gayatri-pranayama
-PassFrontmatter: true
+{"title":"ajapa gayatri pranayama","date":"04/09/2025","tags":["discipline","practices","awareness","sadhana","pranayama","ajapa_gayatri","articles"],"publish":true,"path":"practices/pranayama/ajapa gayatri pranayama.md","permalink":"/practices/ajapa-gayatri-pranayama/","PassFrontmatter":true,"created":"2025-04-14T21:03:54.667+05:30","updated":"2025-04-14T21:15:06.120+05:30"}
 ---
-Here comes the prāṇāyāma exercise or control of breath. Like [[practices/practices for awareness/the conquest of asana.md|āsana]], prāṇāyāma is internal and very subtle. It is not mere inhaling and exhaling like a bellow. 
+
+Here comes the prāṇāyāma exercise or control of breath. Like [[practices/practices for awareness/the conquest of asana\|āsana]], prāṇāyāma is internal and very subtle. It is not mere inhaling and exhaling like a bellow. 
 
 `प्राणादिस्थूलभावं तु त्यक्त्वा सूक्ष्मपथान्तरम्।`
 
@@ -46,7 +34,7 @@ Meaning:
 
 **“Slowly and steadily ascend the mound of Iśvara-consciousness. Realize “He am I”; Beware! lest the pearl of continuity in japa should get cut. In this way, worship your Lord with concentrated mind.”**
 
-The first word of the third line in the above quotation is takh and not tukh The latter means “a cut” or “a bruise” or “a hurt” which conveys only an injury that can be cured, while the former word means “break”, “cut off” or “fall out”, which conveys that it should remain constant, it should not break or it should not on any account get detached. Therefore the line should be “takh yuth na lagi athа lālasey,” and not “tukh yuth na lagi ath lalasey”. **This, in short, should mean that the Ajapā Gāyatrī—Prāṇāyāma (constant uniformity of breath in awareness) should, in no case, break. It must remain uniformly constant. It must be so fine, light and constant that awareness of supreme-consciousness continues. Even one breath should not go without awareness.** I have just said “`prāṇādi sthula bhāvarṇ tu tyaktvā`.” That means that `the movement of prāṇa in its process of coming-in and going-out must have become thin and fine`. When the vital air of the yogi becomes very fine he attains to the `movement-without-movement` or you can call it [universal movement of prāṇā](). **This is the real prāṇāyāma or control of breath.** After being established in this practice, the yogi has `not to return to this mundane cycle of birth and death-saṁsāra`. He does not fall back. **This is a superior kind of adopting true pose (āsanā).** `But this mode of maintaining constant uniformity of breath in awareness called Ajapā Gayatri Prāṇāyāma is very difficult to practise. This cannot be done easily.`
+The first word of the third line in the above quotation is takh and not tukh The latter means “a cut” or “a bruise” or “a hurt” which conveys only an injury that can be cured, while the former word means “break”, “cut off” or “fall out”, which conveys that it should remain constant, it should not break or it should not on any account get detached. Therefore the line should be “takh yuth na lagi athа lālasey,” and not “tukh yuth na lagi ath lalasey”. **This, in short, should mean that the Ajapā Gāyatrī—Prāṇāyāma (constant uniformity of breath in awareness) should, in no case, break. It must remain uniformly constant. It must be so fine, light and constant that awareness of supreme-consciousness continues. Even one breath should not go without awareness.** I have just said “`prāṇādi sthula bhāvarṇ tu tyaktvā`.” That means that `the movement of prāṇa in its process of coming-in and going-out must have become thin and fine`. When the vital air of the yogi becomes very fine he attains to the `movement-without-movement` or you can call it [universal movement of prāṇā](). **This is the real prāṇāyāma or control of breath.** After being established in this practice, the yogi has `not to return to this mundane cycle of birth and death-saṁsāra`. He does not fall back. **This is a superior kind of adopting true pose (āsanā).** `But this mode of maintaining constant uniformity of breath in awareness called [[practices/pranayama/how to do ajapa gayatri pranayama.md|Ajapā Gayatri Prāṇāyāma]] is very difficult to practise. This cannot be done easily.`
 
 ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
 
