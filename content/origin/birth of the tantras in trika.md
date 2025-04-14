@@ -1,11 +1,9 @@
 ---
-{"title":"birth of the tantras in trika","date":"2024-09-25","tags":["history","origin","lineage","tantra","kashmirshaivism","introduction","trika","articles"],"publish":true,"path":"Origin/birth of the tantras in trika.md","permalink":"/origin/birth-of-the-tantras-in-trika/","PassFrontmatter":true}
+{"title":"birth of the tantras in trika","date":"2024-09-25","tags":["history","origin","lineage","tantra","kashmirshaivism","introduction","trika","articles"],"publish":true,"path":"origin/birth of the tantras in trika.md","permalink":"/origin/birth-of-the-tantras-in-trika/","PassFrontmatter":true}
 ---
 
 
 
-![0c45c8db5e700b4dd03d9.jpg](../metadata/images/0c45c8db5e700b4dd03d9.jpg)
-`Bhairava and Bhairavi (At the down of Satyayuga)`
 
 **The Beginning:**
 
@@ -35,23 +33,15 @@ In the three yugas (ages), satyuga, tretāyuga, and dvāparayuga, masters and di
 
 When kaliyuga occurred, these masters and disciples were so disappointed that they hid themselves in unknown places in order to avoid the touch of worldly people living at that time. Because of this, the theory of the Bhairava Tantras and Kashmir Śaivism was lost. Lord Śiva, however, always wishes to illuminate the universe and so He reappeared in this world at Mount Kailāśa, not in the form of Svacchandanātha with five mouths, but in the form of **Śrīkaṇṭhanātha**. And in the form of Śrīkaṇṭhanātha, He again taught the theory of the **Bhairava Tantras** to the sage **Durvāsā Ṛṣi**, who was **ūrdhvaretaḥ**, which means “one whose power of sex is preserved,” and who was, therefore, a brahmacārī (celibate). When Śrīkaṇṭhanātha initiated him at Mount Kailāśa, Śrīkaṇṭhanātha told him that he was to expand the thought of Bhairava Tantras in all of the universe without restriction to caste, color, or creed. After Śrīkaṇṭhanātha taught Durvāsā Ṛṣi in this manner, he disappeared into the ether.
 
-![a99aa44948680b1cd0dfb.jpg](../metadata/images/a99aa44948680b1cd0dfb.jpg)
-`Śiva Pārvatī Pariwār (Art: Unknown)`
-
 **The First Parameṣthī Guru of Trikaśāsana - Durvāsā Ṛṣi:**
 
 **Durvāsā Ṛṣi**, after meditating completely to acquire a real and fit disciple for initiation, became disappointed. He could not find anyone in this world fit to be initiated. His initiation was a practical initiation because, while initiating someone in the thought of Bhairava Tantras, he simultaneously initiated him in the practical side of this thought. And this practical initiation manifested itself immediately without the disciples having to do any practice or yoga. This disciple would become instantaneously enlightened. As he could not find a disciple fit for this initiation, he created out of his mental power one mind-born son. This mind-born son was called **Tryambakanātha**. Durvāsā Ṛṣi completely initiated **Tryambakanātha** in the way of the monistic Bhairava Tantras. Afterwards, he created two more mind-born sons, **Āmardakanātha** and **Śrīnātha**. He initiated his son Āmardakanātha in the dualistic Śiva Tantras and he initiated his other son Śrinātha in the monodualistic Rudra Tantras. All of this was done by Durvāsā Ṛṣi for the upliftment of mankind.
-
-![Durvasa’s_wrath_against_Shakuntala.jpg](../metadata/images/Durvasa’s_wrath_against_Shakuntala.jpg)
-`A painting depicting Durvasa`
 
 For the upliftment of women, Durvāsā Ṛṣi created one mind-born daughter and she was called **Ardhatryambakā**. As Kashmir Śaivism does not recognize women to be in a state of degradation, Durvāsā Ṛṣi initiated her completely in the monistic thought of Bhairava Tantras. As this view, that women are not in a state of degradation, is not held by the other two schools of Śaivism, the dualistic and monodualistic schools, Durvāsā Ṛṣi created only one-mind born daughter. His daughter Ardhatryambakā’s teaching is known as the **Ardhatryambaka school of the Bhairava Tantras.** But as the continuity of the Ardhatryambaka school manifested itself from one woman to another secretly, there is no history of this school in this kaliyuga.
 
 **The Unbroken Lineage of Trika:**
 
 Durvāsā Ṛṣi’s son Tryambakanātha, the founder of the monistic school of Śaivism, was also a celibate (brahmacārī). According to the way of the sage Durvāsā Ṛṣi, he also created one mind-born son and named him **Tryambakāditya**, which means **“the** expansion of Tryambakanātha.” After initiating him completely in Bhairava Tantras, Tryambakanātha entered a cave, which is known as Tryambaka Guhā (cave), and disappeared. Tryambakanātha’s son Tryambakāditya also created one mind-born son and, after initiating him, Tryambakāditya disappeared into the ether.
-![72caa2e963a93518196d2.jpg](../metadata/images/72caa2e963a93518196d2.jpg)
-`Pancamukhī Śiva Pārvatī & Nandi alongside Ṛṣabha bull (Art: Unknown)`
 
 In this manner fifteen siddhas were created by mind. When, however, the fifteenth siddha attempted to create a mind-born son, he was not successful. It is said that this fifteenth siddha was not fully introverted, but at the same time he was also given to worldly pleasures. Because of this subtle impurity (āṇava mala), he was not successful in creating a mind-born son. After sitting in long meditation, he found in this world a girl with all good qualities and he went to her father and made arrangements to marry her. After marriage, they created one son who was called **Saṁgamāditya** and who, by his will, came to the valley of Kashmir and found Kailāśa mountain. Saṁgamāditya, like his father, married and produced one son named **Varṣāditya**, whom he initiated completely in the thought of the monistic Bhairava Tantras. Varṣāditya also married and produced one son, named **Aruṇāditya**, whom he initiated fully. Aruṇāditya married and created one son named **Ānanda**, whom he initiated and who was also completely informed practically in Śaivism.
 
@@ -62,6 +52,3 @@ Now I will explain to you how this Atrigupta, a great scholar of Kashmir Śaivis
 During his reign, the king Lalitāditya traveled to India from Kashmir, where in Antarvedi, a tract of land in Madhya Pradesh which lies between the Yamuna and Ganga rivers, he discovered this great Śaiva teacher Atrigupta. Lalitāditya was deeply impressed by the scholarship and practical way of Atrigupta and requested him to accompany him to the Kashmir Valley. Atrigupta agreed and upon reaching Kashmir, was given the old palace of Pravarasena to live in because it was very near to the palace of the king Lalitāditya. After he moved to Kashmir, there was no authority on Kashmir Śaivism left in India. From this time forward, the teaching of the thought of Bhairava Tantras is called Kashmir Śaivism and this teaching has continued to remain centered only in the Kashmir Valley. These Bhairava Tantras are pervasive throughout the whole world.
 
 However, they began in the Kashmir Valley, resided there, and are still alive there today. After some centuries in the house of Atrigupta, **Varāhagupta** was born. He is the father of **Narasiṁhagupta** and Narasiṁhagupta is the father of our great **Abhinavagupta**. Although Abhinavagupta had many disciples, both men and women, his chief disciple was **Kṣemarāja** and the chief disciple of Kṣemarāja was **Yogarāja**. After many centuries in the Kashmir Valley, **Svāmī** Ram came into this physical body. His chief disciple was **Svāmī** Mahatābakak and my Guru Swāmi Lakṣamaṇa Jū Mahārāj is the disciple of Svāmī Mahatābakak and I am disciple of Swāmi Lakṣamaṇa Jū Mahārāj.
-
-![A1EE-oqhi1L.jpg](../metadata/images/A1EE-oqhi1L.jpg)
-`Swāmi Lakṣamaṇa Jū Mahārāj`
