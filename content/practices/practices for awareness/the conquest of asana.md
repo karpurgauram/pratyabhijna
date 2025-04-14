@@ -12,7 +12,7 @@ tags:
   - sadhana
   - pranayama
 permalink: /practices/the-conquest-of-asana/
-path: Practices/the conquest of asana.md
+path: practices/the conquest of asana.md
 publish: true
 PassFrontmatter: true
 created: 2025-03-14T16:57:21.983+05:30
@@ -25,13 +25,13 @@ updated: 2025-03-14T17:15:48.408+05:30
 `∫Sunday, May 11, 1980∫`
 
 
-Last Sunday [[Practices/purity of mind\|I told you that one's mind]] must have become perfectly clean. That is possible by conquering the pose (`āsanajaya`). In that connection I explained the śloka:— 
+Last note [[practices/purity of mind\|I told you that one's mind]] must have become perfectly clean. That is possible by conquering the pose (`āsanajaya`). In that connection I explained the śloka:— 
 
-*मध्यमं प्राणमाश्रित्य प्राणापानपथान्तरम् ।* 
+<span class="center-text">मध्यमं प्राणमाश्रित्य प्राणापानपथान्तरम् ।</span>
 
-*आलम्ब्य ज्ञानशक्तिं च तत्स्थं चैवासनं लभेत् ॥* 
+<span class="center-text">आलम्ब्य ज्ञानशक्तिं च तत्स्थं चैवासनं लभेत् ॥</span>
 
-**—Netra Tantra VI.1ff.** 
+<span class="center-text">**—Netra Tantra VI.1ff.**</span>
 
 *Meaning:*
 
