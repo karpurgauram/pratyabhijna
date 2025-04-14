@@ -6,10 +6,10 @@ Now I shall speak to you about the conquest of Internal Posture.
 
 **==This is to get established at the junction—the middle or the meeting point of the two breaths. This is called the Pause.==**
 
-**मध्यमं प्राणमाश्रित्य प्राणापानपथान्तरम् ।** 
-**आलम्ब्य ज्ञानशक्तिं च तत्स्थं चैवासनं लभेत् ॥** 
+<span class="center-text">मध्यमं प्राणमाश्रित्य प्राणापानपथान्तरम् ।</span>
+<span class="center-text">आलम्ब्य ज्ञानशक्तिं च तत्स्थं चैवासनं लभेत् ॥</span>
 
-**—Netra Tantra VI.1ff.** 
+<span class="center-text">**—Netra Tantra VI.1ff.**</span>
 
 Meaning:
 
@@ -17,8 +17,8 @@ Meaning:
 
 `“मध्यमं प्राणमाश्रित्य” (Madhyamaṁ praṇamāśritya) —` **Means that you should be aware at the juncture. You must be able to sit or pause at the middle path—the point where the two breaths meet; i.e. the point where the out-going breath exhausts and the in-coming breath takes strength. This is the junction of the middle point. You have to pause there. This is the centre of the two breaths. This is the important point which you can mark just after the stoppage of the out-going breath and just before the start of the in-coming breath and vice-versa. This point is at the end of the external measure of twelve units and at the end of the internal measure of twelve units of breath respectively. You have to concentrate with awareness at that point, which may be termed as centre also. Not only this. You have to concentrate at this centre even while you are taking your breath in or sending it out. Even while inhaling and exhaling you have to try to dwell at this centre with awareness. This is a super-conscious state, attainable through psychic energy.** 
 
-**न दिवा पूजयेद्देवं रात्रौ नैव च नैव च ।** 
-**अर्चयेद् देवदेवेशं दिनरात्रिपरिक्षये ॥** 
+<span class="center-text">न दिवा पूजयेद्देवं रात्रौ नैव च नैव च ।</span>
+<span class="center-text">अर्चयेद् देवदेवेशं दिनरात्रिपरिक्षये ॥</span>
 
 Meaning:
 
@@ -32,10 +32,10 @@ Day here means the out-going breath–prāṇa. Night means the in-coming breath
 
 **So you will succeed in spiritual practice only when you can remain aware at the junction, at the middle point. This is called madhya dhāma. I just told you:** `“na divā pūjayet devaṁ, rātrau naiva ca naiva ca.”` 
 
-**युञ्जन्नेवं सदात्मानं योगी नियतमानसः ।** 
-**शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥** 
+<span class="center-text">युञ्जन्नेवं सदात्मानं योगी नियतमानसः ।</span>
+<span class="center-text">शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥</span>
 
-**—Gītā VI.15.** 
+<span class="center-text">**—Gītā VI.15.**</span>
 
 Meaning:
 
@@ -57,8 +57,6 @@ Meaning:
 
 **You must follow your preceptor, your guide. Do not look for help from your fellow traveller. To get rid of all kinds of obstacles you must follow the instructions of your Guru alone. You must wait for his word and you must watch his hissing sound. That is the clear way for the purification of mind.** 
 
-That will do for today. 
-Rest on the next Sunday.
 
 ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
 
