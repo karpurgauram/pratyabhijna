@@ -1,5 +1,5 @@
 ---
-{"title":"external discipline","date":"2024-09-25","tags":["#discipline","#practices","#awareness","#sadhana","#yama","#niyama","#articles"],"publish":true,"path":"Practices/external discipline.md","permalink":"/practices/external-discipline/","PassFrontmatter":true}
+{"title":"external discipline","date":"2024-09-25","tags":["#discipline","#practices","#awareness","#sadhana","#yama","#niyama","#articles"],"publish":true,"path":"practices/external discipline.md","permalink":"/practices/external-discipline/","PassFrontmatter":true}
 ---
 
 
