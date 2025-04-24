@@ -88,6 +88,10 @@ And "namo ananta prakāśāya," He is the light of all lights. He is the light o
 
 "Śaṅkarakṣīra-sindhave," I bow to that Śaṅkara who is like an infinite ocean of sweet milk.
 
+<span class="center-text">**Reflections:**</span>
+This passage reverentially describes Śaṅkara as the infinite, pure consciousness, manifesting as both Bindu (Prakāśa – “I-consciousness”) and Nāda (vimarśa – self-reflective-awareness of that prakāśa). These two-fold positions of Śiva manifest in various sādhanā-s as incoming and outgoing-breath, knowledge-action and prakāśa-vimarśa. Unlike the common nectar that grants temporary immortality and was granted to devatā-s which is limited, Śiva is the eternal source of Śuddhamṛta – the nectar of pure consciousness. He is the origin of all light and darkness – an infinite, divine, milk-ocean of self-consciousness.
+
+
 <span class="center-text">द्विष्मस्त्वां त्वां स्तुमस्तुभ्यं</span>
 <span class="center-text">मन्त्रयामोऽम्बिकापते ॥</span>
 <span class="center-text">अतिवाल्लभ्यतः साधु</span>
@@ -106,3 +110,23 @@ Though I hate You sometimes, you should not care about that. I will sometimes pr
 Mantrayāma, I chant Your mantra, because I love You. Ativāllabhyataḥ, because I have nobody else. I have no one else to support or to lean on — only You. So whom should I hate? I will hate You! Because viśvaṅno dhṛtavānasi, I see you everywhere, in every form, in every thing.
 
 I see you everywhere, so I love you so much — I will hate you, praise you, hit you, kick you, embrace you — I will do everything, do everything to you.
+
+<span class="center-text">**Reflections:**</span>
+This passage expresses a very personal and intimate devotion to Lord Śiva, regarding Him as omnipresent in every form and the only beloved. Due to extreme love the devotee sometimes praises Him, sometimes gets angry – even hates – but all this arises from that deep love. When there is no other support, all emotions – even opposing ones – flow towards Him alone. Śiva becomes the only object of love, irritation and complete surrender.
+
+
+<span class="center-text">`संहृतस्पर्शयोगाय`</span>
+<span class="center-text">`संपूर्णामृतसूतये।`</span>
+<span class="center-text">`वियन्मायास्वरूपाय`</span>
+<span class="center-text">`विभवे शंभवे नमः ॥५॥`</span>
+
+<span class="center-text">`saṁhṛtasparśayogāya`</span>
+<span class="center-text">`saṁpūrṇāmṛtasūtaye |`</span>
+<span class="center-text">`viyanmāyāsvarūpāya`</span>
+<span class="center-text">`vibhave śaṁbhave namaḥ |5|`</span>
+
+I bow to Lord Śiva, who is beyond the attachment of touch. He does not touch, He is beyond the sense of touch. Because when we touch something beautiful, we feel bliss. But Lord Śiva has risen above that cycle of touch. And yet, He is full of bliss! It is a wonderful thing found only in Him that without touching, He is full of bliss. Normally, bliss without touch is not possible, but Śiva has bliss without touching. I bow to the all-pervading Lord Śiva, whose illusive energy dissolves itself into Himself and who pervades the entire universe. I forever venerate Lord Śiva.
+
+
+<span class="center-text">**Reflections:**</span>
+This passage highlights the transcendental nature of Lord Śiva that is beyond the need for sensory experiences – beyond the touch that normally provides bliss. Yet, in a wonderful phenomena, He is full of supreme bliss without any touch. His bliss does not depend on the senses, but arises spontaneously from His divine perfection. He is both Māyā (Limitation) and its dissolution (Absence of Limitation), and is the eternal power pervading all creation. This is the mystery and glory of Lord Śiva – untouched, yet completely blissful.
