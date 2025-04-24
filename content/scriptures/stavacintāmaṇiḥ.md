@@ -92,16 +92,16 @@ And "namo ananta prakāśāya," He is the light of all lights. He is the light o
 This passage reverentially describes Śaṅkara as the infinite, pure consciousness, manifesting as both Bindu (Prakāśa – “I-consciousness”) and Nāda (vimarśa – self-reflective-awareness of that prakāśa). These two-fold positions of Śiva manifest in various sādhanā-s as incoming and outgoing-breath, knowledge-action and prakāśa-vimarśa. Unlike the common nectar that grants temporary immortality and was granted to devatā-s which is limited, Śiva is the eternal source of Śuddhamṛta – the nectar of pure consciousness. He is the origin of all light and darkness – an infinite, divine, milk-ocean of self-consciousness.
 
 
-<span class="center-text">द्विष्मस्त्वां त्वां स्तुमस्तुभ्यं</span>
-<span class="center-text">मन्त्रयामोऽम्बिकापते ॥</span>
-<span class="center-text">अतिवाल्लभ्यतः साधु</span>
-<span class="center-text">विश्वङ्गो धृतवानसि ॥४॥</span>
+<span class="center-text">`द्विष्मस्त्वां त्वां स्तुमस्तुभ्यं`</span>
+<span class="center-text">`मन्त्रयामोऽम्बिकापते ॥`</span>
+<span class="center-text">`अतिवाल्लभ्यतः साधु`</span>
+<span class="center-text">`विश्वङ्गो धृतवानसि ॥४॥`</span>
 
-<span class="center-text">dviṣmastvāṁ tvāṁ</span>
-<span class="center-text">stumastubhyaṁ</span>
-<span class="center-text">mantrayāmo’mbikāpate |</span>
-<span class="center-text">ativāllabhyataḥ sādhu</span>
-<span class="center-text">viśvaṅno dhṛtavānasi |4|</span>
+<span class="center-text">`dviṣmastvāṁ tvāṁ`</span>
+<span class="center-text">`stumastubhyaṁ`</span>
+<span class="center-text">`mantrayāmo’mbikāpate |`</span>
+<span class="center-text">`ativāllabhyataḥ sādhu`</span>
+<span class="center-text">`viśvaṅno dhṛtavānasi |4|`</span>
 
 Oh Lord of My Sweet Mother Aṁbikā, Oh husband of my universal mother (the universal mother is Pārvati), Oh Lord of the Mother, O Lord Śiva, I love You so much. Ativāllabhyataḥ — I love You very much, I have great attachment to You. And because of this great attachment, sometimes I even hate You!
 
