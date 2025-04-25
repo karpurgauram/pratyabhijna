@@ -142,7 +142,7 @@ This passage highlights the transcendental nature of Lord Śiva that is beyond t
 <span class="center-text">`namāmaḥ sarvasāmānyaṁ`</span>
 <span class="center-text">`rūpaṁ tatpārameśvaram |6|`</span>
 
-I bow to that form of Lord Śiva who is common everywhere – who is seen everywhere in the same formation. For example, if there is a body, that body itself is Lord Śiva. If you cut that body into pieces – you will see Lord §iva cut into pieces. If you burn that body – you will see Lord Śiva burning.
+I bow to that form of Lord Śiva who is common everywhere – who is seen everywhere in the same formation. For example, if there is a body, that body itself is Lord Śiva. If you cut that body into pieces – you will see Lord Śiva cut into pieces. If you burn that body – you will see Lord Śiva burning.
 
 Bhinneṣvapi – that is, even in division of separatedness, He is not divided. He is one. In one form He is here, in another form in this webpage, in another form in this screen, and He appears in different forms in different things. But even in that difference, He is one.
 
