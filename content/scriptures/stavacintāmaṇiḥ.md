@@ -130,3 +130,29 @@ I bow to Lord Śiva, who is beyond the attachment of touch. He does not touch, H
 
 <span class="center-text">**Reflections:**</span>
 This passage highlights the transcendental nature of Lord Śiva that is beyond the need for sensory experiences – beyond the touch that normally provides bliss. Yet, in a wonderful phenomena, He is full of supreme bliss without any touch. His bliss does not depend on the senses, but arises spontaneously from His divine perfection. He is both Māyā (Limitation) and its dissolution (Absence of Limitation), and is the eternal power pervading all creation. This is the mystery and glory of Lord Śiva – untouched, yet completely blissful.
+
+
+<span class="center-text">`भिन्नेष्वपि न भिन्नं`</span>
+<span class="center-text">`यच्छिन्नेष्वच्छिन्नमेव च ।`</span>
+<span class="center-text">`नमामः सर्वसामान्यं`</span>
+<span class="center-text">`रूपं तत्पारमेश्वरम् ॥६॥`</span>
+
+<span class="center-text">`bhinneṣvapi na bhinnaṁ`</span>
+<span class="center-text">`yacchinneṣvacchinnameva ca |`</span>
+<span class="center-text">`namāmaḥ sarvasāmānyaṁ`</span>
+<span class="center-text">`rūpaṁ tatpārameśvaram |6|`</span>
+
+I bow to that form of Lord Śiva who is common everywhere – who is seen everywhere in the same formation. For example, if there is a body, that body itself is Lord Śiva. If you cut that body into pieces – you will see Lord §iva cut into pieces. If you burn that body – you will see Lord Śiva burning.
+
+Bhinneṣvapi – that is, even in division of separatedness, He is not divided. He is one. In one form He is here, in another form in this webpage, in another form in this screen, and He appears in different forms in different things. But even in that difference, He is one.
+
+Chineṣu acchinnameva cha – He remains unbroken even in the things which are cut. He is not cut – He is the same.
+
+Thus, that formation of Lord Śiva is everywhere same – the same everywhere in everything. Therefore he cannot be burnt, nor can he undergo any change. He is immutable even in all mutation, immovable even in all movements,  He is changeless in all changes.
+
+
+<span class="center-text">**Reflections:**</span>
+This passage contemplates the omnipresent and indivisible nature of Lord Śiva, who is equally present in every form and appearance. Whether the external forms burn, break or are fragmented – Śiva always remains complete, untouched and unbroken. He is unchanged even in changeability. Stillness in every movement, unity in every variation – this is the ultimate, omnipresent truth of Śiva.
+
+    
+   
