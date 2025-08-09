@@ -13,7 +13,7 @@ tags:
 
 <span class="center-text">☕ `sudo support – coffee=true`</span>
 
-<div class="center-header mantra_div mantra_devnagri"><img src="/metadata/images/upi.webp" height="30px"><strong>UPI:</strong> <p style="color: #442626;">karpurgauram@kotak</p> or <p style="color: #442626;">nagkumar@pingpay</p></div>
+<div class="center-header mantra_div mantra_devnagri"><img src="/metadata/images/upi.webp" height="30px"><strong>UPI:</strong> <p style="color: #442626;">karpurgauram@kotak</p> or <p style="color: #442626;">nagkumar@pingpay</p></div> or <p style="color: #442626;">nagkumar@axisbank</p></div> or <p style="color: #442626;">karpurgauram@axisbank</p></div>
 
 every contribution keeps the script running, the dharma deploying, and the transmission unbroken.
 
