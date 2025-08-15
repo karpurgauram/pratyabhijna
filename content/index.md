@@ -64,10 +64,11 @@ let karpurgauram be thy guiding lantern; thy muse; & thy companion upon this sac
 <span class="center-text">`ॐ नमः चिद्वपुषे॥`</span>
 
  `what's new`
-- [[practices/the-conquest-of-asana\|the conquest of asana]]
+- [[videos\|videos]]
+- [[scriptures/haracaritacintamani\|हरचरितचिन्तामणिः-the jewel of śiva’s deeds]]
+- [[-sacred-poetry/enchanting-a-witch-with-her-black-cat\|sacred_poetry]]
 - [[scriptures/dehasthadevatācakrastotram\|dehasthadevatācakrastotram]]
 - [[scriptures/anuttarashtika\|anuttarāṣṭikā]]
 - [[scriptures/bhairavastava\|bhairavastavaḥ]]
-- [[Trika/trika-is-everything\|trika is everything]]
-- [[videos\|videos]]
+
 
