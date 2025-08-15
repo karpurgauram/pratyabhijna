@@ -11,4 +11,6 @@ tags:
 
 [[scriptures/dehasthadevatācakrastotram|dehasthadevatācakrastotram]] — `ABHINAVAGUPTAḤ`02:02:2025.
 
+[[scriptures/haracaritacintamani|haracaritacintāmaṇiḥ]] — `RĀJĀNAKA JAYADRATHAḤ`<progress id="file" max="100" value="07">07%</progress>
+
 [[scriptures/stavacintamani|stavacintāmaṇiḥ]] — `BHAṬṬA NĀRĀYAṆA`<progress id="file" max="100" value="04">04%</progress>
