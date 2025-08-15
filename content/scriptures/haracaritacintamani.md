@@ -10,7 +10,7 @@ permalink: scriptures/haracaritacintamani
 path: scriptures/haracaritacintāmaṇi.md
 PassFrontmatter: true
 ---
-`काश्मीरिकमहामाहेश्वराचार्यराजानकश्रीजयद्रथविरचितो हरचरितचिन्तामणिः।`
+<span class="center-text">`काश्मीरिकमहामाहेश्वराचार्यराजानकश्रीजयद्रथविरचितो हरचरितचिन्तामणिः।`</span>
 
 <span class="center-text">**“the jewel of śiva’s deeds”**</span>
 
@@ -18,8 +18,8 @@ PassFrontmatter: true
 
 </div>
 
-`प्रथमः प्रकाशः - ज्वालालिङ्गावतारः ।`
-`prathamaḥ prakāśaḥ - jvālāliṅgāvatāraḥ |`
+<span class="center-text">`प्रथमः प्रकाशः - ज्वालालिङ्गावतारः ।`</span>
+<span class="center-text">`prathamaḥ prakāśaḥ - jvālāliṅgāvatāraḥ |`</span>
 
 <span class="center-text">`श्रीमृत्युजिते नमः ।`</span>
 <span class="center-text">`śrīmṛtyujite namaḥ |`</span>
