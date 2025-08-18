@@ -226,6 +226,54 @@ The proud Tārakāsura, who tormented the whole world, was overpowered by sheer 
 
 He who, taking the form of Śrī-Vijayeśāna, bestowed His grace upon many sages in the forest of austerities, doing so as if in mere play.
 
+<span class="center-text">`श्रीपिङ्गलेश्वरवपुर्य एव परमेश्वरः ।`</span>
+<span class="center-text">`अनुजग्राह दहनं विच्छायत्वमुपागतम् ॥ २६॥`</span>
+
+<span class="center-text">`śrīpiṅgaleśvaravapurya eva parameśvaraḥ |`</span>
+<span class="center-text">`anujagrāha dahanaṃ vicchāyatvamupāgatam || 26||`</span>
+
+He who, as the Supreme Lord in the form of Śrī-Piṅgaleśvara, received into Himself the Fire-god Agni, who had come to a shadow-like, diminished state
+
+<span class="center-text">`शक्तिर्भगवतो यस्य वितस्ता रूपमाश्रिता ।`</span>
+<span class="center-text">`चराचरस्य जगतो मार्क्षि कल्मषकर्दमम् ॥ २७॥`</span>
+
+<span class="center-text">`śaktirbhagavato yasya vitastā rūpamāśritā |`</span>
+<span class="center-text">`carācarasya jagato mārkṣi kalmaṣakardamam || 27||`</span>
+
+He whose divine Power, taking the form of the river Vitastā, washes away the mire of sin from the entire world, both moving and unmoving.
+
+<span class="center-text">`प्रज्वाल्य त्रिपुरं देवः सुराणां कल्पिताभयः ।`</span>
+<span class="center-text">`श्रीमत्स्वयम्भूनाथात्मा य उद्धरति भावितान् ॥ २८॥`</span>
+
+<span class="center-text">`prajvālya tripuraṃ devaḥ surāṇāṃ kalpitābhayaḥ |`</span>
+<span class="center-text">`śrīmatsvayambhūnāthātmā ya uddharati bhāvitān || 28||`</span>
+
+He who, having set ablaze the triple cities, granted safety to the gods, and — being the glorious self-manifested Lord (Svayambhūnātha) — lifts up the devoted.
+
+<span class="center-text">`काष्ठरूपत्वमादाय येन विश्वानुकम्पिना ।`</span>
+<span class="center-text">`महर्षयो वसिष्ठाद्याः क्रीडयैव विमोहिताः ॥ २९॥`</span>
+
+<span class="center-text">`kāṣṭharūpatvamādāya yena viśvānukampinā |`</span>
+<span class="center-text">`maharṣayo vasiṣṭhādyāḥ krīḍayaiva vimohitāḥ || 29||`</span>
+
+He who, in compassion to the world, assuming the form of a wooden log, merely in play, bewildered the great sages such as Vasiṣṭha.
+
+<span class="center-text">`येनेश्वरेण भक्तानां दधता चण्डरुद्र(द्ध)ताम् ।`</span>
+<span class="center-text">`स्वीयं पवित्रं निर्माल्यं भुक्तये परिकल्पितम् ॥ ३०॥`</span>
+
+<span class="center-text">`yeneśvareṇa bhaktānāṃ dadhatā caṇḍarudra(ddha)tām |`</span>
+<span class="center-text">`svīyaṃ pavitraṃ nirmālyaṃ bhuktaye parikalpitam || 30||`</span>
+
+It is that Lord who, bestowing upon His devotees the fierce state of Rudra Himself, has made His own sacred nirmālya—the offerings used in His worship—pure and fit for them to partake of. (*Importance of Nirmālya)
+
+<span class="center-text">`तिथ्यादिसङ्घट्टनया समस्ता अपि देहिनः ।`</span>
+<span class="center-text">`प्रभोर्यस्यैव माहात्म्यात्प्राप्नुवन्त्युत्तमां गतिम् ॥ ३१॥`</span>
+
+<span class="center-text">`tithyādisaṅghaṭṭanayā samastā api dehinaḥ |`</span>
+<span class="center-text">`prabhoryasyaiva māhātmyātprāpnuvantyuttamāṃ gatim || 31||`</span>
+
+Through the conjunction of sacred occasions—such as holy lunar days and festivals—all embodied beings attain the highest state, solely by the greatness of that Lord. (*Importance of special occasions such as Śivarātri, Pradosha etc)
+
 TRANSLATING....
 <progress id="file" max="100" value="10">10%</progress>
 
