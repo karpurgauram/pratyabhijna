@@ -23,5 +23,5 @@ tags:
 *by the grace of the eternal dharma, thou art invited to extend thy thoughts unto him, should thou yearn to unravel the veiled mysteries of existence or to drink deeply of the spiritual nectar that bindeth all things.*
 
 <div class="center-header">
-OWNER — <a href="https://telegram.me/karpurgauram"> <button class="btn-14" type="button" >[Ｎａｇｋｕｍａｒ です]</button></a> & DEV — <a href="https://neovoid.is-cool.dev"><button class="btn-14" type="button">[Neovoid]</button></a> 
+OWNER — <a href="https://telegram.me/karpurgauram"> <button class="btn-14" type="button" >[Ｎａｇｋｕｍａｒ です]</button></a> & DEV — <a
 </div>
