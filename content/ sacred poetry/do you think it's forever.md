@@ -57,7 +57,11 @@ but i never had two;
 and i can’t have fun—
 if i can’t have...you!!!
 
-hey, what could you possibly give to the soul who has everything and nothing at once? babe, i would trade my siddhi-s for someone to trust...just kidding'
+hey, what could you possibly 
+give to the soul who has everything 
+and nothing at once? 
+babe, i would trade my siddhi-s 
+for someone to trust...just kidding'
 
 we hit the secret cave—
 in parabhairava’s trance;
