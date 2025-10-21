@@ -10,6 +10,7 @@ permalink: scriptures/svacchandabhairavasvarupavarnanam
 PassFrontmatter: true
 ---
 **⚝ Here Unfolds the Splendour of the Self-Willed Supreme ⚝**
+
 —Referring to Svacchandabhairava’s Iconic Pañcamukha Form
 
 
@@ -21,23 +22,23 @@ PassFrontmatter: true
 
 sanskṛt transcript:—
 
-`त्रिपंचनयनं देवं जटा`
+<span class="center-text">`त्रिपंचनयनं देवं जटा`</span>
 
-`मुकुट मण्डितम्।`
+<span class="center-text">`मुकुट मण्डितम्।`</span>
 
-`चन्द्रकोटि प्रतीकाशं`
+<span class="center-text">`चन्द्रकोटि प्रतीकाशं`</span>
 
-`चन्द्रार्ध कृत शेखरम्॥०१॥` 
+<span class="center-text">`चन्द्रार्ध कृत शेखरम्॥०१॥`</span>
 
 transliteration:—
 
-`tripaṃcanayanaṃ devaṃ`
+<span class="center-text">`tripaṃcanayanaṃ devaṃ`</span>
 
-`jaṭā mukuṭa maṇḍitam|`
+<span class="center-text">`jaṭā mukuṭa maṇḍitam|`</span>
 
-`candrakoṭi pratīkāśaṃ`
+<span class="center-text">`candrakoṭi pratīkāśaṃ`</span>
 
-`candrārdha kṛta śekharam |01|`
+<span class="center-text">`candrārdha kṛta śekharam |01|`</span>
 
 translation:— 
 
@@ -66,23 +67,23 @@ candrārdha kṛta śekharam – the crescent moon adorning the head, i.e., the 
 
 sanskṛt transcript:—
 
-`पञ्चवक्त्रं विशालाक्षं`
+<span class="center-text">`पञ्चवक्त्रं विशालाक्षं`</span>
 
-`सर्पगोनास मण्डितम्।`
+<span class="center-text">`सर्पगोनास मण्डितम्।`</span>
 
-`वृश्चिकैः अग्निवर्णाभैः`
+<span class="center-text">`वृश्चिकैः अग्निवर्णाभैः`</span>
 
-`हारेण तु विराजितम्॥२॥`
+<span class="center-text">`हारेण तु विराजितम्॥२॥`</span>
 
 transliteration:—
 
-`pañcavaktraṃ viśālākṣaṃ`
+<span class="center-text">`pañcavaktraṃ viśālākṣaṃ`</span>
 
-`sarpagonāsa maṇḍitam|`
+<span class="center-text">`sarpagonāsa maṇḍitam|`</span>
 
-`vṛścikaiḥ agnivarṇābhaiḥ`
+<span class="center-text">`vṛścikaiḥ agnivarṇābhaiḥ`</span>
 
-`hāreṇa tu virājitam|2|`
+<span class="center-text">`hāreṇa tu virājitam|2|`</span>
 
 translation:—
 
