@@ -9,7 +9,9 @@ path: scriptures/svacchandabhairavasvarupavarnanam.md
 permalink: scriptures/svacchandabhairavasvarupavarnanam
 PassFrontmatter: true
 ---
-**⚝ Here Unfolds the Splendour of the Self-Willed Supreme—Referring to Svacchandabhairava’s Iconic Pañcamukha Form ⚝**
+**⚝ Here Unfolds the Splendour of the Self-Willed Supreme ⚝**
+
+**—Referring to Svacchandabhairava’s Iconic Pañcamukha Form ⚝**
 
 
 **॥ अथ श्री स्वच्छन्दभैरवस्वरूपवर्णनम् ॥** 
@@ -21,15 +23,21 @@ PassFrontmatter: true
 sanskṛt transcript:—
 
 `त्रिपंचनयनं देवं जटा`
+
 `मुकुट मण्डितम्।`
+
 `चन्द्रकोटि प्रतीकाशं`
+
 `चन्द्रार्ध कृत शेखरम्॥०१॥` 
 
 transliteration:—
 
 `tripaṃcanayanaṃ devaṃ`
+
 `jaṭā mukuṭa maṇḍitam|`
+
 `candrakoṭi pratīkāśaṃ`
+
 `candrārdha kṛta śekharam |01|`
 
 translation:— 
@@ -60,15 +68,21 @@ candrārdha kṛta śekharam – the crescent moon adorning the head, i.e., the 
 sanskṛt transcript:—
 
 `पञ्चवक्त्रं विशालाक्षं`
+
 `सर्पगोनास मण्डितम्।`
+
 `वृश्चिकैः अग्निवर्णाभैः`
+
 `हारेण तु विराजितम्॥२॥`
 
 transliteration:—
 
 `pañcavaktraṃ viśālākṣaṃ`
+
 `sarpagonāsa maṇḍitam|`
+
 `vṛścikaiḥ agnivarṇābhaiḥ`
+
 `hāreṇa tu virājitam|2|`
 
 translation:—
