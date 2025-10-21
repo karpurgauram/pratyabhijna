@@ -10,8 +10,7 @@ permalink: scriptures/svacchandabhairavasvarupavarnanam
 PassFrontmatter: true
 ---
 **⚝ Here Unfolds the Splendour of the Self-Willed Supreme ⚝**
-
-**—Referring to Svacchandabhairava’s Iconic Pañcamukha Form ⚝**
+—Referring to Svacchandabhairava’s Iconic Pañcamukha Form
 
 
 **॥ अथ श्री स्वच्छन्दभैरवस्वरूपवर्णनम् ॥** 
