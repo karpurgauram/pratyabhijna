@@ -9,8 +9,6 @@ path: scriptures/svacchandabhairavasvarupavarnanam.md
 permalink: scriptures/svacchandabhairavasvarupavarnanam
 PassFrontmatter: true
 ---
-<div style="background-color: rgba(66, 23, 47, 0.44); backdrop-filter: blur(10.5px); -webkit-backdrop-filter: blur(10px); border-radius: 10px;  padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-<pre style="text-align: center;">  
 ⚝ Here Unfolds the Splendour of the Self-Willed Supreme—Referring to Svacchandabhairava’s Iconic Pañcamukha Form ⚝
 
 
@@ -67,5 +65,3 @@ vṛścikaiḥ – adorned with a garland of red scorpions.
 agnivarṇābhaiḥ – scorpions of fiery red color are the most dangerous when they sting. svachchandnāth wears a garland of such red scorpions around his neck. the red scorpion symbolizes the power of attachment, pride, jealousy, and disappearance. when stung by any one of these four, the practitioner becomes disturbed.
 
 <progress id="file" max="100" value="02">02%</progress>
-</pre>
-</div>
