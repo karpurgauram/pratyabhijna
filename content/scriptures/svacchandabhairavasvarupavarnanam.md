@@ -20,7 +20,7 @@ PassFrontmatter: true
 
 —thus begins the description of the form of śrī svacchandabhairava.
 
-sanskṛt transcript:—
+<span class="center-text">sanskṛt transcript:—</span>
 
 <span class="center-text">`त्रिपंचनयनं देवं जटा`</span>
 
@@ -30,7 +30,7 @@ sanskṛt transcript:—
 
 <span class="center-text">`चन्द्रार्ध कृत शेखरम्॥०१॥`</span>
 
-transliteration:—
+<span class="center-text">transliteration:—</span>
 
 <span class="center-text">`tripaṃcanayanaṃ devaṃ`</span>
 
@@ -40,7 +40,7 @@ transliteration:—
 
 <span class="center-text">`candrārdha kṛta śekharam |01|`</span>
 
-translation:— 
+<span class="center-text">translation:—</span>
 
 [tri-tin (three), paṃca (five), nayanaṃ (eye) means that each face of the five-faced svachchhanda bhairava has three eyes. the five faces represent consciousness (cit), bliss (ānanda), will (icchā), knowledge (jñāna), and action (kriyā). the three eyes symbolize creation (ṣṛṣṭī), preservation (sṭhiti), and destruction (saṃhāra). the combination of these three actions of creation, preservation, and destruction with the five powers of consciousness, bliss, will, knowledge, and action results in the manifestation of 3 x 5 = 15 eyes.
 
@@ -65,7 +65,7 @@ candrakoṭi pratīkāśaṃ – shining like millions of moons. the white light
 candrārdha kṛta śekharam – the crescent moon adorning the head, i.e., the main form bearing the crescent moon. the half-moon is the nectar art that pervades the 118 universes and symbolizes the power of consciousness.>)
 
 
-sanskṛt transcript:—
+<span class="center-text">sanskṛt transcript:—</span>
 
 <span class="center-text">`पञ्चवक्त्रं विशालाक्षं`</span>
 
@@ -75,7 +75,7 @@ sanskṛt transcript:—
 
 <span class="center-text">`हारेण तु विराजितम्॥२॥`</span>
 
-transliteration:—
+<span class="center-text">transliteration:—</span>
 
 <span class="center-text">`pañcavaktraṃ viśālākṣaṃ`</span>
 
@@ -85,7 +85,7 @@ transliteration:—
 
 <span class="center-text">`hāreṇa tu virājitam|2|`</span>
 
-translation:—
+<span class="center-text">translation:—</span>
 
 pañcavaktraṃ - having five faces. these five faces symbolically represent the aspects of śrī bhairava: cit śakti (consciousness power), ānand śakti (bliss power), ìcchā śakti (will power), jñāna śakti (knowledge power), and kriyā śakti (action power).
 
