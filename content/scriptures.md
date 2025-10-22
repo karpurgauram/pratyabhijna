@@ -17,5 +17,5 @@ tags:
 
 [[scriptures/svacchandabhairavasvarupavarnanam|atha śrī svacchandabhairavasvarūpavarṇanam]] — `śrī svacchanda tantra`<progress id="file" max="100" value="02">02%</progress> 
 
-new....
+
 
