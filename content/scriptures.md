@@ -16,3 +16,6 @@ tags:
 [[scriptures/stavacintamani|stavacintāmaṇiḥ]] — `BHAṬṬA NĀRĀYAṆA`<progress id="file" max="100" value="04">04%</progress> i am translating it but i have done this live in telegram vc so it's taking me long to turn those audios into text ;)
 
 [[scriptures/svacchandabhairavasvarupavarnanam|atha śrī svacchandabhairavasvarūpavarṇanam]] — `śrī svacchanda tantra`<progress id="file" max="100" value="02">02%</progress> 
+
+new....
+
