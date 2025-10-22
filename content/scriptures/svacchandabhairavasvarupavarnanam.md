@@ -14,9 +14,9 @@ PassFrontmatter: true
 —Referring to Svacchandabhairava’s Iconic Pañcamukha Form
 
 
-**॥ अथ श्री स्वच्छन्दभैरवस्वरूपवर्णनम् ॥** 
+<span class="center-text">`**॥ अथ श्री स्वच्छन्दभैरवस्वरूपवर्णनम् ॥**`</span>
 
-**॥ atha śrī svacchandabhairavasvarūpavarṇanam ॥**
+<span class="center-text">`**॥ atha śrī svacchandabhairavasvarūpavarṇanam ॥**`</span>
 
 —thus begins the description of the form of śrī svacchandabhairava.
 
