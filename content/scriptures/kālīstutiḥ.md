@@ -1,6 +1,6 @@
 ---
 title: kalistutih
-date: 2025-10-22
+date: 2025-10-24
 tags:
   - kramasadbhāvaḥ
   - kālīstutiḥ
@@ -18,9 +18,9 @@ PassFrontmatter: true
 
 <span class="center-text">`श्रीभैरव उवाच।`</span>
 
-<span class="center-text">`Śrībhairava uvāca|</span>
+<span class="center-text">`Śrībhairava uvāca|`</span>
 
-The Honorable (śrī) Bhairava (bhairavaḥ) spoke (uvāca):
+<span class="center-text">The Honorable (śrī) Bhairava (bhairavaḥ) spoke (uvāca):</span>
 
 <span class="center-text">`ॐ नमस्ते देवदेवेशि महाकालि नमोऽस्तु ते।`</span>
 <span class="center-text">`नमोऽस्तु परमानन्दे निरानन्दे नमोऽस्तु ते॥१॥`</span>
