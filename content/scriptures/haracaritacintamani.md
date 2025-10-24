@@ -298,8 +298,8 @@ Since obstacles naturally obstruct those engaged in virtuous deeds, it was that 
 
 It was He who, to the sage Upamanyu absorbed in intense devotion and austerity, provided an ocean of milk and, along with it, bestowed true knowledge.
 
-वासुदेवो महादेवाद्यस्माद्बदरिकाश्रमे ।
-तपस्यन्नुत्तमान्प्राप वरान्स्वहृदयेप्सितान् ॥ ३५॥
+<span class="center-text">`वासुदेवो महादेवाद्यस्माद्बदरिकाश्रमे ।`</span>
+<span class="center-text">`तपस्यन्नुत्तमान्प्राप वरान्स्वहृदयेप्सितान् ॥ ३५॥`</span>
 
 <span class="center-text">`vāsudevo mahādevādyasmādbadarikāśrame |`</span>
 <span class="center-text">`tapasyannuttamānprāpa varānsvahṛdayepsitān || 35||`</span>
@@ -308,4 +308,4 @@ It was to Mahādeva that Vāsudeva, performing austerities at Badarikāśrama, o
 TRANSLATING....
 <progress id="file" max="100" value="10">10%</progress>
 
-**— Translated by SUDHIR**
+— Translated by SUDHIR.
