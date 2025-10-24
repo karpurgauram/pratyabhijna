@@ -69,7 +69,7 @@ let karpurgauram be thy guiding lantern; thy muse; & thy companion upon this sac
 - [[scriptures/haracaritacintamani|haracaritacintāmaṇiḥ]]
 - [[scriptures/svacchandabhairavasvarupavarnanam|atha śrī svacchandabhairavasvarūpavarṇanam]]
 - [[sacred poetry/do you think it's forever|do you think it's forever? peom]]
-- [[-sacred-poetry/enchanting-a-witch-with-her-black-cat\|sacred_poetry]]
+- [[sacred-poetry/enchanting-a-witch-with-her-black-cat\|enchanting a witch with her black-cat]]
 - [[scriptures/dehasthadevatācakrastotram\|dehasthadevatācakrastotram]]
 - [[scriptures/anuttarashtika\|anuttarāṣṭikā]]
 - [[scriptures/bhairavastava\|bhairavastavaḥ]]
