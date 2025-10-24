@@ -63,9 +63,12 @@ let karpurgauram be thy guiding lantern; thy muse; & thy companion upon this sac
 
 <span class="center-text">`ॐ नमः चिद्वपुषे॥`</span>
 
- `what's new`
+ `updates`
 - [[videos\|videos]]
-- [[scriptures/haracaritacintamani\|हरचरितचिन्तामणिः-the jewel of śiva’s deeds]]
+- [[scriptures/kalistuti|kālīstutiḥ]]
+- [[scriptures/haracaritacintamani|haracaritacintāmaṇiḥ]]
+- [[scriptures/svacchandabhairavasvarupavarnanam|atha śrī svacchandabhairavasvarūpavarṇanam]]
+- [[sacred poetry/do you think it's forever|do you think it's forever? peom]]
 - [[-sacred-poetry/enchanting-a-witch-with-her-black-cat\|sacred_poetry]]
 - [[scriptures/dehasthadevatācakrastotram\|dehasthadevatācakrastotram]]
 - [[scriptures/anuttarashtika\|anuttarāṣṭikā]]
