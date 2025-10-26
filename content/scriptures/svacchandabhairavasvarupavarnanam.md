@@ -18,7 +18,7 @@ PassFrontmatter: true
 
 <span class="center-text">**॥ atha śrī svacchandabhairavasvarūpavarṇanam ॥**</span>
 
-<span class="center-text">—thus begins the description of the form of śrī svacchandabhairava.`</span>
+<span class="center-text">—thus begins the description of the form of śrī svacchandabhairava.</span>
 
 <span class="center-text">sanskṛt transcript:—</span>
 <span class="center-text">`त्रिपंचनयनं देवं जटा`</span>
@@ -84,7 +84,7 @@ agnivarṇābhaiḥ – scorpions of fiery red color are the most dangerous when
 <span class="center-text">`पाशाङ्कशधरं देवं`</span>
 <span class="center-text">`शरहस्तं पिनाकिनम्॥३॥`</span>
 
-<span class="center-text">transliteration:—`</span>
+<span class="center-text">`transliteration:—`</span>
 <span class="center-text">`kapālamālābharaṇaṃ`</span>
 <span class="center-text">`khaḍga kheṭaka dhāriṇam|`</span>
 <span class="center-text">`pāśāṅkaśadharaṃ devaṃ`</span>
