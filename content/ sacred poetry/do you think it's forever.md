@@ -5,6 +5,7 @@ title: do you think it's forever?
 tags:
   - sacred_poetry
   - alterego
+  - thatmysteriousguy
 date: 2025-10-21
 publish: true
 path: sacred poetry/do you think it's forever.md
@@ -120,8 +121,8 @@ and i can’t have fun—
 if i can’t have...you!!!!!
 
 —`that mysterious guy [alter-ego]`.
-—*inspired by queen taylor swift from her TLOS-ELIZABETH TAYLOR SONG*.
-
+—*inspired by queen taylor swift;
+from her TLOS-ELIZABETH TAYLOR SONG*.
 ——
 </pre>
 </div>
