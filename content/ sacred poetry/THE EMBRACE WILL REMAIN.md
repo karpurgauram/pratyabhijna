@@ -1,13 +1,13 @@
 ---
-title: STILL I REMAIN, THE SAME
+title: THE EMBRACE WILL REMAIN
 tags:
   - kali
   - embrace
   - late_night_union
 date: 2025-11-02
 publish: true
-path: /sacred poetry/still-i-remain-the-same
-permalink: /sacred poetry/still-i-remain-the-same.md
+path: /sacred poetry/the-embrace-will-remain
+permalink: /sacred poetry/the-embrace-will-remain.md
 PassFrontmatter: true
 ---
 <div style="background-color: rgba(66, 23, 47, 0.44); backdrop-filter: blur(10.5px); -webkit-backdrop-filter: blur(10px); border-radius: 10px;  padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
